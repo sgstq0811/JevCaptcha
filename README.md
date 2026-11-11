@@ -23,6 +23,7 @@ controls on the page. No model is fine-tuned.
 | `code/tools.py` | Florence-2 OCR candidates for the `type` skill (disk-cached) |
 | `code/ocw_generic.py` | step-wise agent baseline |
 | `code/cog_direct.py`, `code/mca_direct.py` | direct-prompting baselines |
+| `code/api_direct.py` | direct prompting of API models (OpenAI-compatible endpoint in `API_BASE`, key file in `API_KEY_FILE`) |
 | `code/cog_tasks.py`, `code/hal_score_official.py`, `code/mca_tasks.py` | official task builders and scorers |
 | `code/theory_data.py`, `code/theory_analysis.py` | records and analysis for the aggregation-rule checks |
 | `results/` | per-challenge results of the frozen library (see below) |
@@ -73,6 +74,7 @@ python mca_skills.py --out ../results/mca.jsonl
 | `hal_x_*.jsonl` | crossed router x scorer on the 150 differently routed Halligan challenges | |
 | `ocw_new245_qwen.jsonl`, `cog_rest_qwen.json`, `cog_ext_qwen.json`, `mca_qwenlib.jsonl` | held-out sets, same library with Qwen3.5-9B (MCA with first-token scoring) | 96 / 245, 29 / 75, 2 / 80, 309 / 2000 |
 | `cog_rest_direct.json`, `mca_direct_qwen9b.jsonl` | held-out sets, Qwen3.5-9B direct prompting (MCA coordinates are 0-1000; rescale to pixels before scoring) | 18 / 75, 472 / 2000 |
+| `api_*_gpt-6-sol.*`, `api_*_gemini-3.1-pro-preview*` | held-out sets, gpt-6-sol / Gemini-3.1-Pro direct prompting (MCA Gemini coordinates rescaled to pixels in `_px`) | COGNITION outside main 41 / 30 of 75, unseen families 48 / 62 of 80, MCA 1129 / 862 of 2000 |
 | `ocw_new245_stepwise.jsonl` | OCW new challenges, step-wise agent | 49 / 245 |
 | `ocwnew_n_*.jsonl`, `cogrest_n_*.json`, `mca_n_*.jsonl` | held-out sets, library with one rule replaced by a naive rule (`ABL=indep/top1/gap/assign/nover`) | |
 
