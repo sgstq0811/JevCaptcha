@@ -7,6 +7,7 @@ import numpy as np
 from PIL import Image, ImageDraw
 from ocw_policy import Policy, DIRS, NUM, choice, argmax, match, grid_boxes
 from hal_data import img
+NOVER = "nover" in os.environ.get("ABL", "").split(",")   # variant: the most likely reading, no verification
 
 
 def icon_img(b64):
@@ -325,6 +326,8 @@ class HalPolicy(Policy):
             cands.append("".join(ch for k, ch in enumerate(txt) if k == 0 or ch != txt[k - 1]))
             if lexicon:
                 cands += self.lexicon_decode(ds, lexicon)
+        if NOVER:
+            return cands[0]
         cands += list(extra)                            # readings proposed by a tool (generic skill library)
         cands = list(dict.fromkeys(cands))
         # verification of every candidate reading on the whole image
@@ -414,6 +417,8 @@ class HalPolicy(Policy):
             lp = [{ch: np.log(v + 1e-6) for ch, v in d.items()} for d in ds]
             ws = sorted(self.lex.get(n, []), key=lambda w: -sum(lp[i][ch] for i, ch in enumerate(w)))[:6]
             cands += ws or ["".join(max(d, key=d.get) for d in ds)]
+        if NOVER:
+            return cands[0]
         cands = list(dict.fromkeys(cands))
         v = self.clef.decide([self.rec(st, [im], {"v": {"type": "noul", "instructions": f"Does the word in this image read exactly '{s}'?"}}) for s in cands])
         pv = [d["v"]["true"] for d in v]

@@ -239,7 +239,7 @@ class SkillAgent(GenericAgent):
         if len(cands) != 8 and "dirsep" not in ABL:     # separate pictures: each read like the reference
             return match(pr, self.read(st, cands, q))
         cs = self.read(st, cands, choice("This object is turned by the buttons. In which direction does the top of the object (its head or upper side) point?", DIRS))
-        if len(cs) != 8:
+        if len(cs) != 8 or "indep" in ABL:            # variant indep: match every state on its own (no joint heading)
             return match(pr, cs)
         res = []
         for step in (1, -1):                           # either turning sense

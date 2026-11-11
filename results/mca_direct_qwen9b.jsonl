@@ -1,0 +1,2000 @@
+{"task": "color", "i": 0, "pred": "(406,930)", "gold": "(102,200)", "ok": false}
+{"task": "color", "i": 1, "pred": "(483, 120)", "gold": "(147,37)", "ok": false}
+{"task": "color", "i": 2, "pred": "(143,770)", "gold": "(47,149)", "ok": false}
+{"task": "color", "i": 3, "pred": "(473,200)", "gold": "(118,46)", "ok": false}
+{"task": "color", "i": 4, "pred": "(400,629)", "gold": "(98,115)", "ok": false}
+{"task": "color", "i": 5, "pred": "(123,360)", "gold": "(39,81)", "ok": false}
+{"task": "color", "i": 6, "pred": "(342,270)", "gold": "(87,61)", "ok": false}
+{"task": "color", "i": 7, "pred": "(773,125)", "gold": "(175,32)", "ok": false}
+{"task": "color", "i": 8, "pred": "(608, 239)", "gold": "(150,61)", "ok": false}
+{"task": "color", "i": 9, "pred": "(755,110)", "gold": "(173,31)", "ok": false}
+{"task": "color", "i": 10, "pred": "(781, 470)", "gold": "(169,89)", "ok": false}
+{"task": "color", "i": 11, "pred": "(623, 325)", "gold": "(145,74)", "ok": false}
+{"task": "color", "i": 12, "pred": "(200,900)", "gold": "(67,201)", "ok": false}
+{"task": "color", "i": 13, "pred": "(417, 937)", "gold": "(96,199)", "ok": false}
+{"task": "color", "i": 14, "pred": "(294, 831)", "gold": "(73,154)", "ok": false}
+{"task": "color", "i": 15, "pred": "(200,370)", "gold": "(71,70)", "ok": false}
+{"task": "color", "i": 16, "pred": "(462, 770)", "gold": "(101,158)", "ok": false}
+{"task": "color", "i": 17, "pred": "(169,240)", "gold": "(45,52)", "ok": false}
+{"task": "color", "i": 18, "pred": "(747, 805)", "gold": "(175,150)", "ok": false}
+{"task": "color", "i": 19, "pred": "(473, 449)", "gold": "(116,95)", "ok": false}
+{"task": "color", "i": 20, "pred": "(805,500)", "gold": "(180,113)", "ok": false}
+{"task": "color", "i": 21, "pred": "(572, 905)", "gold": "(135,192)", "ok": false}
+{"task": "color", "i": 22, "pred": "(623, 870)", "gold": "(161,186)", "ok": false}
+{"task": "color", "i": 23, "pred": "(605,300)", "gold": "(146,69)", "ok": false}
+{"task": "color", "i": 24, "pred": "(583, 620)", "gold": "(147,138)", "ok": false}
+{"task": "color", "i": 25, "pred": "(157,665)", "gold": "(47,139)", "ok": false}
+{"task": "color", "i": 26, "pred": "(613, 851)", "gold": "(131,184)", "ok": false}
+{"task": "color", "i": 27, "pred": "(273, 905)", "gold": "(81,183)", "ok": false}
+{"task": "color", "i": 28, "pred": "(638, 851)", "gold": "(152,163)", "ok": false}
+{"task": "color", "i": 29, "pred": "(62,219)", "gold": "(22,51)", "ok": false}
+{"task": "color", "i": 30, "pred": "(169,352)", "gold": "(46,69)", "ok": false}
+{"task": "color", "i": 31, "pred": "(292, 660)", "gold": "(79,124)", "ok": false}
+{"task": "color", "i": 32, "pred": "(773,130)", "gold": "(171,36)", "ok": false}
+{"task": "color", "i": 33, "pred": "(553, 820)", "gold": "(121,170)", "ok": false}
+{"task": "color", "i": 34, "pred": "(206,608)", "gold": "(59,129)", "ok": false}
+{"task": "color", "i": 35, "pred": "(80,731)", "gold": "(29,162)", "ok": false}
+{"task": "color", "i": 36, "pred": "(102, 660)", "gold": "(25,132)", "ok": false}
+{"task": "color", "i": 37, "pred": "(102, 851)", "gold": "(32,181)", "ok": false}
+{"task": "color", "i": 38, "pred": "(239,500)", "gold": "(61,106)", "ok": false}
+{"task": "color", "i": 39, "pred": "(795,310)", "gold": "(155,61)", "ok": false}
+{"task": "color", "i": 40, "pred": "(672, 500)", "gold": "(152,102)", "ok": false}
+{"task": "color", "i": 41, "pred": "(747,532)", "gold": "(165,109)", "ok": false}
+{"task": "color", "i": 42, "pred": "(532, 350)", "gold": "(143,78)", "ok": false}
+{"task": "color", "i": 43, "pred": "(500,319)", "gold": "(127,58)", "ok": false}
+{"task": "color", "i": 44, "pred": "(71,842)", "gold": "(27,176)", "ok": false}
+{"task": "color", "i": 45, "pred": "(81,545)", "gold": "(23,120)", "ok": false}
+{"task": "color", "i": 46, "pred": "(397, 905)", "gold": "(81,189)", "ok": false}
+{"task": "color", "i": 47, "pred": "(113,270)", "gold": "(36,63)", "ok": false}
+{"task": "color", "i": 48, "pred": "(580, 870)", "gold": "(133,183)", "ok": false}
+{"task": "color", "i": 49, "pred": "(162,630)", "gold": "(50,131)", "ok": false}
+{"task": "color", "i": 50, "pred": "(102,151)", "gold": "(32,32)", "ok": false}
+{"task": "color", "i": 51, "pred": "(102, 345)", "gold": "(28,68)", "ok": false}
+{"task": "color", "i": 52, "pred": "(500, 913)", "gold": "(120,199)", "ok": false}
+{"task": "color", "i": 53, "pred": "(835,202)", "gold": "(186,34)", "ok": false}
+{"task": "color", "i": 54, "pred": "(592,260)", "gold": "(137,66)", "ok": false}
+{"task": "color", "i": 55, "pred": "(747, 805)", "gold": "(158,152)", "ok": false}
+{"task": "color", "i": 56, "pred": "(192,705)", "gold": "(53,155)", "ok": false}
+{"task": "color", "i": 57, "pred": "(409,700)", "gold": "(92,146)", "ok": false}
+{"task": "color", "i": 58, "pred": "(805, 831)", "gold": "(173,173)", "ok": false}
+{"task": "color", "i": 59, "pred": "(305,202)", "gold": "(91,48)", "ok": false}
+{"task": "color", "i": 60, "pred": "(846,851)", "gold": "(199,187)", "ok": false}
+{"task": "color", "i": 61, "pred": "(114,149)", "gold": "(34,34)", "ok": false}
+{"task": "color", "i": 62, "pred": "(873, 705)", "gold": "(202,152)", "ok": false}
+{"task": "color", "i": 63, "pred": "(830, 170)", "gold": "(192,45)", "ok": false}
+{"task": "color", "i": 64, "pred": "(173,470)", "gold": "(49,104)", "ok": false}
+{"task": "color", "i": 65, "pred": "(123,500)", "gold": "(40,119)", "ok": false}
+{"task": "color", "i": 66, "pred": "(300, 859)", "gold": "(82,177)", "ok": false}
+{"task": "color", "i": 67, "pred": "(71,842)", "gold": "(27,163)", "ok": false}
+{"task": "color", "i": 68, "pred": "(173,750)", "gold": "(57,154)", "ok": false}
+{"task": "color", "i": 69, "pred": "(158,750)", "gold": "(47,139)", "ok": false}
+{"task": "color", "i": 70, "pred": "(812, 770)", "gold": "(193,159)", "ok": false}
+{"task": "color", "i": 71, "pred": "(750,700)", "gold": "(174,145)", "ok": false}
+{"task": "color", "i": 72, "pred": "(262,560)", "gold": "(69,127)", "ok": false}
+{"task": "color", "i": 73, "pred": "(173, 820)", "gold": "(52,165)", "ok": false}
+{"task": "color", "i": 74, "pred": "(623, 870)", "gold": "(140,179)", "ok": false}
+{"task": "color", "i": 75, "pred": "(397,575)", "gold": "(95,111)", "ok": false}
+{"task": "color", "i": 76, "pred": "(583, 820)", "gold": "(131,156)", "ok": false}
+{"task": "color", "i": 77, "pred": "(169, 865)", "gold": "(49,188)", "ok": false}
+{"task": "color", "i": 78, "pred": "(792,500)", "gold": "(165,113)", "ok": false}
+{"task": "color", "i": 79, "pred": "(406,600)", "gold": "(81,131)", "ok": false}
+{"task": "color", "i": 80, "pred": "(599, 87)", "gold": "(159,26)", "ok": false}
+{"task": "color", "i": 81, "pred": "(800,190)", "gold": "(175,41)", "ok": false}
+{"task": "color", "i": 82, "pred": "(406,319)", "gold": "(92,77)", "ok": false}
+{"task": "color", "i": 83, "pred": "(805, 803)", "gold": "(180,168)", "ok": false}
+{"task": "color", "i": 84, "pred": "(70,704)", "gold": "(26,161)", "ok": false}
+{"task": "color", "i": 85, "pred": "(173,240)", "gold": "(47,63)", "ok": false}
+{"task": "color", "i": 86, "pred": "(560, 883)", "gold": "(116,188)", "ok": false}
+{"task": "color", "i": 87, "pred": "(102,550)", "gold": "(32,120)", "ok": false}
+{"task": "color", "i": 88, "pred": "(262,403)", "gold": "(76,79)", "ok": false}
+{"task": "color", "i": 89, "pred": "(169,905)", "gold": "(50,202)", "ok": false}
+{"task": "color", "i": 90, "pred": "(273, 553)", "gold": "(65,117)", "ok": false}
+{"task": "color", "i": 91, "pred": "(792,220)", "gold": "(177,47)", "ok": false}
+{"task": "color", "i": 92, "pred": "(500,413)", "gold": "(130,89)", "ok": false}
+{"task": "color", "i": 93, "pred": "(500,883)", "gold": "(99,184)", "ok": false}
+{"task": "color", "i": 94, "pred": "(731, 750)", "gold": "(159,163)", "ok": false}
+{"task": "color", "i": 95, "pred": "(102, 170)", "gold": "(31,45)", "ok": false}
+{"task": "color", "i": 96, "pred": "(500,590)", "gold": "(131,110)", "ok": false}
+{"task": "color", "i": 97, "pred": "(835,871)", "gold": "(200,175)", "ok": false}
+{"task": "color", "i": 98, "pred": "(542, 530)", "gold": "(118,114)", "ok": false}
+{"task": "color", "i": 99, "pred": "(80,900)", "gold": "(29,183)", "ok": false}
+{"task": "color", "i": 100, "pred": "(60,445)", "gold": "(23,111)", "ok": false}
+{"task": "color", "i": 101, "pred": "(608,140)", "gold": "(177,42)", "ok": false}
+{"task": "color", "i": 102, "pred": "(747,413)", "gold": "(168,80)", "ok": false}
+{"task": "color", "i": 103, "pred": "(123,925)", "gold": "(28,196)", "ok": false}
+{"task": "color", "i": 104, "pred": "(742, 841)", "gold": "(162,168)", "ok": false}
+{"task": "color", "i": 105, "pred": "(800,319)", "gold": "(182,68)", "ok": false}
+{"task": "color", "i": 106, "pred": "(406,575)", "gold": "(97,111)", "ok": false}
+{"task": "color", "i": 107, "pred": "(313, 470)", "gold": "(74,100)", "ok": false}
+{"task": "color", "i": 108, "pred": "(407,157)", "gold": "(98,37)", "ok": false}
+{"task": "color", "i": 109, "pred": "(709, 805)", "gold": "(153,143)", "ok": false}
+{"task": "color", "i": 110, "pred": "(560, 608)", "gold": "(130,124)", "ok": false}
+{"task": "color", "i": 111, "pred": "(169,770)", "gold": "(44,161)", "ok": false}
+{"task": "color", "i": 112, "pred": "(292,130)", "gold": "(77,34)", "ok": false}
+{"task": "color", "i": 113, "pred": "(820, 620)", "gold": "(188,129)", "ok": false}
+{"task": "color", "i": 114, "pred": "(417,570)", "gold": "(98,129)", "ok": false}
+{"task": "color", "i": 115, "pred": "(842, 805)", "gold": "(193,165)", "ok": false}
+{"task": "color", "i": 116, "pred": "(417, 870)", "gold": "(104,168)", "ok": false}
+{"task": "color", "i": 117, "pred": "(247,102)", "gold": "(64,29)", "ok": false}
+{"task": "color", "i": 118, "pred": "(709,830)", "gold": "(173,165)", "ok": false}
+{"task": "color", "i": 119, "pred": "(550, 500)", "gold": "(139,115)", "ok": false}
+{"task": "color", "i": 120, "pred": "(832,220)", "gold": "(194,46)", "ok": false}
+{"task": "color", "i": 121, "pred": "(158,400)", "gold": "(46,85)", "ok": false}
+{"task": "color", "i": 122, "pred": "(747, 883)", "gold": "(172,190)", "ok": false}
+{"task": "color", "i": 123, "pred": "(831,429)", "gold": "(191,84)", "ok": false}
+{"task": "color", "i": 124, "pred": "(590,669)", "gold": "(131,138)", "ok": false}
+{"task": "color", "i": 125, "pred": "(542, 830)", "gold": "(131,172)", "ok": false}
+{"task": "color", "i": 126, "pred": "(805,625)", "gold": "(146,134)", "ok": false}
+{"task": "color", "i": 127, "pred": "(439, 801)", "gold": "(113,143)", "ok": false}
+{"task": "color", "i": 128, "pred": "(623, 650)", "gold": "(147,134)", "ok": false}
+{"task": "color", "i": 129, "pred": "(443, 870)", "gold": "(97,173)", "ok": false}
+{"task": "color", "i": 130, "pred": "(369,841)", "gold": "(82,185)", "ok": false}
+{"task": "color", "i": 131, "pred": "(709, 851)", "gold": "(170,181)", "ok": false}
+{"task": "color", "i": 132, "pred": "(773,352)", "gold": "(167,80)", "ok": false}
+{"task": "color", "i": 133, "pred": "(426,913)", "gold": "(106,192)", "ok": false}
+{"task": "color", "i": 134, "pred": "(755,240)", "gold": "(173,59)", "ok": false}
+{"task": "color", "i": 135, "pred": "(810,413)", "gold": "(189,92)", "ok": false}
+{"task": "color", "i": 136, "pred": "(709,820)", "gold": "(165,173)", "ok": false}
+{"task": "color", "i": 137, "pred": "(143,720)", "gold": "(45,139)", "ok": false}
+{"task": "color", "i": 138, "pred": "(369,930)", "gold": "(95,192)", "ok": false}
+{"task": "color", "i": 139, "pred": "(542, 239)", "gold": "(133,56)", "ok": false}
+{"task": "color", "i": 140, "pred": "(810,553)", "gold": "(181,130)", "ok": false}
+{"task": "color", "i": 141, "pred": "(602,140)", "gold": "(154,44)", "ok": false}
+{"task": "color", "i": 142, "pred": "(233,625)", "gold": "(64,128)", "ok": false}
+{"task": "color", "i": 143, "pred": "(401,120)", "gold": "(92,30)", "ok": false}
+{"task": "color", "i": 144, "pred": "(623, 738)", "gold": "(127,148)", "ok": false}
+{"task": "color", "i": 145, "pred": "(102, 900)", "gold": "(33,193)", "ok": false}
+{"task": "color", "i": 146, "pred": "(500,629)", "gold": "(114,117)", "ok": false}
+{"task": "color", "i": 147, "pred": "(451, 120)", "gold": "(114,35)", "ok": false}
+{"task": "color", "i": 148, "pred": "(417, 870)", "gold": "(99,183)", "ok": false}
+{"task": "color", "i": 149, "pred": "(623, 871)", "gold": "(144,189)", "ok": false}
+{"task": "color", "i": 150, "pred": "(183,625)", "gold": "(57,132)", "ok": false}
+{"task": "color", "i": 151, "pred": "(773, 851)", "gold": "(192,170)", "ok": false}
+{"task": "color", "i": 152, "pred": "(223,179)", "gold": "(65,45)", "ok": false}
+{"task": "color", "i": 153, "pred": "(426,500)", "gold": "(116,90)", "ok": false}
+{"task": "color", "i": 154, "pred": "(792, 913)", "gold": "(177,199)", "ok": false}
+{"task": "color", "i": 155, "pred": "(747,403)", "gold": "(169,86)", "ok": false}
+{"task": "color", "i": 156, "pred": "(492, 815)", "gold": "(115,168)", "ok": false}
+{"task": "color", "i": 157, "pred": "(792, 770)", "gold": "(156,168)", "ok": false}
+{"task": "color", "i": 158, "pred": "(483, 795)", "gold": "(125,153)", "ok": false}
+{"task": "color", "i": 159, "pred": "(709,403)", "gold": "(167,74)", "ok": false}
+{"task": "color", "i": 160, "pred": "(800,629)", "gold": "(176,127)", "ok": false}
+{"task": "color", "i": 161, "pred": "(805, 841)", "gold": "(190,179)", "ok": false}
+{"task": "color", "i": 162, "pred": "(150,160)", "gold": "(46,44)", "ok": false}
+{"task": "color", "i": 163, "pred": "(562, 820)", "gold": "(128,164)", "ok": false}
+{"task": "color", "i": 164, "pred": "(500,600)", "gold": "(133,134)", "ok": false}
+{"task": "color", "i": 165, "pred": "(800,908)", "gold": "(188,190)", "ok": false}
+{"task": "color", "i": 166, "pred": "(273,250)", "gold": "(193,74)", "ok": false}
+{"task": "color", "i": 167, "pred": "(102,205)", "gold": "(30,50)", "ok": false}
+{"task": "color", "i": 168, "pred": "(80,645)", "gold": "(29,134)", "ok": false}
+{"task": "color", "i": 169, "pred": "(343,520)", "gold": "(79,118)", "ok": false}
+{"task": "color", "i": 170, "pred": "(810,608)", "gold": "(195,122)", "ok": false}
+{"task": "color", "i": 171, "pred": "(197,650)", "gold": "(45,135)", "ok": false}
+{"task": "color", "i": 172, "pred": "(542, 292)", "gold": "(133,65)", "ok": false}
+{"task": "color", "i": 173, "pred": "(143,750)", "gold": "(43,151)", "ok": false}
+{"task": "color", "i": 174, "pred": "(496, 870)", "gold": "(104,166)", "ok": false}
+{"task": "color", "i": 175, "pred": "(245,142)", "gold": "(72,38)", "ok": false}
+{"task": "color", "i": 176, "pred": "(400, 859)", "gold": "(106,180)", "ok": false}
+{"task": "color", "i": 177, "pred": "(102,563)", "gold": "(24,128)", "ok": false}
+{"task": "color", "i": 178, "pred": "(200,140)", "gold": "(52,36)", "ok": false}
+{"task": "color", "i": 179, "pred": "(423,550)", "gold": "(99,123)", "ok": false}
+{"task": "color", "i": 180, "pred": "(496,929)", "gold": "(105,193)", "ok": false}
+{"task": "color", "i": 181, "pred": "(400, 905)", "gold": "(92,191)", "ok": false}
+{"task": "color", "i": 182, "pred": "(602, 890)", "gold": "(149,193)", "ok": false}
+{"task": "color", "i": 183, "pred": "(602,207)", "gold": "(155,52)", "ok": false}
+{"task": "color", "i": 184, "pred": "(831,360)", "gold": "(184,73)", "ok": false}
+{"task": "color", "i": 185, "pred": "(359,480)", "gold": "(91,94)", "ok": false}
+{"task": "color", "i": 186, "pred": "(300,219)", "gold": "(80,54)", "ok": false}
+{"task": "color", "i": 187, "pred": "(515, 705)", "gold": "(125,140)", "ok": false}
+{"task": "color", "i": 188, "pred": "(542, 110)", "gold": "(137,31)", "ok": false}
+{"task": "color", "i": 189, "pred": "(411, 270)", "gold": "(103,79)", "ok": false}
+{"task": "color", "i": 190, "pred": "(600,580)", "gold": "(134,129)", "ok": false}
+{"task": "color", "i": 191, "pred": "(800,870)", "gold": "(186,188)", "ok": false}
+{"task": "color", "i": 192, "pred": "(197,130)", "gold": "(50,32)", "ok": false}
+{"task": "color", "i": 193, "pred": "(773,176)", "gold": "(173,43)", "ok": false}
+{"task": "color", "i": 194, "pred": "(426,122)", "gold": "(107,30)", "ok": false}
+{"task": "color", "i": 195, "pred": "(206,830)", "gold": "(64,168)", "ok": false}
+{"task": "color", "i": 196, "pred": "(692, 831)", "gold": "(137,168)", "ok": false}
+{"task": "color", "i": 197, "pred": "(114,403)", "gold": "(37,87)", "ok": false}
+{"task": "color", "i": 198, "pred": "(755,270)", "gold": "(178,61)", "ok": false}
+{"task": "color", "i": 199, "pred": "(602, 831)", "gold": "(137,160)", "ok": false}
+{"task": "inverted", "i": 0, "pred": "(540,540)", "gold": "(105,40); (59,152); (141,120); (200,172)", "ok": false}
+{"task": "inverted", "i": 1, "pred": "(606,250)", "gold": "(138,60); (55,142); (201,192)", "ok": false}
+{"task": "inverted", "i": 2, "pred": "(806, 321)", "gold": "(105,93); (187,73); (92,203); (137,33)", "ok": false}
+{"task": "inverted", "i": 3, "pred": "(327, 310)", "gold": "(94,85); (188,134); (201,182)", "ok": false}
+{"task": "inverted", "i": 4, "pred": "(695,352)", "gold": "(179,194); (122,150); (154,74)", "ok": false}
+{"task": "inverted", "i": 5, "pred": "(492, 920)", "gold": "(92,119); (94,193); (28,80); (150,76)", "ok": false}
+{"task": "inverted", "i": 6, "pred": "(697,310)", "gold": "(37,151); (120,44)", "ok": false}
+{"task": "inverted", "i": 7, "pred": "(508,700)", "gold": "(71,165); (182,108)", "ok": false}
+{"task": "inverted", "i": 8, "pred": "(788,224)", "gold": "(181,62); (31,188)", "ok": false}
+{"task": "inverted", "i": 9, "pred": "(600,270)", "gold": "(50,64); (115,176); (126,70)", "ok": false}
+{"task": "inverted", "i": 10, "pred": "(697, 650)", "gold": "(82,163); (64,33); (174,137); (31,120)", "ok": false}
+{"task": "inverted", "i": 11, "pred": "(317,650)", "gold": "(87,135); (32,105); (142,150)", "ok": false}
+{"task": "inverted", "i": 12, "pred": "(681, 854)", "gold": "(155,154); (30,65); (83,125)", "ok": false}
+{"task": "inverted", "i": 13, "pred": "(695,654)", "gold": "(85,121); (188,145); (25,81)", "ok": false}
+{"task": "inverted", "i": 14, "pred": "(500,850)", "gold": "(105,185); (31,95); (158,182)", "ok": false}
+{"task": "inverted", "i": 15, "pred": "(794,104)", "gold": "(174,147); (186,34); (158,88)", "ok": false}
+{"task": "inverted", "i": 16, "pred": "(492,500)", "gold": "(104,108); (127,28); (101,179); (54,56)", "ok": false}
+{"task": "inverted", "i": 17, "pred": "(826,300)", "gold": "(108,167); (177,76)", "ok": false}
+{"task": "inverted", "i": 18, "pred": "(690,464)", "gold": "(66,97); (157,95); (193,154); (184,34)", "ok": false}
+{"task": "inverted", "i": 19, "pred": "(683,200)", "gold": "(56,130); (131,49); (127,200)", "ok": false}
+{"task": "inverted", "i": 20, "pred": "(330,569)", "gold": "(193,68); (116,164); (34,175); (128,41)", "ok": false}
+{"task": "inverted", "i": 21, "pred": "(270,170); (150,484); (790,58)", "gold": "(31,121); (70,41); (189,31)", "ok": false}
+{"task": "inverted", "i": 22, "pred": "(150,230)", "gold": "(185,180); (98,120); (164,104)", "ok": false}
+{"task": "inverted", "i": 23, "pred": "(300, 923)", "gold": "(183,183); (194,45); (127,67); (57,201)", "ok": false}
+{"task": "inverted", "i": 24, "pred": "(78,131); (78,270); (690,231); (690,370); (500,790); (500,929); (850,589); (85", "gold": "(116,188); (199,139); (23,45); (165,70)", "ok": false}
+{"task": "inverted", "i": 25, "pred": "(237,770)", "gold": "(112,176); (60,192)", "ok": false}
+{"task": "inverted", "i": 26, "pred": "(114,883)", "gold": "(126,53); (30,187)", "ok": false}
+{"task": "inverted", "i": 27, "pred": "(592,830)", "gold": "(33,102); (188,115)", "ok": false}
+{"task": "inverted", "i": 28, "pred": "(538, 60)", "gold": "(124,28); (56,60)", "ok": false}
+{"task": "inverted", "i": 29, "pred": "(305, 824)", "gold": "(79,175); (87,99)", "ok": false}
+{"task": "inverted", "i": 30, "pred": "(130,840)", "gold": "(130,30); (51,193)", "ok": false}
+{"task": "inverted", "i": 31, "pred": "(626,111)", "gold": "(124,70); (184,39)", "ok": false}
+{"task": "inverted", "i": 32, "pred": "(375, 450)", "gold": "(107,98); (194,45); (185,195)", "ok": false}
+{"task": "inverted", "i": 33, "pred": "(608,852)", "gold": "(40,53); (139,191)", "ok": false}
+{"task": "inverted", "i": 34, "pred": "(650,104)", "gold": "(97,120); (114,30); (187,144)", "ok": false}
+{"task": "inverted", "i": 35, "pred": "(688, 564)", "gold": "(75,42); (51,122)", "ok": false}
+{"task": "inverted", "i": 36, "pred": "(300,660)", "gold": "(81,156); (183,196)", "ok": false}
+{"task": "inverted", "i": 37, "pred": "(356, 810)", "gold": "(201,98); (89,94); (74,168)", "ok": false}
+{"task": "inverted", "i": 38, "pred": "(290,774)", "gold": "(57,176); (191,19)", "ok": false}
+{"task": "inverted", "i": 39, "pred": "(810,500)", "gold": "(73,98); (43,179); (149,121)", "ok": false}
+{"task": "inverted", "i": 40, "pred": "(712, 604)", "gold": "(174,126); (202,38)", "ok": false}
+{"task": "inverted", "i": 41, "pred": "(812,331)", "gold": "(171,68); (84,67)", "ok": false}
+{"task": "inverted", "i": 42, "pred": "(790, 844)", "gold": "(180,182); (84,193); (180,24); (45,22)", "ok": false}
+{"task": "inverted", "i": 43, "pred": "(270,250)", "gold": "(114,57); (189,191)", "ok": false}
+{"task": "inverted", "i": 44, "pred": "(406,500)", "gold": "(195,52); (115,53); (67,114); (43,36)", "ok": false}
+{"task": "inverted", "i": 45, "pred": "(606,220)", "gold": "(141,57); (127,125); (33,186)", "ok": false}
+{"task": "inverted", "i": 46, "pred": "(510, 630)", "gold": "(153,51); (32,35)", "ok": false}
+{"task": "inverted", "i": 47, "pred": "(492,104)", "gold": "(171,186); (90,135); (101,28)", "ok": false}
+{"task": "inverted", "i": 48, "pred": "(350,364)", "gold": "(79,70); (186,38)", "ok": false}
+{"task": "inverted", "i": 49, "pred": "(683,130)", "gold": "(62,54); (28,176); (107,192); (138,33)", "ok": false}
+{"task": "inverted", "i": 50, "pred": "(697,370)", "gold": "(49,178); (80,92); (200,93)", "ok": false}
+{"task": "inverted", "i": 51, "pred": "(690,830)", "gold": "(157,189); (75,136); (103,67)", "ok": false}
+{"task": "inverted", "i": 52, "pred": "(330, 935)", "gold": "(80,19); (156,193); (52,71)", "ok": false}
+{"task": "inverted", "i": 53, "pred": "(106, 883)", "gold": "(53,21); (40,201)", "ok": false}
+{"task": "inverted", "i": 54, "pred": "(217, 830)", "gold": "(54,119); (194,94); (52,181)", "ok": false}
+{"task": "inverted", "i": 55, "pred": "(128, 790)", "gold": "(43,86); (146,64); (28,187); (74,181)", "ok": false}
+{"task": "inverted", "i": 56, "pred": "(636, 354); (636, 690)", "gold": "(31,110); (155,91); (77,185)", "ok": false}
+{"task": "inverted", "i": 57, "pred": "(340,784)", "gold": "(58,28); (114,66); (80,170)", "ok": false}
+{"task": "inverted", "i": 58, "pred": "(697,364)", "gold": "(191,93); (49,72)", "ok": false}
+{"task": "inverted", "i": 59, "pred": "(600, 170)", "gold": "(158,35); (137,83)", "ok": false}
+{"task": "inverted", "i": 60, "pred": "(814, 240)", "gold": "(141,172); (67,89); (199,159)", "ok": false}
+{"task": "inverted", "i": 61, "pred": "(492, 760)", "gold": "(171,184); (73,56); (141,87)", "ok": false}
+{"task": "inverted", "i": 62, "pred": "(740, 871)", "gold": "(42,139); (173,197)", "ok": false}
+{"task": "inverted", "i": 63, "pred": "(880,500)", "gold": "(36,36); (182,196); (200,110)", "ok": false}
+{"task": "inverted", "i": 64, "pred": "(337, 270)", "gold": "(93,74); (28,130); (194,66)", "ok": false}
+{"task": "inverted", "i": 65, "pred": "(600,104)", "gold": "(50,97); (83,187); (138,34)", "ok": false}
+{"task": "inverted", "i": 66, "pred": "(697,500)", "gold": "(136,137); (181,111); (62,96)", "ok": false}
+{"task": "inverted", "i": 67, "pred": "(200,250)", "gold": "(60,69); (125,147); (116,85)", "ok": false}
+{"task": "inverted", "i": 68, "pred": "(310, 200); (600, 200)", "gold": "(133,62); (112,183); (85,133); (60,60)", "ok": false}
+{"task": "inverted", "i": 69, "pred": "(488,423)", "gold": "(111,71); (196,56); (24,190); (86,23)", "ok": false}
+{"task": "inverted", "i": 70, "pred": "(241,823)", "gold": "(23,28); (58,184)", "ok": false}
+{"task": "inverted", "i": 71, "pred": "(606,200)", "gold": "(162,92); (162,36)", "ok": false}
+{"task": "inverted", "i": 72, "pred": "(111, 900)", "gold": "(73,78); (40,185); (192,111)", "ok": false}
+{"task": "inverted", "i": 73, "pred": "(200,850)", "gold": "(199,34); (50,180)", "ok": false}
+{"task": "inverted", "i": 74, "pred": "(700, 200)", "gold": "(40,145); (177,59); (196,188); (104,176)", "ok": false}
+{"task": "inverted", "i": 75, "pred": "(805,62)", "gold": "(118,110); (89,186); (183,29)", "ok": false}
+{"task": "inverted", "i": 76, "pred": "(117,544)", "gold": "(185,144); (33,114)", "ok": false}
+{"task": "inverted", "i": 77, "pred": "(337,354)", "gold": "(81,88); (92,154)", "ok": false}
+{"task": "inverted", "i": 78, "pred": "(558, 824)", "gold": "(143,104); (154,181); (115,32)", "ok": false}
+{"task": "inverted", "i": 79, "pred": "(390,484)", "gold": "(78,104); (198,182); (31,91)", "ok": false}
+{"task": "inverted", "i": 80, "pred": "(250,730)", "gold": "(176,181); (54,170); (115,194)", "ok": false}
+{"task": "inverted", "i": 81, "pred": "(690, 624)", "gold": "(173,127); (58,20); (172,81)", "ok": false}
+{"task": "inverted", "i": 82, "pred": "(508,660)", "gold": "(133,136); (178,170)", "ok": false}
+{"task": "inverted", "i": 83, "pred": "(373, 730)", "gold": "(90,162); (27,144); (198,143); (175,189)", "ok": false}
+{"task": "inverted", "i": 84, "pred": "(608,240)", "gold": "(146,56); (120,197)", "ok": false}
+{"task": "inverted", "i": 85, "pred": "(117, 154)", "gold": "(86,122); (49,37)", "ok": false}
+{"task": "inverted", "i": 86, "pred": "(650,500)", "gold": "(128,57); (64,101); (54,24)", "ok": false}
+{"task": "inverted", "i": 87, "pred": "(755,200)", "gold": "(172,126); (165,62); (23,107); (104,143)", "ok": false}
+{"task": "inverted", "i": 88, "pred": "(290, 800)", "gold": "(118,136); (64,179); (61,37)", "ok": false}
+{"task": "inverted", "i": 89, "pred": "(683,640)", "gold": "(89,129); (166,130); (71,66)", "ok": false}
+{"task": "inverted", "i": 90, "pred": "(312, 808)", "gold": "(119,51); (168,63); (124,179)", "ok": false}
+{"task": "inverted", "i": 91, "pred": "(817, 481)", "gold": "(138,175); (179,114); (160,50)", "ok": false}
+{"task": "inverted", "i": 92, "pred": "(883,250)", "gold": "(131,36); (199,56); (152,178)", "ok": false}
+{"task": "inverted", "i": 93, "pred": "(697,130)", "gold": "(192,36); (43,50); (119,48)", "ok": false}
+{"task": "inverted", "i": 94, "pred": "(373, 140)", "gold": "(104,32); (166,181)", "ok": false}
+{"task": "inverted", "i": 95, "pred": "(117,874)", "gold": "(31,195); (41,121)", "ok": false}
+{"task": "inverted", "i": 96, "pred": "(810,204)", "gold": "(34,144); (130,163); (182,53)", "ok": false}
+{"task": "inverted", "i": 97, "pred": "(528,104)", "gold": "(127,28); (73,75)", "ok": false}
+{"task": "inverted", "i": 98, "pred": "(790, 220)", "gold": "(135,127); (158,52); (63,120); (124,178)", "ok": false}
+{"task": "inverted", "i": 99, "pred": "(417,740)", "gold": "(115,173); (97,121)", "ok": false}
+{"task": "inverted", "i": 100, "pred": "(690, 654)", "gold": "(162,145); (55,165)", "ok": false}
+{"task": "inverted", "i": 101, "pred": "(300,250)", "gold": "(66,60); (115,198); (172,29)", "ok": false}
+{"task": "inverted", "i": 102, "pred": "(117, 140)", "gold": "(29,34); (24,163)", "ok": false}
+{"task": "inverted", "i": 103, "pred": "(406,790)", "gold": "(49,142); (74,196); (28,85)", "ok": false}
+{"task": "inverted", "i": 104, "pred": "(326,724)", "gold": "(191,97); (27,149); (138,145); (84,151)", "ok": false}
+{"task": "inverted", "i": 105, "pred": "(436,664)", "gold": "(106,158); (182,26); (52,175)", "ok": false}
+{"task": "inverted", "i": 106, "pred": "(497, 750)", "gold": "(109,150); (111,37)", "ok": false}
+{"task": "inverted", "i": 107, "pred": "(128,750)", "gold": "(164,96); (150,188); (27,164); (89,54)", "ok": false}
+{"task": "inverted", "i": 108, "pred": "(310,750)", "gold": "(132,118); (66,193); (51,137)", "ok": false}
+{"task": "inverted", "i": 109, "pred": "(117,760)", "gold": "(102,184); (29,172)", "ok": false}
+{"task": "inverted", "i": 110, "pred": "(106,550)", "gold": "(26,127); (50,72)", "ok": false}
+{"task": "inverted", "i": 111, "pred": "(630,720)", "gold": "(87,117); (199,29); (136,152); (198,89)", "ok": false}
+{"task": "inverted", "i": 112, "pred": "(138,824)", "gold": "(57,185); (105,196); (104,132)", "ok": false}
+{"task": "inverted", "i": 113, "pred": "(636,800)", "gold": "(25,78); (199,101); (151,165)", "ok": false}
+{"task": "inverted", "i": 114, "pred": "(392, 884)", "gold": "(98,40); (82,192); (189,70)", "ok": false}
+{"task": "inverted", "i": 115, "pred": "(317, 840)", "gold": "(197,91); (140,60); (83,185)", "ok": false}
+{"task": "inverted", "i": 116, "pred": "(812, 830)", "gold": "(200,180); (44,113)", "ok": false}
+{"task": "inverted", "i": 117, "pred": "(826,830)", "gold": "(142,97); (198,173)", "ok": false}
+{"task": "inverted", "i": 118, "pred": "(117,670)", "gold": "(190,60); (28,155)", "ok": false}
+{"task": "inverted", "i": 119, "pred": "(628,375)", "gold": "(187,193); (168,86)", "ok": false}
+{"task": "inverted", "i": 120, "pred": "(290, 534)", "gold": "(67,117); (117,46)", "ok": false}
+{"task": "inverted", "i": 121, "pred": "(466, 770)", "gold": "(111,171); (61,86); (114,74)", "ok": false}
+{"task": "inverted", "i": 122, "pred": "(706, 900)", "gold": "(185,125); (168,186); (40,82)", "ok": false}
+{"task": "inverted", "i": 123, "pred": "(301, 650)", "gold": "(187,72); (105,122)", "ok": false}
+{"task": "inverted", "i": 124, "pred": "(438, 200)", "gold": "(166,73); (198,139); (118,162)", "ok": false}
+{"task": "inverted", "i": 125, "pred": "(697,200)", "gold": "(62,29); (158,160)", "ok": false}
+{"task": "inverted", "i": 126, "pred": "(310, 300)", "gold": "(132,103); (69,140); (47,71)", "ok": false}
+{"task": "inverted", "i": 127, "pred": "(112, 114)", "gold": "(83,37); (72,126); (31,29)", "ok": false}
+{"task": "inverted", "i": 128, "pred": "(697, 770)", "gold": "(87,30); (192,181); (24,196)", "ok": false}
+{"task": "inverted", "i": 129, "pred": "(508,704)", "gold": "(69,196); (193,63); (116,170)", "ok": false}
+{"task": "inverted", "i": 130, "pred": "(492,794)", "gold": "(166,113); (49,74); (120,204)", "ok": false}
+{"task": "inverted", "i": 131, "pred": "(417, 724)", "gold": "(84,78); (93,148)", "ok": false}
+{"task": "inverted", "i": 132, "pred": "(396, 700)", "gold": "(98,65); (108,137); (27,64)", "ok": false}
+{"task": "inverted", "i": 133, "pred": "(352, 171)", "gold": "(194,136); (181,45)", "ok": false}
+{"task": "inverted", "i": 134, "pred": "(397,352)", "gold": "(182,114); (87,75)", "ok": false}
+{"task": "inverted", "i": 135, "pred": "(310,640)", "gold": "(79,132); (180,86); (94,197)", "ok": false}
+{"task": "inverted", "i": 136, "pred": "(317, 860)", "gold": "(178,128); (80,186); (34,151); (192,77)", "ok": false}
+{"task": "inverted", "i": 137, "pred": "(312, 834)", "gold": "(108,40); (77,182); (23,141)", "ok": false}
+{"task": "inverted", "i": 138, "pred": "(333, 170)", "gold": "(78,42); (113,169)", "ok": false}
+{"task": "inverted", "i": 139, "pred": "(333,854)", "gold": "(82,182); (86,72); (167,35)", "ok": false}
+{"task": "inverted", "i": 140, "pred": "(697, 821)", "gold": "(178,101); (155,171); (31,168)", "ok": false}
+{"task": "inverted", "i": 141, "pred": "(333, 810)", "gold": "(171,70); (128,131); (82,181)", "ok": false}
+{"task": "inverted", "i": 142, "pred": "(322, 804)", "gold": "(99,148); (160,44)", "ok": false}
+{"task": "inverted", "i": 143, "pred": "(225, 631)", "gold": "(55,23); (43,75); (62,136)", "ok": false}
+{"task": "inverted", "i": 144, "pred": "(590,554)", "gold": "(43,134); (182,173)", "ok": false}
+{"task": "inverted", "i": 145, "pred": "(630,834)", "gold": "(144,171); (23,137)", "ok": false}
+{"task": "inverted", "i": 146, "pred": "(510, 220)", "gold": "(120,170); (103,115); (185,194)", "ok": false}
+{"task": "inverted", "i": 147, "pred": "(70,100)", "gold": "(23,25); (51,157); (171,91)", "ok": false}
+{"task": "inverted", "i": 148, "pred": "(680, 304)", "gold": "(25,96); (144,76); (138,147)", "ok": false}
+{"task": "inverted", "i": 149, "pred": "(300, 880)", "gold": "(52,65); (125,53); (112,164); (50,200)", "ok": false}
+{"task": "inverted", "i": 150, "pred": "(300,130)", "gold": "(180,166); (75,39)", "ok": false}
+{"task": "inverted", "i": 151, "pred": "(330, 750)", "gold": "(91,157); (35,171)", "ok": false}
+{"task": "inverted", "i": 152, "pred": "(290, 464)", "gold": "(62,103); (31,51)", "ok": false}
+{"task": "inverted", "i": 153, "pred": "(350, 640); (590, 110); (110, 270)", "gold": "(130,31); (30,58); (151,120)", "ok": false}
+{"task": "inverted", "i": 154, "pred": "(492,540)", "gold": "(73,70); (195,45)", "ok": false}
+{"task": "inverted", "i": 155, "pred": "(312,750)", "gold": "(139,55); (37,204); (100,163)", "ok": false}
+{"task": "inverted", "i": 156, "pred": "(588, 174)", "gold": "(51,166); (123,40); (114,98)", "ok": false}
+{"task": "inverted", "i": 157, "pred": "(305,540)", "gold": "(66,116); (71,185)", "ok": false}
+{"task": "inverted", "i": 158, "pred": "(353, 200)", "gold": "(78,112); (150,23); (99,51)", "ok": false}
+{"task": "inverted", "i": 159, "pred": "(484, 944)", "gold": "(28,66); (101,200); (73,112)", "ok": false}
+{"task": "inverted", "i": 160, "pred": "(148,250)", "gold": "(109,22); (25,182); (62,133); (49,60)", "ok": false}
+{"task": "inverted", "i": 161, "pred": "(110, 730); (390, 400); (690, 600)", "gold": "(92,97); (71,45); (24,165)", "ok": false}
+{"task": "inverted", "i": 162, "pred": "(488,200)", "gold": "(154,38); (107,51)", "ok": false}
+{"task": "inverted", "i": 163, "pred": "(100,300)", "gold": "(185,203); (23,64); (147,109); (69,127)", "ok": false}
+{"task": "inverted", "i": 164, "pred": "(142, 866)", "gold": "(43,178); (88,45)", "ok": false}
+{"task": "inverted", "i": 165, "pred": "(397, 810)", "gold": "(39,103); (120,185)", "ok": false}
+{"task": "inverted", "i": 166, "pred": "(312, 408); (608, 367); (704, 758)", "gold": "(158,176); (192,51); (72,115); (137,102)", "ok": false}
+{"task": "inverted", "i": 167, "pred": "(517, 104)", "gold": "(148,132); (28,177); (132,26); (154,188)", "ok": false}
+{"task": "inverted", "i": 168, "pred": "(700,100)", "gold": "(53,78); (104,48); (155,36)", "ok": false}
+{"task": "inverted", "i": 169, "pred": "There are none.", "gold": "(41,120); (93,66)", "ok": false}
+{"task": "inverted", "i": 170, "pred": "(797,560)", "gold": "(148,96); (46,30); (32,75); (84,135)", "ok": false}
+{"task": "inverted", "i": 171, "pred": "(192, 680); (815, 574)", "gold": "(48,161); (114,200); (197,143)", "ok": false}
+{"task": "inverted", "i": 172, "pred": "(322, 664)", "gold": "(80,140); (184,45)", "ok": false}
+{"task": "inverted", "i": 173, "pred": "(160,441)", "gold": "(53,100); (55,169)", "ok": false}
+{"task": "inverted", "i": 174, "pred": "(270, 370)", "gold": "(50,155); (166,203); (63,91)", "ok": false}
+{"task": "inverted", "i": 175, "pred": "(697, 824)", "gold": "(108,59); (167,181); (116,140)", "ok": false}
+{"task": "inverted", "i": 176, "pred": "(808, 830)", "gold": "(158,189); (156,42)", "ok": false}
+{"task": "inverted", "i": 177, "pred": "(278, 760)", "gold": "(65,150); (148,103); (161,50)", "ok": false}
+{"task": "inverted", "i": 178, "pred": "(219, 330)", "gold": "(62,80); (148,36); (194,31)", "ok": false}
+{"task": "inverted", "i": 179, "pred": "(510, 824)", "gold": "(120,162); (181,127)", "ok": false}
+{"task": "inverted", "i": 180, "pred": "(317,660)", "gold": "(140,119); (84,136)", "ok": false}
+{"task": "inverted", "i": 181, "pred": "(330, 521)", "gold": "(32,183); (83,128); (104,79)", "ok": false}
+{"task": "inverted", "i": 182, "pred": "(106,720)", "gold": "(79,177); (24,168); (170,29)", "ok": false}
+{"task": "inverted", "i": 183, "pred": "There are none.", "gold": "(165,126); (197,49)", "ok": false}
+{"task": "inverted", "i": 184, "pred": "(590,824)", "gold": "(141,174); (199,107); (76,186); (43,28)", "ok": false}
+{"task": "inverted", "i": 185, "pred": "(290, 774)", "gold": "(43,56); (77,172); (159,135)", "ok": false}
+{"task": "inverted", "i": 186, "pred": "(117,200)", "gold": "(161,53); (45,201); (23,47)", "ok": false}
+{"task": "inverted", "i": 187, "pred": "(502, 900)", "gold": "(125,195); (193,40)", "ok": false}
+{"task": "inverted", "i": 188, "pred": "(683,434)", "gold": "(144,118); (36,24); (198,102); (88,144)", "ok": false}
+{"task": "inverted", "i": 189, "pred": "(738,604)", "gold": "(182,123); (27,72); (167,202)", "ok": false}
+{"task": "inverted", "i": 190, "pred": "(128,670)", "gold": "(120,108); (149,198); (38,162)", "ok": false}
+{"task": "inverted", "i": 191, "pred": "(238, 750)", "gold": "(45,93); (91,83); (182,124)", "ok": false}
+{"task": "inverted", "i": 192, "pred": "(776, 614)", "gold": "(63,171); (201,154)", "ok": false}
+{"task": "inverted", "i": 193, "pred": "(127,564)", "gold": "(128,139); (180,150)", "ok": false}
+{"task": "inverted", "i": 194, "pred": "(320,530)", "gold": "(185,192); (58,185); (161,142); (65,125)", "ok": false}
+{"task": "inverted", "i": 195, "pred": "(400, 854)", "gold": "(144,92); (80,90); (57,194)", "ok": false}
+{"task": "inverted", "i": 196, "pred": "(380, 700)", "gold": "(170,99); (179,180); (44,193)", "ok": false}
+{"task": "inverted", "i": 197, "pred": "(290, 574)", "gold": "(172,45); (161,130); (51,58); (119,69); (23,103)", "ok": false}
+{"task": "inverted", "i": 198, "pred": "(196,750)", "gold": "(98,43); (166,125); (52,166)", "ok": false}
+{"task": "inverted", "i": 199, "pred": "(697, 750)", "gold": "(186,159); (27,179)", "ok": false}
+{"task": "hollow", "i": 0, "pred": "(330, 832)", "gold": "(100,56); (80,164)", "ok": false}
+{"task": "hollow", "i": 1, "pred": "(257,594)", "gold": "(66,81); (71,151)", "ok": false}
+{"task": "hollow", "i": 2, "pred": "(497, 160)", "gold": "(112,37); (100,125)", "ok": false}
+{"task": "hollow", "i": 3, "pred": "(140, 700)", "gold": "(38,147); (115,181)", "ok": false}
+{"task": "hollow", "i": 4, "pred": "(813,460)", "gold": "(50,143); (162,94)", "ok": false}
+{"task": "hollow", "i": 5, "pred": "(497,500)\n(297,775)", "gold": "(61,162); (117,103)", "ok": false}
+{"task": "hollow", "i": 6, "pred": "(826, 830)", "gold": "(189,125); (178,187)", "ok": false}
+{"task": "hollow", "i": 7, "pred": "(130, 759)\n(497, 854)\n(318, 234)\n(584, 424)\n(634, 542)", "gold": "(58,54); (108,177)", "ok": false}
+{"task": "hollow", "i": 8, "pred": "(197, 830)", "gold": "(132,94); (53,168)", "ok": false}
+{"task": "hollow", "i": 9, "pred": "(397, 500)", "gold": "(166,42); (85,109)", "ok": false}
+{"task": "hollow", "i": 10, "pred": "(200,300)\n(350,450)", "gold": "(118,101); (57,56)", "ok": false}
+{"task": "hollow", "i": 11, "pred": "(273, 865)\n(750, 781)", "gold": "(164,169); (77,181)", "ok": false}
+{"task": "hollow", "i": 12, "pred": "(299, 383)\n(492, 750)", "gold": "(121,158); (70,84)", "ok": false}
+{"task": "hollow", "i": 13, "pred": "(340, 830)\n(531, 830)\n(540, 230)", "gold": "(116,51); (51,177)", "ok": false}
+{"task": "hollow", "i": 14, "pred": "(826, 780)", "gold": "(114,140); (177,158)", "ok": false}
+{"task": "hollow", "i": 15, "pred": "(823, 360)\n(823, 738)", "gold": "(176,156); (186,71)", "ok": false}
+{"task": "hollow", "i": 16, "pred": "(122,575)", "gold": "(32,133); (72,86)", "ok": false}
+{"task": "hollow", "i": 17, "pred": "(160, 300)\n(400, 850)", "gold": "(54,62); (108,171)", "ok": false}
+{"task": "hollow", "i": 18, "pred": "(197, 830)", "gold": "(181,119); (56,173)", "ok": false}
+{"task": "hollow", "i": 19, "pred": "(123, 770)", "gold": "(56,93); (47,159)", "ok": false}
+{"task": "hollow", "i": 20, "pred": "(323, 645)", "gold": "(94,129); (177,159)", "ok": false}
+{"task": "hollow", "i": 21, "pred": "(323, 400)", "gold": "(95,88); (185,75)", "ok": false}
+{"task": "hollow", "i": 22, "pred": "(340, 319)\n(800, 800)", "gold": "(166,166); (91,65)", "ok": false}
+{"task": "hollow", "i": 23, "pred": "(840, 373)", "gold": "(138,161); (164,90)", "ok": false}
+{"task": "hollow", "i": 24, "pred": "(830, 480)\n(122, 700)", "gold": "(184,104); (38,144)", "ok": false}
+{"task": "hollow", "i": 25, "pred": "(118,750)", "gold": "(37,153); (153,67)", "ok": false}
+{"task": "hollow", "i": 26, "pred": "(313, 850)", "gold": "(76,39); (81,163)", "ok": false}
+{"task": "hollow", "i": 27, "pred": "(778,400)\n(500,400)", "gold": "(96,83); (158,86)", "ok": false}
+{"task": "hollow", "i": 28, "pred": "(223,360)", "gold": "(65,73); (126,48)", "ok": false}
+{"task": "hollow", "i": 29, "pred": "(197,370)", "gold": "(63,79); (141,45)", "ok": false}
+{"task": "hollow", "i": 30, "pred": "(598, 132)", "gold": "(146,32); (69,142)", "ok": false}
+{"task": "hollow", "i": 31, "pred": "(197, 423)\n(780, 423)", "gold": "(176,99); (58,87)", "ok": false}
+{"task": "hollow", "i": 32, "pred": "(150,871)", "gold": "(47,187); (72,44)", "ok": false}
+{"task": "hollow", "i": 33, "pred": "(510, 840)", "gold": "(149,44); (106,163)", "ok": false}
+{"task": "hollow", "i": 34, "pred": "(117, 328)\n(117, 660)", "gold": "(36,140); (38,71)", "ok": false}
+{"task": "hollow", "i": 35, "pred": "(342, 870)", "gold": "(87,103); (130,183)", "ok": false}
+{"task": "hollow", "i": 36, "pred": "(541, 547)", "gold": "(104,117); (62,190)", "ok": false}
+{"task": "hollow", "i": 37, "pred": "(830,350)\n(542,542)", "gold": "(111,122); (171,74)", "ok": false}
+{"task": "hollow", "i": 38, "pred": "(197,200); (842,200)", "gold": "(51,41); (182,54)", "ok": false}
+{"task": "hollow", "i": 39, "pred": "(133, 250)\n(842, 325)\n(627, 725)\n(772, 650)\n(302, 650)\n(452, 562", "gold": "(121,153); (166,71)", "ok": false}
+{"task": "hollow", "i": 40, "pred": "(157, 170)\n(804, 420)", "gold": "(173,94); (44,42)", "ok": false}
+{"task": "hollow", "i": 41, "pred": "(218, 632)", "gold": "(151,138); (58,130)", "ok": false}
+{"task": "hollow", "i": 42, "pred": "(199,323)\n(792,460)", "gold": "(135,102); (52,67)", "ok": false}
+{"task": "hollow", "i": 43, "pred": "(127,497)", "gold": "(118,114); (43,98)", "ok": false}
+{"task": "hollow", "i": 44, "pred": "(301, 497)", "gold": "(75,95); (166,32)", "ok": false}
+{"task": "hollow", "i": 45, "pred": "(160,300)\n(670,200)", "gold": "(52,63); (149,52)", "ok": false}
+{"task": "hollow", "i": 46, "pred": "(541, 400)", "gold": "(129,81); (150,149)", "ok": false}
+{"task": "hollow", "i": 47, "pred": "(133, 300)\n(628, 844)\n(697, 500)", "gold": "(50,63); (186,169)", "ok": false}
+{"task": "hollow", "i": 48, "pred": "(473, 260)\n(597, 700)", "gold": "(134,136); (112,58)", "ok": false}
+{"task": "hollow", "i": 49, "pred": "(797,250)\n(127,830)", "gold": "(153,53); (54,171)", "ok": false}
+{"task": "hollow", "i": 50, "pred": "(397, 544)", "gold": "(135,89); (76,115)", "ok": false}
+{"task": "hollow", "i": 51, "pred": "(127, 200)\n(830, 794)\n(492, 370)", "gold": "(37,49); (142,159)", "ok": false}
+{"task": "hollow", "i": 52, "pred": "(773, 874)", "gold": "(155,44); (154,187)", "ok": false}
+{"task": "hollow", "i": 53, "pred": "(292, 615)", "gold": "(75,130); (140,66)", "ok": false}
+{"task": "hollow", "i": 54, "pred": "(350, 870)", "gold": "(81,97); (109,181)", "ok": false}
+{"task": "hollow", "i": 55, "pred": "(545, 650)", "gold": "(145,115); (37,155)", "ok": false}
+{"task": "hollow", "i": 56, "pred": "(497,144)", "gold": "(88,110); (113,38)", "ok": false}
+{"task": "hollow", "i": 57, "pred": "(397, 841)", "gold": "(136,167); (76,51)", "ok": false}
+{"task": "hollow", "i": 58, "pred": "(150,350)", "gold": "(183,175); (44,73)", "ok": false}
+{"task": "hollow", "i": 59, "pred": "(797, 365)", "gold": "(123,146); (162,79)", "ok": false}
+{"task": "hollow", "i": 60, "pred": "(127,444)", "gold": "(45,100); (102,58)", "ok": false}
+{"task": "hollow", "i": 61, "pred": "(200, 367)\n(617, 567)", "gold": "(69,71); (149,117)", "ok": false}
+{"task": "hollow", "i": 62, "pred": "(127,250)", "gold": "(40,52); (124,178)", "ok": false}
+{"task": "hollow", "i": 63, "pred": "(337, 500)\n(823, 500)", "gold": "(95,106); (180,111)", "ok": false}
+{"task": "hollow", "i": 64, "pred": "(260, 773)", "gold": "(152,173); (77,142)", "ok": false}
+{"task": "hollow", "i": 65, "pred": "(292, 419)\n(823, 220)\n(300, 810)", "gold": "(73,173); (169,59)", "ok": false}
+{"task": "hollow", "i": 66, "pred": "(797, 430)\n(329, 750)", "gold": "(110,154); (163,93)", "ok": false}
+{"task": "hollow", "i": 67, "pred": "(260, 400); (740, 400)", "gold": "(148,87); (73,80)", "ok": false}
+{"task": "hollow", "i": 68, "pred": "(242, 364)\n(808, 700)", "gold": "(68,77); (157,142)", "ok": false}
+{"task": "hollow", "i": 69, "pred": "(150, 550)", "gold": "(54,128); (146,98)", "ok": false}
+{"task": "hollow", "i": 70, "pred": "(143, 820)", "gold": "(52,163); (115,182)", "ok": false}
+{"task": "hollow", "i": 71, "pred": "(143, 900)", "gold": "(122,52); (40,189)", "ok": false}
+{"task": "hollow", "i": 72, "pred": "(823, 417)", "gold": "(62,52); (177,86)", "ok": false}
+{"task": "hollow", "i": 73, "pred": "(299, 300)", "gold": "(147,109); (86,59)", "ok": false}
+{"task": "hollow", "i": 74, "pred": "(497, 750)", "gold": "(106,137); (32,65)", "ok": false}
+{"task": "hollow", "i": 75, "pred": "(200,550)", "gold": "(188,148); (54,131)", "ok": false}
+{"task": "hollow", "i": 76, "pred": "(826,160)", "gold": "(108,184); (182,40)", "ok": false}
+{"task": "hollow", "i": 77, "pred": "(197, 850)", "gold": "(172,108); (47,169)", "ok": false}
+{"task": "hollow", "i": 78, "pred": "(397, 570)\n(800, 764)\n(797, 524)\n(450, 854)", "gold": "(158,158); (82,120)", "ok": false}
+{"task": "hollow", "i": 79, "pred": "(473, 830)", "gold": "(106,163); (126,59)", "ok": false}
+{"task": "hollow", "i": 80, "pred": "(792, 481)", "gold": "(142,45); (163,103)", "ok": false}
+{"task": "hollow", "i": 81, "pred": "(150,700)", "gold": "(35,142); (66,74)", "ok": false}
+{"task": "hollow", "i": 82, "pred": "(300, 871)", "gold": "(74,56); (131,163)", "ok": false}
+{"task": "hollow", "i": 83, "pred": "(510, 640)", "gold": "(126,140); (131,67)", "ok": false}
+{"task": "hollow", "i": 84, "pred": "(823, 320)\n(823, 570)\n(673, 200)\n(473, 500)\n(323, 320)\n(473, 120", "gold": "(175,120); (174,64)", "ok": false}
+{"task": "hollow", "i": 85, "pred": "(200,444)", "gold": "(46,183); (64,85)", "ok": false}
+{"task": "hollow", "i": 86, "pred": "(300, 300)\n(800, 700)", "gold": "(74,59); (149,140)", "ok": false}
+{"task": "hollow", "i": 87, "pred": "(840, 547)", "gold": "(80,114); (180,121)", "ok": false}
+{"task": "hollow", "i": 88, "pred": "(433, 815)\n(778, 794)", "gold": "(159,147); (97,153)", "ok": false}
+{"task": "hollow", "i": 89, "pred": "(812,330)", "gold": "(173,154); (155,66)", "ok": false}
+{"task": "hollow", "i": 90, "pred": "(817, 319)", "gold": "(170,50); (188,127)", "ok": false}
+{"task": "hollow", "i": 91, "pred": "(323, 700)\n(778, 700)", "gold": "(84,141); (157,155)", "ok": false}
+{"task": "hollow", "i": 92, "pred": "(127, 530)\n(342, 700)", "gold": "(89,142); (36,107)", "ok": false}
+{"task": "hollow", "i": 93, "pred": "(292, 700)\n(742, 469)", "gold": "(161,99); (55,135)", "ok": false}
+{"task": "hollow", "i": 94, "pred": "(323,400)", "gold": "(76,80); (137,45)", "ok": false}
+{"task": "hollow", "i": 95, "pred": "(271, 830); (750, 400); (581, 670)", "gold": "(157,82); (73,155)", "ok": false}
+{"task": "hollow", "i": 96, "pred": "(300, 674)\n(827, 444)", "gold": "(88,133); (182,90)", "ok": false}
+{"task": "hollow", "i": 97, "pred": "(117,200)\n(477,844)", "gold": "(51,36); (99,163)", "ok": false}
+{"task": "hollow", "i": 98, "pred": "(110, 845)", "gold": "(37,182); (113,42)", "ok": false}
+{"task": "hollow", "i": 99, "pred": "(397, 200); (197, 750)", "gold": "(54,167); (95,47)", "ok": false}
+{"task": "hollow", "i": 100, "pred": "(750, 600)", "gold": "(84,166); (147,123)", "ok": false}
+{"task": "hollow", "i": 101, "pred": "(333, 618)", "gold": "(80,125); (159,172)", "ok": false}
+{"task": "hollow", "i": 102, "pred": "(342, 270)\n(500, 700)", "gold": "(77,56); (106,144)", "ok": false}
+{"task": "hollow", "i": 103, "pred": "(123, 460)\n(297, 812)\n(123, 219)", "gold": "(88,160); (39,99)", "ok": false}
+{"task": "hollow", "i": 104, "pred": "(742, 830)\n(742, 830)", "gold": "(131,46); (187,169)", "ok": false}
+{"task": "hollow", "i": 105, "pred": "(497, 720)", "gold": "(72,143); (118,138)", "ok": false}
+{"task": "hollow", "i": 106, "pred": "(127, 777)", "gold": "(67,69); (63,153)", "ok": false}
+{"task": "hollow", "i": 107, "pred": "(397, 738)\n(800, 650)", "gold": "(170,135); (81,137)", "ok": false}
+{"task": "hollow", "i": 108, "pred": "(267,200); (678,440)", "gold": "(68,49); (145,100)", "ok": false}
+{"task": "hollow", "i": 109, "pred": "(823,300)", "gold": "(97,95); (152,76)", "ok": false}
+{"task": "hollow", "i": 110, "pred": "(110,404)\n(497,818)\n(522,360)", "gold": "(32,92); (112,168)", "ok": false}
+{"task": "hollow", "i": 111, "pred": "(197,160)", "gold": "(174,154); (55,35)", "ok": false}
+{"task": "hollow", "i": 112, "pred": "(499, 500)", "gold": "(173,136); (102,100)", "ok": false}
+{"task": "hollow", "i": 113, "pred": "(515, 630)", "gold": "(104,148); (149,127)", "ok": false}
+{"task": "hollow", "i": 114, "pred": "(160, 240)\n(870, 800)", "gold": "(51,60); (176,180)", "ok": false}
+{"task": "hollow", "i": 115, "pred": "(839, 747)", "gold": "(184,85); (157,148)", "ok": false}
+{"task": "hollow", "i": 116, "pred": "(823,300)", "gold": "(66,41); (180,59)", "ok": false}
+{"task": "hollow", "i": 117, "pred": "(341, 700); (497, 330)", "gold": "(113,77); (80,154)", "ok": false}
+{"task": "hollow", "i": 118, "pred": "(122, 830)", "gold": "(42,166); (172,151)", "ok": false}
+{"task": "hollow", "i": 119, "pred": "(242, 615)", "gold": "(72,61); (87,123)", "ok": false}
+{"task": "hollow", "i": 120, "pred": "(442, 870)", "gold": "(111,176); (111,81)", "ok": false}
+{"task": "hollow", "i": 121, "pred": "(742, 200)", "gold": "(143,53); (96,168)", "ok": false}
+{"task": "hollow", "i": 122, "pred": "(283, 550); (678, 283)", "gold": "(69,122); (153,58)", "ok": false}
+{"task": "hollow", "i": 123, "pred": "(200,157)\n(497,814)", "gold": "(53,37); (131,140)", "ok": false}
+{"task": "hollow", "i": 124, "pred": "(430, 620)", "gold": "(134,108); (78,126)", "ok": false}
+{"task": "hollow", "i": 125, "pred": "(242, 590)", "gold": "(127,31); (75,117)", "ok": false}
+{"task": "hollow", "i": 126, "pred": "(337, 563)", "gold": "(88,53); (114,128)", "ok": false}
+{"task": "hollow", "i": 127, "pred": "(169, 620)", "gold": "(52,129); (112,191)", "ok": false}
+{"task": "hollow", "i": 128, "pred": "(127,434)\n(300,650)\n(500,312)", "gold": "(119,62); (45,96)", "ok": false}
+{"task": "hollow", "i": 129, "pred": "(220, 814)", "gold": "(53,163); (158,111)", "ok": false}
+{"task": "hollow", "i": 130, "pred": "(319, 200); (773, 300); (842, 800)", "gold": "(161,70); (77,47)", "ok": false}
+{"task": "hollow", "i": 131, "pred": "(117, 563)", "gold": "(40,117); (174,68)", "ok": false}
+{"task": "hollow", "i": 132, "pred": "(830, 800)", "gold": "(80,164); (179,167)", "ok": false}
+{"task": "hollow", "i": 133, "pred": "(313, 870)", "gold": "(89,89); (128,184)", "ok": false}
+{"task": "hollow", "i": 134, "pred": "(411, 481)", "gold": "(44,188); (105,95)", "ok": false}
+{"task": "hollow", "i": 135, "pred": "(840, 360)\n(830, 630)", "gold": "(174,136); (178,77)", "ok": false}
+{"task": "hollow", "i": 136, "pred": "(792, 571)", "gold": "(106,183); (151,115)", "ok": false}
+{"task": "hollow", "i": 137, "pred": "(755,364)", "gold": "(142,73); (84,98)", "ok": false}
+{"task": "hollow", "i": 138, "pred": "(400, 873)", "gold": "(70,178); (110,62)", "ok": false}
+{"task": "hollow", "i": 139, "pred": "(830, 750)", "gold": "(169,158); (112,33)", "ok": false}
+{"task": "hollow", "i": 140, "pred": "(299, 540); (750, 337)", "gold": "(162,69); (74,117)", "ok": false}
+{"task": "hollow", "i": 141, "pred": "(242,363)", "gold": "(75,78); (106,145)", "ok": false}
+{"task": "hollow", "i": 142, "pred": "(800, 480)\n(600, 880)\n(300, 520)", "gold": "(81,110); (111,181)", "ok": false}
+{"task": "hollow", "i": 143, "pred": "(512, 784)", "gold": "(140,129); (89,175)", "ok": false}
+{"task": "hollow", "i": 144, "pred": "(323, 550)", "gold": "(152,109); (89,122)", "ok": false}
+{"task": "hollow", "i": 145, "pred": "(817,570)\n(768,238)", "gold": "(155,130); (148,47)", "ok": false}
+{"task": "hollow", "i": 146, "pred": "(133, 830)\n(481, 830)\n(873, 830)\n(708, 180)", "gold": "(50,169); (181,159)", "ok": false}
+{"task": "hollow", "i": 147, "pred": "(817,300)\n(127,817)", "gold": "(49,179); (161,58)", "ok": false}
+{"task": "hollow", "i": 148, "pred": "(497, 294)", "gold": "(126,107); (107,56)", "ok": false}
+{"task": "hollow", "i": 149, "pred": "(423, 875)", "gold": "(105,76); (37,190)", "ok": false}
+{"task": "hollow", "i": 150, "pred": "(530, 851)", "gold": "(119,43); (170,173)", "ok": false}
+{"task": "hollow", "i": 151, "pred": "(197, 841)", "gold": "(142,131); (41,161)", "ok": false}
+{"task": "hollow", "i": 152, "pred": "(299,434)\n(805,500)", "gold": "(175,112); (70,99)", "ok": false}
+{"task": "hollow", "i": 153, "pred": "(200, 852)", "gold": "(152,114); (43,179)", "ok": false}
+{"task": "hollow", "i": 154, "pred": "(323, 444)\n(481, 800)", "gold": "(75,88); (116,151)", "ok": false}
+{"task": "hollow", "i": 155, "pred": "(297, 630)\n(458, 300)\n(773, 700)", "gold": "(67,132); (105,48)", "ok": false}
+{"task": "hollow", "i": 156, "pred": "(800, 620)", "gold": "(180,130); (136,63)", "ok": false}
+{"task": "hollow", "i": 157, "pred": "(313, 400)\n(762, 600)", "gold": "(92,78); (156,129)", "ok": false}
+{"task": "hollow", "i": 158, "pred": "(755, 330)\n(400, 890)", "gold": "(145,81); (71,189)", "ok": false}
+{"task": "hollow", "i": 159, "pred": "(511, 831)", "gold": "(116,45); (166,152)", "ok": false}
+{"task": "hollow", "i": 160, "pred": "(540,650)", "gold": "(111,68); (101,121)", "ok": false}
+{"task": "hollow", "i": 161, "pred": "(157, 444)\n(830, 820)", "gold": "(47,94); (161,174)", "ok": false}
+{"task": "hollow", "i": 162, "pred": "(200,428)", "gold": "(132,136); (66,81)", "ok": false}
+{"task": "hollow", "i": 163, "pred": "(200, 628)", "gold": "(174,175); (61,128)", "ok": false}
+{"task": "hollow", "i": 164, "pred": "(400, 522)\n(840, 522)", "gold": "(117,118); (182,116)", "ok": false}
+{"task": "hollow", "i": 165, "pred": "(830, 650)", "gold": "(152,66); (180,127)", "ok": false}
+{"task": "hollow", "i": 166, "pred": "(197,367)", "gold": "(168,85); (60,142)", "ok": false}
+{"task": "hollow", "i": 167, "pred": "(767, 360)", "gold": "(66,188); (151,84)", "ok": false}
+{"task": "hollow", "i": 168, "pred": "(122,200)\n(778,778)", "gold": "(38,44); (134,148)", "ok": false}
+{"task": "hollow", "i": 169, "pred": "(540, 830)\n(540, 470)", "gold": "(132,95); (74,183)", "ok": false}
+{"task": "hollow", "i": 170, "pred": "(200,300)\n(795,300)", "gold": "(164,79); (60,69)", "ok": false}
+{"task": "hollow", "i": 171, "pred": "(312, 907)\n(397, 670)", "gold": "(105,134); (41,185)", "ok": false}
+{"task": "hollow", "i": 172, "pred": "(122,540)", "gold": "(43,108); (134,36)", "ok": false}
+{"task": "hollow", "i": 173, "pred": "(142, 350)", "gold": "(186,164); (47,77)", "ok": false}
+{"task": "hollow", "i": 174, "pred": "(167, 620); (473, 750); (597, 490); (673, 310)", "gold": "(145,120); (46,134)", "ok": false}
+{"task": "hollow", "i": 175, "pred": "(323, 917)", "gold": "(127,70); (72,186)", "ok": false}
+{"task": "hollow", "i": 176, "pred": "(497,270)", "gold": "(176,76); (114,59)", "ok": false}
+{"task": "hollow", "i": 177, "pred": "(262, 810)\n(805, 200)\n(805, 600)", "gold": "(170,48); (67,155)", "ok": false}
+{"task": "hollow", "i": 178, "pred": "(200, 844)\n(544, 844)", "gold": "(134,159); (47,165)", "ok": false}
+{"task": "hollow", "i": 179, "pred": "(200,200)\n(812,712)", "gold": "(169,152); (70,44)", "ok": false}
+{"task": "hollow", "i": 180, "pred": "(800, 540)", "gold": "(165,101); (168,165)", "ok": false}
+{"task": "hollow", "i": 181, "pred": "(197, 830)", "gold": "(161,93); (58,161)", "ok": false}
+{"task": "hollow", "i": 182, "pred": "(797, 640)\n(797, 300)\n(800, 500)", "gold": "(141,56); (149,124)", "ok": false}
+{"task": "hollow", "i": 183, "pred": "(517, 840)", "gold": "(148,126); (114,182)", "ok": false}
+{"task": "hollow", "i": 184, "pred": "(502, 730)", "gold": "(136,127); (50,140)", "ok": false}
+{"task": "hollow", "i": 185, "pred": "(510, 834)", "gold": "(110,50); (191,161)", "ok": false}
+{"task": "hollow", "i": 186, "pred": "(343, 360)", "gold": "(96,78); (176,34)", "ok": false}
+{"task": "hollow", "i": 187, "pred": "(122, 784)", "gold": "(52,163); (153,38)", "ok": false}
+{"task": "hollow", "i": 188, "pred": "(812, 330)\n(500, 895)", "gold": "(164,67); (119,171)", "ok": false}
+{"task": "hollow", "i": 189, "pred": "(107, 500)", "gold": "(39,110); (95,85)", "ok": false}
+{"task": "hollow", "i": 190, "pred": "(345, 870)", "gold": "(118,150); (51,183)", "ok": false}
+{"task": "hollow", "i": 191, "pred": "(237, 180)", "gold": "(63,43); (180,171)", "ok": false}
+{"task": "hollow", "i": 192, "pred": "(110, 500)", "gold": "(32,140); (140,178)", "ok": false}
+{"task": "hollow", "i": 193, "pred": "(133, 545)\n(878, 350)", "gold": "(50,114); (173,79)", "ok": false}
+{"task": "hollow", "i": 194, "pred": "(217,530)", "gold": "(64,111); (158,76)", "ok": false}
+{"task": "hollow", "i": 195, "pred": "(797, 850)", "gold": "(152,183); (154,86)", "ok": false}
+{"task": "hollow", "i": 196, "pred": "(817, 500)", "gold": "(188,110); (62,157)", "ok": false}
+{"task": "hollow", "i": 197, "pred": "(323, 855)\n(492, 592)\n(823, 242)\n(492, 405)", "gold": "(95,87); (189,48)", "ok": false}
+{"task": "hollow", "i": 198, "pred": "(200, 844)\n(690, 200)", "gold": "(52,173); (134,45)", "ok": false}
+{"task": "hollow", "i": 199, "pred": "(357, 294)", "gold": "(142,171); (92,65)", "ok": false}
+{"task": "geometric", "i": 0, "pred": "(200,700); (500,500); (700,800)", "gold": "(133,112); (48,140); (176,176)", "ok": false}
+{"task": "geometric", "i": 1, "pred": "(313, 790); (617, 571); (584, 800)", "gold": "(103,172); (164,112); (43,170)", "ok": false}
+{"task": "geometric", "i": 2, "pred": "(373,530); (773,300); (773,530)", "gold": "(172,117); (161,57); (84,114)", "ok": false}
+{"task": "geometric", "i": 3, "pred": "(122,540); (833,117)", "gold": "(34,116); (176,37)", "ok": false}
+{"task": "geometric", "i": 4, "pred": "(400, 865)\n(600, 228)", "gold": "(158,57); (100,191)", "ok": false}
+{"task": "geometric", "i": 5, "pred": "(127,360)\n(127,775)", "gold": "(47,79); (37,176)", "ok": false}
+{"task": "geometric", "i": 6, "pred": "(369, 132); (742, 204)", "gold": "(86,43); (164,57)", "ok": false}
+{"task": "geometric", "i": 7, "pred": "(542, 481)\n(300, 800)", "gold": "(56,177); (138,108)", "ok": false}
+{"task": "geometric", "i": 8, "pred": "(357, 518); (839, 290); (622, 634)", "gold": "(86,104); (152,134); (192,63)", "ok": false}
+{"task": "geometric", "i": 9, "pred": "(323,232); (850,575)", "gold": "(188,129); (63,46)", "ok": false}
+{"task": "geometric", "i": 10, "pred": "(400,107); (775,170); (425,540)", "gold": "(116,142); (182,46); (119,34)", "ok": false}
+{"task": "geometric", "i": 11, "pred": "(323,219); (597,360); (142,790)", "gold": "(143,90); (61,50); (34,173)", "ok": false}
+{"task": "geometric", "i": 12, "pred": "(417, 910)\n(842, 770)", "gold": "(194,163); (97,192)", "ok": false}
+{"task": "geometric", "i": 13, "pred": "(400,197)\n(700,525)\n(125,825)", "gold": "(155,123); (31,179); (108,50)", "ok": false}
+{"task": "geometric", "i": 14, "pred": "(200,267); (790,300); (340,540)", "gold": "(192,76); (83,130); (51,66)", "ok": false}
+{"task": "geometric", "i": 15, "pred": "(817,350)\n(820,870)", "gold": "(190,195); (173,87)", "ok": false}
+{"task": "geometric", "i": 16, "pred": "(400,600); (640,595)", "gold": "(94,131); (161,124)", "ok": false}
+{"task": "geometric", "i": 17, "pred": "(323,290); (323,850)", "gold": "(74,66); (109,189)", "ok": false}
+{"task": "geometric", "i": 18, "pred": "(117,102); (598,117); (830,880)", "gold": "(136,41); (37,28); (181,188)", "ok": false}
+{"task": "geometric", "i": 19, "pred": "(381, 730); (852, 350)", "gold": "(192,85); (116,157)", "ok": false}
+{"task": "geometric", "i": 20, "pred": "(122, 851)\n(550, 851)", "gold": "(140,190); (35,180)", "ok": false}
+{"task": "geometric", "i": 21, "pred": "(492,260); (200,400); (850,360)", "gold": "(113,67); (43,95); (196,87)", "ok": false}
+{"task": "geometric", "i": 22, "pred": "(826,364); (826,790)", "gold": "(159,173); (172,78)", "ok": false}
+{"task": "geometric", "i": 23, "pred": "(128,817)\n(880,620)", "gold": "(43,175); (192,140)", "ok": false}
+{"task": "geometric", "i": 24, "pred": "(826,420); (681,840)", "gold": "(180,99); (159,185)", "ok": false}
+{"task": "geometric", "i": 25, "pred": "(540,270); (750,380)", "gold": "(180,89); (119,68)", "ok": false}
+{"task": "geometric", "i": 26, "pred": "(123,127); (123,856)", "gold": "(51,189); (40,34)", "ok": false}
+{"task": "geometric", "i": 27, "pred": "(122,163); (833,205)", "gold": "(183,63); (43,47)", "ok": false}
+{"task": "geometric", "i": 28, "pred": "(640,550); (690,850)", "gold": "(186,194); (162,114)", "ok": false}
+{"task": "geometric", "i": 29, "pred": "(100,400); (572,100)", "gold": "(29,79); (151,38)", "ok": false}
+{"task": "geometric", "i": 30, "pred": "(243,370); (243,819); (840,140)", "gold": "(68,85); (185,40); (39,189)", "ok": false}
+{"task": "geometric", "i": 31, "pred": "(555, 840)", "gold": "(189,177); (136,58)", "ok": false}
+{"task": "geometric", "i": 32, "pred": "(352,500); (778,138)", "gold": "(100,101); (180,28)", "ok": false}
+{"task": "geometric", "i": 33, "pred": "(83,400); (830,70); (370,840)", "gold": "(27,87); (91,197); (168,36)", "ok": false}
+{"task": "geometric", "i": 34, "pred": "(200,237)\n(775,188)\n(337,440)", "gold": "(67,120); (51,52); (160,51)", "ok": false}
+{"task": "geometric", "i": 35, "pred": "(852, 520)\n(826, 830)", "gold": "(197,114); (187,189)", "ok": false}
+{"task": "geometric", "i": 36, "pred": "(576,200); (312,750); (788,800)", "gold": "(37,170); (184,176); (127,55)", "ok": false}
+{"task": "geometric", "i": 37, "pred": "(296,400); (619,481)", "gold": "(46,86); (145,115)", "ok": false}
+{"task": "geometric", "i": 38, "pred": "(440, 667)\n(750, 872)", "gold": "(110,137); (191,189)", "ok": false}
+{"task": "geometric", "i": 39, "pred": "(352, 327)\n(352, 830)", "gold": "(98,192); (103,80)", "ok": false}
+{"task": "geometric", "i": 40, "pred": "(369,419); (820,800)", "gold": "(91,98); (187,172)", "ok": false}
+{"task": "geometric", "i": 41, "pred": "(100,233); (497,500); (700,175)", "gold": "(165,45); (73,127); (29,51)", "ok": false}
+{"task": "geometric", "i": 42, "pred": "(400,125); (775,200); (800,650)", "gold": "(172,54); (182,158); (106,32)", "ok": false}
+{"task": "geometric", "i": 43, "pred": "(600, 815)\n(600, 100)", "gold": "(124,163); (149,37)", "ok": false}
+{"task": "geometric", "i": 44, "pred": "(342, 300)\n(300, 600)\n(650, 700)", "gold": "(102,70); (170,161); (38,133)", "ok": false}
+{"task": "geometric", "i": 45, "pred": "(346,240); (600,344)", "gold": "(158,88); (78,61)", "ok": false}
+{"task": "geometric", "i": 46, "pred": "(356,300); (600,125); (692,825)", "gold": "(161,47); (177,189); (92,69)", "ok": false}
+{"task": "geometric", "i": 47, "pred": "(133,171); (397,171); (597,471)", "gold": "(164,110); (112,45); (44,46)", "ok": false}
+{"task": "geometric", "i": 48, "pred": "(110, 220); (569, 100)", "gold": "(29,54); (144,30)", "ok": false}
+{"task": "geometric", "i": 49, "pred": "(296, 700); (600, 550)", "gold": "(65,153); (169,125)", "ok": false}
+{"task": "geometric", "i": 50, "pred": "(110, 880)\n(880, 290)", "gold": "(34,187); (193,63)", "ok": false}
+{"task": "geometric", "i": 51, "pred": "(542, 820)\n(700, 820)", "gold": "(108,174); (171,166)", "ok": false}
+{"task": "geometric", "i": 52, "pred": "(197,250); (368,116); (608,857)", "gold": "(172,188); (125,29); (60,51)", "ok": false}
+{"task": "geometric", "i": 53, "pred": "(142,440); (300,344); (842,344)", "gold": "(49,98); (184,89)", "ok": false}
+{"task": "geometric", "i": 54, "pred": "(400, 667); (117, 900)", "gold": "(32,190); (99,142)", "ok": false}
+{"task": "geometric", "i": 55, "pred": "(373, 220); (373, 850)", "gold": "(67,173); (102,54)", "ok": false}
+{"task": "geometric", "i": 56, "pred": "(373,500); (580,788); (697,500)", "gold": "(102,175); (111,107); (169,103)", "ok": false}
+{"task": "geometric", "i": 57, "pred": "(826,450); (826,700)", "gold": "(180,173); (180,117)", "ok": false}
+{"task": "geometric", "i": 58, "pred": "(117,441); (580,300); (575,700)", "gold": "(172,67); (111,180); (37,102)", "ok": false}
+{"task": "geometric", "i": 59, "pred": "(817,180); (250,814)", "gold": "(160,51); (50,177)", "ok": false}
+{"task": "geometric", "i": 60, "pred": "(347,218); (597,469)", "gold": "(150,114); (61,55)", "ok": false}
+{"task": "geometric", "i": 61, "pred": "(200,330); (550,100)", "gold": "(57,78); (136,29)", "ok": false}
+{"task": "geometric", "i": 62, "pred": "(122,170); (356,230); (590,470)", "gold": "(96,64); (145,122); (40,42)", "ok": false}
+{"task": "geometric", "i": 63, "pred": "(595, 200); (595, 500)", "gold": "(135,52); (166,125)", "ok": false}
+{"task": "geometric", "i": 64, "pred": "(400,200); (800,900)", "gold": "(177,195); (100,47)", "ok": false}
+{"task": "geometric", "i": 65, "pred": "(369,600); (808,350); (810,650)", "gold": "(167,93); (87,134); (174,158)", "ok": false}
+{"task": "geometric", "i": 66, "pred": "(160,234); (340,770); (572,142)", "gold": "(56,59); (51,170); (139,48)", "ok": false}
+{"task": "geometric", "i": 67, "pred": "(500,530)\n(596,850)", "gold": "(105,119); (161,188)", "ok": false}
+{"task": "geometric", "i": 68, "pred": "(397,122)\n(397,883)", "gold": "(119,39); (69,196)", "ok": false}
+{"task": "geometric", "i": 69, "pred": "(110,530); (423,650); (530,850)", "gold": "(100,140); (179,172); (35,112)", "ok": false}
+{"task": "geometric", "i": 70, "pred": "(792,282); (792,571); (450,500)", "gold": "(179,65); (185,129); (105,103)", "ok": false}
+{"task": "geometric", "i": 71, "pred": "(817,157)\n(300,871)\n(775,865)", "gold": "(165,33); (153,171); (38,186)", "ok": false}
+{"task": "geometric", "i": 72, "pred": "(299,160); (698,500)", "gold": "(168,122); (73,35)", "ok": false}
+{"task": "geometric", "i": 73, "pred": "(123,107)\n(840,674)", "gold": "(185,151); (43,26)", "ok": false}
+{"task": "geometric", "i": 74, "pred": "(542,164)\n(750,164)\n(542,850)", "gold": "(117,185); (195,54); (118,47)", "ok": false}
+{"task": "geometric", "i": 75, "pred": "(835,77); (100,777)", "gold": "(33,169); (190,27)", "ok": false}
+{"task": "geometric", "i": 76, "pred": "(122,900); (600,897); (597,497)", "gold": "(164,99); (181,170); (37,192)", "ok": false}
+{"task": "geometric", "i": 77, "pred": "(397,160); (122,400); (830,530)", "gold": "(113,44); (32,97); (174,122)", "ok": false}
+{"task": "geometric", "i": 78, "pred": "(323,152)\n(380,790)", "gold": "(112,159); (78,28)", "ok": false}
+{"task": "geometric", "i": 79, "pred": "(197,292); (830,700)", "gold": "(172,135); (46,62)", "ok": false}
+{"task": "geometric", "i": 80, "pred": "(123,550); (123,750); (850,350)", "gold": "(28,171); (188,84); (38,118)", "ok": false}
+{"task": "geometric", "i": 81, "pred": "(150,250); (808,475); (808,850)", "gold": "(179,112); (47,60); (188,194)", "ok": false}
+{"task": "geometric", "i": 82, "pred": "(250, 324); (330, 650); (300, 850)", "gold": "(45,180); (118,150); (61,78)", "ok": false}
+{"task": "geometric", "i": 83, "pred": "(46,700)\n(488,850)\n(488,150)", "gold": "(127,176); (29,141); (106,40)", "ok": false}
+{"task": "geometric", "i": 84, "pred": "(130, 883)\n(330, 238)\n(500, 238)", "gold": "(113,64); (34,191); (57,59)", "ok": false}
+{"task": "geometric", "i": 85, "pred": "(830,160)\n(580,918)", "gold": "(124,198); (179,46)", "ok": false}
+{"task": "geometric", "i": 86, "pred": "(140,600); (480,825)", "gold": "(106,179); (41,135)", "ok": false}
+{"task": "geometric", "i": 87, "pred": "(128,141); (328,880)", "gold": "(74,181); (49,32)", "ok": false}
+{"task": "geometric", "i": 88, "pred": "(400,417); (820,317)", "gold": "(106,100); (181,87)", "ok": false}
+{"task": "geometric", "i": 89, "pred": "(830,127)\n(440,434)", "gold": "(180,32); (107,111)", "ok": false}
+{"task": "geometric", "i": 90, "pred": "(250,429); (250,700); (597,879)", "gold": "(138,187); (52,99); (49,160)", "ok": false}
+{"task": "geometric", "i": 91, "pred": "(110,441); (840,200); (690,110)", "gold": "(182,52); (35,100)", "ok": false}
+{"task": "geometric", "i": 92, "pred": "(550,250); (830,181); (830,390)", "gold": "(188,109); (184,55); (105,64)", "ok": false}
+{"task": "geometric", "i": 93, "pred": "(401,125); (580,710); (338,880)", "gold": "(106,34); (50,185); (124,156)", "ok": false}
+{"task": "geometric", "i": 94, "pred": "(100,700); (800,500); (800,800)", "gold": "(159,168); (168,99); (27,131)", "ok": false}
+{"task": "geometric", "i": 95, "pred": "(369, 750); (808, 481)", "gold": "(173,106); (94,154)", "ok": false}
+{"task": "geometric", "i": 96, "pred": "(122,850); (497,119)", "gold": "(39,192); (132,32)", "ok": false}
+{"task": "geometric", "i": 97, "pred": "(560,171)\n(638,390)", "gold": "(170,108); (139,48)", "ok": false}
+{"task": "geometric", "i": 98, "pred": "(320, 820); (320, 480); (680, 820)", "gold": "(68,111); (190,188); (34,179)", "ok": false}
+{"task": "geometric", "i": 99, "pred": "(342,292); (800,829)", "gold": "(179,170); (87,72)", "ok": false}
+{"task": "geometric", "i": 100, "pred": "(826,78); (620,854); (880,750)", "gold": "(194,165); (111,184); (181,32)", "ok": false}
+{"task": "geometric", "i": 101, "pred": "(333,117); (560,180); (100,540)", "gold": "(62,34); (132,49); (35,124)", "ok": false}
+{"task": "geometric", "i": 102, "pred": "(117,431); (800,431)", "gold": "(34,101); (189,107)", "ok": false}
+{"task": "geometric", "i": 103, "pred": "(117,234); (850,467); (117,805)", "gold": "(185,103); (31,160); (33,45)", "ok": false}
+{"task": "geometric", "i": 104, "pred": "(241,334); (778,484); (417,842)", "gold": "(117,187); (59,79); (188,116)", "ok": false}
+{"task": "geometric", "i": 105, "pred": "(106,200); (600,781); (750,800)", "gold": "(122,163); (181,167); (31,40)", "ok": false}
+{"task": "geometric", "i": 106, "pred": "(555, 800)\n(555, 110)", "gold": "(132,167); (129,27)", "ok": false}
+{"task": "geometric", "i": 107, "pred": "(617,151); (783,400)", "gold": "(185,107); (153,43)", "ok": false}
+{"task": "geometric", "i": 108, "pred": "(297,142); (500,480); (297,777)", "gold": "(59,178); (120,111); (64,37)", "ok": false}
+{"task": "geometric", "i": 109, "pred": "(333, 845)\n(572, 845)", "gold": "(71,174); (150,174)", "ok": false}
+{"task": "geometric", "i": 110, "pred": "(400,325)\n(683,500)", "gold": "(189,118); (106,75)", "ok": false}
+{"task": "geometric", "i": 111, "pred": "(100,226)\n(330,560)", "gold": "(74,135); (25,55)", "ok": false}
+{"task": "geometric", "i": 112, "pred": "(133,160); (808,242)", "gold": "(167,70); (48,41)", "ok": false}
+{"task": "geometric", "i": 113, "pred": "(260,500); (840,700)", "gold": "(192,155); (47,107)", "ok": false}
+{"task": "geometric", "i": 114, "pred": "(400,140)\n(400,770)", "gold": "(116,167); (118,39)", "ok": false}
+{"task": "geometric", "i": 115, "pred": "(350,300); (350,800); (650,800)", "gold": "(44,184); (97,72); (183,195)", "ok": false}
+{"task": "geometric", "i": 116, "pred": "(313,151); (500,330)", "gold": "(131,81); (69,39)", "ok": false}
+{"task": "geometric", "i": 117, "pred": "(200,154)\n(860,554)", "gold": "(181,120); (52,39)", "ok": false}
+{"task": "geometric", "i": 118, "pred": "(330,166); (808,350)", "gold": "(67,45); (173,83)", "ok": false}
+{"task": "geometric", "i": 119, "pred": "(100,290)\n(400,480)", "gold": "(113,112); (27,65)", "ok": false}
+{"task": "geometric", "i": 120, "pred": "(330,131); (819,364); (842,774)", "gold": "(64,37); (192,185); (169,84)", "ok": false}
+{"task": "geometric", "i": 121, "pred": "(826, 100); (826, 830)", "gold": "(177,35); (160,174)", "ok": false}
+{"task": "geometric", "i": 122, "pred": "(296,364)\n(581,614)", "gold": "(62,75); (141,138)", "ok": false}
+{"task": "geometric", "i": 123, "pred": "(369,342)\n(680,750)", "gold": "(74,76); (161,178)", "ok": false}
+{"task": "geometric", "i": 124, "pred": "(200,300); (695,195)", "gold": "(165,50); (54,74)", "ok": false}
+{"task": "geometric", "i": 125, "pred": "(343, 875); (842, 260)", "gold": "(195,62); (66,181)", "ok": false}
+{"task": "geometric", "i": 126, "pred": "(341, 180)\n(341, 775)", "gold": "(87,156); (88,51)", "ok": false}
+{"task": "geometric", "i": 127, "pred": "(671, 841)", "gold": "(152,67); (176,181)", "ok": false}
+{"task": "geometric", "i": 128, "pred": "(817,141); (880,700); (200,838)", "gold": "(39,166); (180,47); (194,142)", "ok": false}
+{"task": "geometric", "i": 129, "pred": "(169,125); (600,125); (169,772)", "gold": "(136,37); (36,174); (52,38)", "ok": false}
+{"task": "geometric", "i": 130, "pred": "(117,690)\n(150,320)", "gold": "(55,68); (26,142)", "ok": false}
+{"task": "geometric", "i": 131, "pred": "(128,250); (480,381); (824,528)", "gold": "(117,93); (40,56); (183,125)", "ok": false}
+{"task": "geometric", "i": 132, "pred": "(117,154)\n(814,418)\n(170,840)", "gold": "(47,181); (42,40); (176,97)", "ok": false}
+{"task": "geometric", "i": 133, "pred": "(296, 700); (830, 200)", "gold": "(181,48); (64,142)", "ok": false}
+{"task": "geometric", "i": 134, "pred": "(122,469); (800,220); (600,519)", "gold": "(164,121); (180,59); (35,101)", "ok": false}
+{"task": "geometric", "i": 135, "pred": "(342, 517); (833, 710)", "gold": "(69,110); (180,161)", "ok": false}
+{"task": "geometric", "i": 136, "pred": "(110,102)\n(500,128)\n(572,470)", "gold": "(122,39); (39,27); (131,119)", "ok": false}
+{"task": "geometric", "i": 137, "pred": "(400, 630)\n(600, 830)\n(700, 530)", "gold": "(170,190); (164,112); (101,137)", "ok": false}
+{"task": "geometric", "i": 138, "pred": "(313, 107); (597, 220)", "gold": "(145,57); (65,28)", "ok": false}
+{"task": "geometric", "i": 139, "pred": "(123,750); (630,838)", "gold": "(152,179); (36,155)", "ok": false}
+{"task": "geometric", "i": 140, "pred": "(200,360)\n(783,500)\n(783,772)", "gold": "(172,117); (54,77); (180,181)", "ok": false}
+{"task": "geometric", "i": 141, "pred": "(125,173); (340,430)", "gold": "(76,100); (43,38)", "ok": false}
+{"task": "geometric", "i": 142, "pred": "(342, 669)\n(458, 375)", "gold": "(58,150); (130,85)", "ok": false}
+{"task": "geometric", "i": 143, "pred": "(197,334)\n(778,820)", "gold": "(172,177); (54,81)", "ok": false}
+{"task": "geometric", "i": 144, "pred": "(680, 519); (700, 728)", "gold": "(168,107); (186,165)", "ok": false}
+{"task": "geometric", "i": 145, "pred": "(296,122); (873,122)", "gold": "(61,38); (197,42)", "ok": false}
+{"task": "geometric", "i": 146, "pred": "(837,107); (837,322)", "gold": "(191,29); (190,85)", "ok": false}
+{"task": "geometric", "i": 147, "pred": "(110,233); (128,854); (397,854)", "gold": "(35,190); (28,49); (102,179)", "ok": false}
+{"task": "geometric", "i": 148, "pred": "(347, 100); (560, 600)", "gold": "(83,28); (139,128)", "ok": false}
+{"task": "geometric", "i": 149, "pred": "(373,154); (808,330)", "gold": "(179,80); (104,41)", "ok": false}
+{"task": "geometric", "i": 150, "pred": "(197,200); (800,175); (800,800)", "gold": "(188,52); (57,53); (185,189)", "ok": false}
+{"task": "geometric", "i": 151, "pred": "(133,360)\n(800,219)\n(133,775)", "gold": "(175,53); (42,178); (49,79)", "ok": false}
+{"task": "geometric", "i": 152, "pred": "(123,160)\n(350,850)", "gold": "(86,185); (32,42)", "ok": false}
+{"task": "geometric", "i": 153, "pred": "(337,119); (542,819)", "gold": "(123,168); (79,33)", "ok": false}
+{"task": "geometric", "i": 154, "pred": "(323,481); (323,880)", "gold": "(68,102); (145,181)", "ok": false}
+{"task": "geometric", "i": 155, "pred": "(696,140)\n(696,850)", "gold": "(164,42); (185,179)", "ok": false}
+{"task": "geometric", "i": 156, "pred": "(357,130); (360,470); (808,630)", "gold": "(70,39); (167,146); (95,105)", "ok": false}
+{"task": "geometric", "i": 157, "pred": "(826,122)\n(826,810)", "gold": "(178,36); (178,171)", "ok": false}
+{"task": "geometric", "i": 158, "pred": "(600,830)\n(660,160)", "gold": "(128,188); (156,38)", "ok": false}
+{"task": "geometric", "i": 159, "pred": "(342, 142)\n(700, 370)", "gold": "(67,37); (158,95)", "ok": false}
+{"task": "geometric", "i": 160, "pred": "(100,600); (400,500); (399,700)", "gold": "(86,180); (30,122); (97,117)", "ok": false}
+{"task": "geometric", "i": 161, "pred": "(552, 141); (873, 893)", "gold": "(108,42); (193,193)", "ok": false}
+{"task": "geometric", "i": 162, "pred": "(110, 620); (826, 240)", "gold": "(31,128); (174,53)", "ok": false}
+{"task": "geometric", "i": 163, "pred": "(298,171); (481,450); (206,795)", "gold": "(60,42); (116,111); (43,183)", "ok": false}
+{"task": "geometric", "i": 164, "pred": "(369,420); (369,818); (808,818)", "gold": "(89,95); (184,181); (36,184)", "ok": false}
+{"task": "geometric", "i": 165, "pred": "(117,250)\n(750,844)", "gold": "(156,183); (39,55)", "ok": false}
+{"task": "geometric", "i": 166, "pred": "(528,500); (678,750)", "gold": "(179,167); (109,105)", "ok": false}
+{"task": "geometric", "i": 167, "pred": "(127,142); (575,142); (575,810)", "gold": "(133,174); (113,45); (34,41)", "ok": false}
+{"task": "geometric", "i": 168, "pred": "(100,300); (497,497); (500,200)", "gold": "(28,67); (91,106); (187,66)", "ok": false}
+{"task": "geometric", "i": 169, "pred": "(142,450); (300,181)", "gold": "(69,42); (41,105)", "ok": false}
+{"task": "geometric", "i": 170, "pred": "(110,300); (373,297)", "gold": "(26,75); (111,70)", "ok": false}
+{"task": "geometric", "i": 171, "pred": "(150,200); (150,790)", "gold": "(74,43); (51,184)", "ok": false}
+{"task": "geometric", "i": 172, "pred": "(200,125); (572,117); (822,882)", "gold": "(148,35); (190,185); (54,33)", "ok": false}
+{"task": "geometric", "i": 173, "pred": "(820,230); (540,770)", "gold": "(179,63); (122,146)", "ok": false}
+{"task": "geometric", "i": 174, "pred": "(342, 915)\n(550, 872)", "gold": "(129,174); (73,191)", "ok": false}
+{"task": "geometric", "i": 175, "pred": "(373,400); (808,250)", "gold": "(84,100); (168,70)", "ok": false}
+{"task": "geometric", "i": 176, "pred": "(906,160)\n(778,880)", "gold": "(167,190); (194,41)", "ok": false}
+{"task": "geometric", "i": 177, "pred": "(343, 750); (647, 413)", "gold": "(171,87); (65,164)", "ok": false}
+{"task": "geometric", "i": 178, "pred": "(122,250); (122,562); (600,85); (595,683)", "gold": "(36,67); (144,36); (45,141)", "ok": false}
+{"task": "geometric", "i": 179, "pred": "(623, 450)\n(342, 838)", "gold": "(158,104); (62,192)", "ok": false}
+{"task": "geometric", "i": 180, "pred": "(100, 844)\n(844, 844)", "gold": "(33,183); (195,176)", "ok": false}
+{"task": "geometric", "i": 181, "pred": "(345, 200); (600, 588)", "gold": "(137,134); (75,50)", "ok": false}
+{"task": "geometric", "i": 182, "pred": "(333,400); (397,875); (597,875)", "gold": "(72,82); (165,191); (106,194)", "ok": false}
+{"task": "geometric", "i": 183, "pred": "(442, 160)\n(800, 896)", "gold": "(106,37); (184,193)", "ok": false}
+{"task": "geometric", "i": 184, "pred": "(581, 195)\n(118, 810)", "gold": "(43,176); (138,55)", "ok": false}
+{"task": "geometric", "i": 185, "pred": "(140,250); (807,162); (640,480)", "gold": "(179,53); (150,123); (40,63)", "ok": false}
+{"task": "geometric", "i": 186, "pred": "(127,200); (500,375)", "gold": "(37,51); (122,91)", "ok": false}
+{"task": "geometric", "i": 187, "pred": "(106,200); (300,325); (117,450)", "gold": "(30,55); (97,84); (33,115)", "ok": false}
+{"task": "geometric", "i": 188, "pred": "(352, 566)\n(262, 825)", "gold": "(59,112); (33,178)", "ok": false}
+{"task": "geometric", "i": 189, "pred": "(200,119); (850,76)", "gold": "(63,37); (196,27)", "ok": false}
+{"task": "geometric", "i": 190, "pred": "(555,154); (812,333); (555,845)", "gold": "(132,44); (116,177); (194,84)", "ok": false}
+{"task": "geometric", "i": 191, "pred": "(697,104); (400,563); (815,850)", "gold": "(108,131); (171,41); (189,190)", "ok": false}
+{"task": "geometric", "i": 192, "pred": "(826,119)\n(792,790)", "gold": "(172,162); (186,29)", "ok": false}
+{"task": "geometric", "i": 193, "pred": "(143,163); (650,850)", "gold": "(150,178); (42,38)", "ok": false}
+{"task": "geometric", "i": 194, "pred": "(573,119)\n(573,830)", "gold": "(124,38); (145,175)", "ok": false}
+{"task": "geometric", "i": 195, "pred": "(469,232)\n(773,450)", "gold": "(186,114); (113,61)", "ok": false}
+{"task": "geometric", "i": 196, "pred": "(300, 875); (500, 875)", "gold": "(65,188); (127,172)", "ok": false}
+{"task": "geometric", "i": 197, "pred": "(830,500); (400,800)", "gold": "(177,111); (88,175)", "ok": false}
+{"task": "geometric", "i": 198, "pred": "(373, 107); (828, 240); (237, 750)", "gold": "(189,60); (54,157); (107,34)", "ok": false}
+{"task": "geometric", "i": 199, "pred": "(620,102); (481,440); (140,650)", "gold": "(155,37); (43,142); (124,106)", "ok": false}
+{"task": "brightness", "i": 0, "pred": "(197, 300); (617, 841)", "gold": "(190,74); (55,148)", "ok": false}
+{"task": "brightness", "i": 1, "pred": "(169, 180); (401, 330)", "gold": "(105,60); (83,180)", "ok": false}
+{"task": "brightness", "i": 2, "pred": "(473, 419); (200, 138)", "gold": "(66,87); (127,83)", "ok": false}
+{"task": "brightness", "i": 3, "pred": "(197, 769); (338, 294)", "gold": "(141,87); (72,69)", "ok": false}
+{"task": "brightness", "i": 4, "pred": "(110, 419); (500, 819)", "gold": "(108,173); (101,67)", "ok": false}
+{"task": "brightness", "i": 5, "pred": "(110, 223); (823, 417)", "gold": "(182,99); (114,133)", "ok": false}
+{"task": "brightness", "i": 6, "pred": "(312, 841); (580, 200)", "gold": "(163,39); (55,122)", "ok": false}
+{"task": "brightness", "i": 7, "pred": "(395, 519); (127, 200)", "gold": "(156,39); (51,121)", "ok": false}
+{"task": "brightness", "i": 8, "pred": "(383, 367)", "gold": "(191,35); (130,72)", "ok": false}
+{"task": "brightness", "i": 9, "pred": "(673, 220)", "gold": "(109,56); (173,54)", "ok": false}
+{"task": "brightness", "i": 10, "pred": "(197, 500); (286, 200)", "gold": "(128,179); (57,116)", "ok": false}
+{"task": "brightness", "i": 11, "pred": "(573, 400)", "gold": "(40,167); (144,90)", "ok": false}
+{"task": "brightness", "i": 12, "pred": "(197, 500); (397, 194)", "gold": "(129,145); (67,109)", "ok": false}
+{"task": "brightness", "i": 13, "pred": "(127, 841)", "gold": "(191,158); (50,104)", "ok": false}
+{"task": "brightness", "i": 14, "pred": "(167, 400); (197, 812)", "gold": "(124,185); (68,161)", "ok": false}
+{"task": "brightness", "i": 15, "pred": "(301, 240); (500, 550)", "gold": "(132,123); (192,135)", "ok": false}
+{"task": "brightness", "i": 16, "pred": "(173, 200); (619, 860)", "gold": "(180,105); (56,155)", "ok": false}
+{"task": "brightness", "i": 17, "pred": "(397, 200); (622, 820)", "gold": "(153,171); (142,124)", "ok": false}
+{"task": "brightness", "i": 18, "pred": "(792, 300); (300, 200)", "gold": "(117,32); (128,139)", "ok": false}
+{"task": "brightness", "i": 19, "pred": "(675, 831); (681, 481)", "gold": "(56,67); (147,168)", "ok": false}
+{"task": "brightness", "i": 20, "pred": "(397, 84)", "gold": "(191,115); (147,171)", "ok": false}
+{"task": "brightness", "i": 21, "pred": "(397, 367)", "gold": "(39,150); (99,86)", "ok": false}
+{"task": "brightness", "i": 22, "pred": "(113, 874); (100, 540)", "gold": "(34,169); (126,43)", "ok": false}
+{"task": "brightness", "i": 23, "pred": "(183, 888); (492, 800)", "gold": "(135,54); (138,162)", "ok": false}
+{"task": "brightness", "i": 24, "pred": "(397, 439)", "gold": "(161,118); (93,96)", "ok": false}
+{"task": "brightness", "i": 25, "pred": "(367, 673); (500, 180)", "gold": "(179,176); (116,139)", "ok": false}
+{"task": "brightness", "i": 26, "pred": "(110, 192); (492, 400)", "gold": "(39,41); (160,63)", "ok": false}
+{"task": "brightness", "i": 27, "pred": "(369, 290)", "gold": "(91,189); (101,64)", "ok": false}
+{"task": "brightness", "i": 28, "pred": "(200, 844); (200, 575)", "gold": "(37,124); (92,119)", "ok": false}
+{"task": "brightness", "i": 29, "pred": "(492, 180); (660, 130)", "gold": "(97,45); (100,109)", "ok": false}
+{"task": "brightness", "i": 30, "pred": "(473, 500); (150, 300)", "gold": "(48,71); (109,98)", "ok": false}
+{"task": "brightness", "i": 31, "pred": "(183, 888); (292, 592)", "gold": "(45,194); (61,132)", "ok": false}
+{"task": "brightness", "i": 32, "pred": "(397, 300)", "gold": "(34,35); (139,57)", "ok": false}
+{"task": "brightness", "i": 33, "pred": "(419, 831); (656, 718)", "gold": "(180,146); (113,163)", "ok": false}
+{"task": "brightness", "i": 34, "pred": "(599, 841); (169, 400)", "gold": "(188,188); (133,174)", "ok": false}
+{"task": "brightness", "i": 35, "pred": "(675, 181); (192, 831)", "gold": "(66,155); (176,45)", "ok": false}
+{"task": "brightness", "i": 36, "pred": "(373, 874); (300, 466)", "gold": "(34,106); (153,41)", "ok": false}
+{"task": "brightness", "i": 37, "pred": "(623, 900)", "gold": "(85,191); (144,190)", "ok": false}
+{"task": "brightness", "i": 38, "pred": "(511, 660); (281, 660)", "gold": "(132,192); (134,128)", "ok": false}
+{"task": "brightness", "i": 39, "pred": "(473, 778); (127, 540)", "gold": "(163,98); (110,150)", "ok": false}
+{"task": "brightness", "i": 40, "pred": "(392, 300); (188, 700)", "gold": "(182,32); (112,148)", "ok": false}
+{"task": "brightness", "i": 41, "pred": "(419, 821); (305, 367)", "gold": "(111,70); (102,156)", "ok": false}
+{"task": "brightness", "i": 42, "pred": "(197, 119); (838, 876)", "gold": "(180,170); (52,100)", "ok": false}
+{"task": "brightness", "i": 43, "pred": "(183, 571); (694, 400)", "gold": "(81,180); (58,125)", "ok": false}
+{"task": "brightness", "i": 44, "pred": "(401, 631); (592, 140)", "gold": "(160,36); (69,125)", "ok": false}
+{"task": "brightness", "i": 45, "pred": "(673, 400)", "gold": "(41,38); (171,86)", "ok": false}
+{"task": "brightness", "i": 46, "pred": "(792, 300)", "gold": "(56,39); (189,60)", "ok": false}
+{"task": "brightness", "i": 47, "pred": "(197, 160)", "gold": "(49,187); (148,48)", "ok": false}
+{"task": "brightness", "i": 48, "pred": "(200, 834); (630, 171)", "gold": "(50,171); (117,165)", "ok": false}
+{"task": "brightness", "i": 49, "pred": "(167, 870)", "gold": "(50,181); (71,120)", "ok": false}
+{"task": "brightness", "i": 50, "pred": "(401, 373); (473, 221)", "gold": "(162,181); (64,94)", "ok": false}
+{"task": "brightness", "i": 51, "pred": "(373, 569)", "gold": "(157,113); (83,123)", "ok": false}
+{"task": "brightness", "i": 52, "pred": "(197, 812); (683, 300)", "gold": "(193,116); (59,159)", "ok": false}
+{"task": "brightness", "i": 53, "pred": "(123, 138); (197, 419)", "gold": "(189,94); (45,95)", "ok": false}
+{"task": "brightness", "i": 54, "pred": "(473, 438); (473, 438)", "gold": "(56,126); (101,105)", "ok": false}
+{"task": "brightness", "i": 55, "pred": "(200, 850); (497, 497)", "gold": "(136,39); (65,169)", "ok": false}
+{"task": "brightness", "i": 56, "pred": "(197, 681)", "gold": "(107,190); (76,139)", "ok": false}
+{"task": "brightness", "i": 57, "pred": "(100, 700)", "gold": "(180,139); (100,193)", "ok": false}
+{"task": "brightness", "i": 58, "pred": "(492, 731); (492, 731)", "gold": "(42,124); (91,145)", "ok": false}
+{"task": "brightness", "i": 59, "pred": "(617, 851); (867, 111)", "gold": "(194,33); (149,175)", "ok": false}
+{"task": "brightness", "i": 60, "pred": "(395, 883)", "gold": "(72,130); (85,198)", "ok": false}
+{"task": "brightness", "i": 61, "pred": "(110, 650)", "gold": "(30,198); (39,138)", "ok": false}
+{"task": "brightness", "i": 62, "pred": "(127, 852)", "gold": "(159,40); (138,155)", "ok": false}
+{"task": "brightness", "i": 63, "pred": "(823, 460); (367, 290)", "gold": "(165,49); (43,140)", "ok": false}
+{"task": "brightness", "i": 64, "pred": "(197, 900); (697, 219)", "gold": "(162,110); (94,64)", "ok": false}
+{"task": "brightness", "i": 65, "pred": "(133, 640); (483, 812)", "gold": "(100,172); (45,130)", "ok": false}
+{"task": "brightness", "i": 66, "pred": "(110, 439)", "gold": "(54,176); (33,104)", "ok": false}
+{"task": "brightness", "i": 67, "pred": "(197, 912)", "gold": "(28,193); (88,138)", "ok": false}
+{"task": "brightness", "i": 68, "pred": "(419, 861)", "gold": "(127,43); (69,194)", "ok": false}
+{"task": "brightness", "i": 69, "pred": "(200, 200); (200, 200)", "gold": "(38,129); (148,150)", "ok": false}
+{"task": "brightness", "i": 70, "pred": "(197, 200); (697, 500)", "gold": "(183,121); (43,54)", "ok": false}
+{"task": "brightness", "i": 71, "pred": "(573, 350)", "gold": "(33,198); (161,78)", "ok": false}
+{"task": "brightness", "i": 72, "pred": "(173, 319); (580, 738)", "gold": "(196,142); (199,191)", "ok": false}
+{"task": "brightness", "i": 73, "pred": "(110, 183); (473, 795)", "gold": "(172,172); (153,112)", "ok": false}
+{"task": "brightness", "i": 74, "pred": "(501, 460)", "gold": "(47,97); (123,105)", "ok": false}
+{"task": "brightness", "i": 75, "pred": "(107, 444)", "gold": "(172,56); (178,119)", "ok": false}
+{"task": "brightness", "i": 76, "pred": "(773, 171)", "gold": "(177,183); (177,43)", "ok": false}
+{"task": "brightness", "i": 77, "pred": "(260, 400)", "gold": "(159,32); (83,81)", "ok": false}
+{"task": "brightness", "i": 78, "pred": "(469, 242)", "gold": "(46,55); (97,132)", "ok": false}
+{"task": "brightness", "i": 79, "pred": "(419, 884); (483, 200)", "gold": "(35,137); (117,190)", "ok": false}
+{"task": "brightness", "i": 80, "pred": "(492, 492)", "gold": "(175,128); (122,90)", "ok": false}
+{"task": "brightness", "i": 81, "pred": "(492, 170); (100, 450)", "gold": "(151,177); (129,114)", "ok": false}
+{"task": "brightness", "i": 82, "pred": "(392, 650)", "gold": "(42,177); (128,134)", "ok": false}
+{"task": "brightness", "i": 83, "pred": "(417, 831); (595, 944)", "gold": "(148,188); (119,58)", "ok": false}
+{"task": "brightness", "i": 84, "pred": "(599, 200); (400, 344)", "gold": "(147,188); (142,129)", "ok": false}
+{"task": "brightness", "i": 85, "pred": "(200, 102); (483, 341)", "gold": "(177,142); (69,88)", "ok": false}
+{"task": "brightness", "i": 86, "pred": "(323, 890); (323, 890)", "gold": "(172,61); (83,185)", "ok": false}
+{"task": "brightness", "i": 87, "pred": "(197, 233)", "gold": "(66,125); (55,62)", "ok": false}
+{"task": "brightness", "i": 88, "pred": "(173, 220); (580, 190)", "gold": "(58,53); (176,48)", "ok": false}
+{"task": "brightness", "i": 89, "pred": "(473, 831); (127, 205)", "gold": "(39,49); (174,119)", "ok": false}
+{"task": "brightness", "i": 90, "pred": "(250, 841)", "gold": "(144,39); (80,64)", "ok": false}
+{"task": "brightness", "i": 91, "pred": "(183, 157); (492, 630)", "gold": "(32,157); (182,61)", "ok": false}
+{"task": "brightness", "i": 92, "pred": "(778, 759); (790, 219)", "gold": "(160,154); (175,88)", "ok": false}
+{"task": "brightness", "i": 93, "pred": "(197, 581); (688, 903)", "gold": "(57,192); (51,132)", "ok": false}
+{"task": "brightness", "i": 94, "pred": "(417, 700); (838, 142)", "gold": "(35,40); (140,163)", "ok": false}
+{"task": "brightness", "i": 95, "pred": "(483, 500); (137, 171)", "gold": "(44,45); (100,115)", "ok": false}
+{"task": "brightness", "i": 96, "pred": "(473, 181); (620, 800)", "gold": "(48,176); (135,46)", "ok": false}
+{"task": "brightness", "i": 97, "pred": "(573, 271)", "gold": "(79,37); (148,59)", "ok": false}
+{"task": "brightness", "i": 98, "pred": "(192, 888); (292, 488)", "gold": "(64,39); (36,189)", "ok": false}
+{"task": "brightness", "i": 99, "pred": "(219, 912); (473, 352)", "gold": "(31,132); (159,147)", "ok": false}
+{"task": "brightness", "i": 100, "pred": "(496, 132); (496, 440)", "gold": "(180,145); (75,104)", "ok": false}
+{"task": "brightness", "i": 101, "pred": "(392, 874); (692, 684)", "gold": "(111,177); (52,170)", "ok": false}
+{"task": "brightness", "i": 102, "pred": "(292, 400); (692, 910)", "gold": "(34,165); (179,184)", "ok": false}
+{"task": "brightness", "i": 103, "pred": "(601, 813); (680, 650)", "gold": "(92,55); (195,134)", "ok": false}
+{"task": "brightness", "i": 104, "pred": "(367, 540); (397, 200)", "gold": "(160,91); (175,155)", "ok": false}
+{"task": "brightness", "i": 105, "pred": "(473, 141)", "gold": "(47,106); (113,101)", "ok": false}
+{"task": "brightness", "i": 106, "pred": "(127, 170); (127, 600)", "gold": "(156,118); (54,43)", "ok": false}
+{"task": "brightness", "i": 107, "pred": "(122, 541)", "gold": "(191,125); (47,121)", "ok": false}
+{"task": "brightness", "i": 108, "pred": "(127, 479)", "gold": "(171,60); (44,105)", "ok": false}
+{"task": "brightness", "i": 109, "pred": "(200, 600); (583, 140)", "gold": "(194,143); (56,116)", "ok": false}
+{"task": "brightness", "i": 110, "pred": "(367, 180); (602, 250)", "gold": "(120,118); (92,48)", "ok": false}
+{"task": "brightness", "i": 111, "pred": "(581, 250)", "gold": "(85,102); (160,56)", "ok": false}
+{"task": "brightness", "i": 112, "pred": "(167, 419); (117, 923)", "gold": "(34,194); (160,106)", "ok": false}
+{"task": "brightness", "i": 113, "pred": "(200, 831); (583, 270)", "gold": "(158,68); (74,52)", "ok": false}
+{"task": "brightness", "i": 114, "pred": "(173, 156); (357, 461)", "gold": "(44,42); (58,114)", "ok": false}
+{"task": "brightness", "i": 115, "pred": "(200, 140); (300, 830)", "gold": "(104,68); (93,161)", "ok": false}
+{"task": "brightness", "i": 116, "pred": "(473, 428)", "gold": "(114,179); (96,89)", "ok": false}
+{"task": "brightness", "i": 117, "pred": "(492, 160); (492, 160)", "gold": "(42,117); (102,100)", "ok": false}
+{"task": "brightness", "i": 118, "pred": "(218, 240); (596, 140)", "gold": "(87,191); (175,141)", "ok": false}
+{"task": "brightness", "i": 119, "pred": "(788, 421); (397, 540)", "gold": "(39,64); (172,91)", "ok": false}
+{"task": "brightness", "i": 120, "pred": "(505, 128); (400, 233)", "gold": "(55,47); (130,35)", "ok": false}
+{"task": "brightness", "i": 121, "pred": "(233, 400); (687, 200)", "gold": "(196,180); (80,171)", "ok": false}
+{"task": "brightness", "i": 122, "pred": "(230, 700); (230, 280)", "gold": "(88,62); (75,142)", "ok": false}
+{"task": "brightness", "i": 123, "pred": "(127, 873); (842, 300)", "gold": "(121,86); (36,170)", "ok": false}
+{"task": "brightness", "i": 124, "pred": "(137, 240); (192, 810)", "gold": "(71,179); (172,90)", "ok": false}
+{"task": "brightness", "i": 125, "pred": "(296, 804); (390, 360)", "gold": "(49,158); (80,86)", "ok": false}
+{"task": "brightness", "i": 126, "pred": "(296, 831)", "gold": "(115,40); (194,25)", "ok": false}
+{"task": "brightness", "i": 127, "pred": "(122, 181); (492, 502)", "gold": "(43,108); (113,107)", "ok": false}
+{"task": "brightness", "i": 128, "pred": "(301, 650); (483, 650)", "gold": "(37,142); (81,69)", "ok": false}
+{"task": "brightness", "i": 129, "pred": "(197, 894)", "gold": "(48,54); (43,192)", "ok": false}
+{"task": "brightness", "i": 130, "pred": "(200, 400)", "gold": "(167,43); (78,87)", "ok": false}
+{"task": "brightness", "i": 131, "pred": "(197, 319)", "gold": "(196,181); (57,71)", "ok": false}
+{"task": "brightness", "i": 132, "pred": "(397, 270); (597, 852)", "gold": "(193,95); (178,163)", "ok": false}
+{"task": "brightness", "i": 133, "pred": "(123, 181)", "gold": "(113,50); (41,43)", "ok": false}
+{"task": "brightness", "i": 134, "pred": "(122, 650); (400, 281)", "gold": "(139,69); (191,76)", "ok": false}
+{"task": "brightness", "i": 135, "pred": "(492, 530); (169, 181)", "gold": "(53,42); (100,164)", "ok": false}
+{"task": "brightness", "i": 136, "pred": "(790, 361); (395, 651)", "gold": "(63,194); (179,82)", "ok": false}
+{"task": "brightness", "i": 137, "pred": "(173, 763); (873, 873)", "gold": "(190,161); (185,90)", "ok": false}
+{"task": "brightness", "i": 138, "pred": "(457, 270)", "gold": "(93,127); (116,65)", "ok": false}
+{"task": "brightness", "i": 139, "pred": "(157, 481); (352, 812)", "gold": "(92,52); (152,184)", "ok": false}
+{"task": "brightness", "i": 140, "pred": "(240, 444); (298, 160)", "gold": "(103,39); (38,99)", "ok": false}
+{"task": "brightness", "i": 141, "pred": "(200, 117); (217, 392)", "gold": "(44,36); (195,97)", "ok": false}
+{"task": "brightness", "i": 142, "pred": "(217, 180); (481, 571)", "gold": "(47,117); (74,50)", "ok": false}
+{"task": "brightness", "i": 143, "pred": "(271, 801); (473, 200)", "gold": "(163,169); (91,159)", "ok": false}
+{"task": "brightness", "i": 144, "pred": "(781, 171)", "gold": "(63,148); (187,40)", "ok": false}
+{"task": "brightness", "i": 145, "pred": "(400, 171); (477, 365)", "gold": "(160,142); (93,101)", "ok": false}
+{"task": "brightness", "i": 146, "pred": "(123, 119); (833, 900)", "gold": "(185,186); (47,167)", "ok": false}
+{"task": "brightness", "i": 147, "pred": "(197, 481); (300, 156)", "gold": "(87,38); (68,103)", "ok": false}
+{"task": "brightness", "i": 148, "pred": "(595, 831); (500, 151)", "gold": "(159,98); (145,27)", "ok": false}
+{"task": "brightness", "i": 149, "pred": "(473, 700); (473, 169)", "gold": "(189,187); (130,142)", "ok": false}
+{"task": "brightness", "i": 150, "pred": "(401, 157)", "gold": "(185,101); (104,39)", "ok": false}
+{"task": "brightness", "i": 151, "pred": "(469, 319); (119, 840)", "gold": "(39,180); (142,57)", "ok": false}
+{"task": "brightness", "i": 152, "pred": "(373, 438)", "gold": "(158,156); (72,102)", "ok": false}
+{"task": "brightness", "i": 153, "pred": "(473, 500); (127, 221)", "gold": "(44,57); (56,189)", "ok": false}
+{"task": "brightness", "i": 154, "pred": "(200, 921)", "gold": "(140,50); (126,144)", "ok": false}
+{"task": "brightness", "i": 155, "pred": "(600, 350)", "gold": "(31,33); (161,71)", "ok": false}
+{"task": "brightness", "i": 156, "pred": "(200, 200); (583, 200)", "gold": "(78,195); (192,130)", "ok": false}
+{"task": "brightness", "i": 157, "pred": "(200, 233); (300, 475)", "gold": "(54,113); (67,62)", "ok": false}
+{"task": "brightness", "i": 158, "pred": "(200, 221); (833, 200)", "gold": "(194,44); (64,152)", "ok": false}
+{"task": "brightness", "i": 159, "pred": "(197, 935); (473, 835)", "gold": "(33,186); (49,129)", "ok": false}
+{"task": "brightness", "i": 160, "pred": "(419, 615); (483, 365)", "gold": "(113,42); (141,96)", "ok": false}
+{"task": "brightness", "i": 161, "pred": "(219, 400)", "gold": "(45,183); (72,91)", "ok": false}
+{"task": "brightness", "i": 162, "pred": "(483, 640)", "gold": "(115,44); (129,128)", "ok": false}
+{"task": "brightness", "i": 163, "pred": "(173, 930); (492, 481)", "gold": "(92,114); (53,191)", "ok": false}
+{"task": "brightness", "i": 164, "pred": "(197, 725); (483, 283)", "gold": "(179,70); (173,123)", "ok": false}
+{"task": "brightness", "i": 165, "pred": "(178, 562)", "gold": "(75,191); (85,59)", "ok": false}
+{"task": "brightness", "i": 166, "pred": "(675, 270)", "gold": "(40,109); (158,56)", "ok": false}
+{"task": "brightness", "i": 167, "pred": "(197, 110); (369, 450)", "gold": "(35,33); (57,116)", "ok": false}
+{"task": "brightness", "i": 168, "pred": "(127, 471); (278, 770)", "gold": "(73,170); (70,55)", "ok": false}
+{"task": "brightness", "i": 169, "pred": "(776, 550); (110, 923)", "gold": "(162,195); (160,126)", "ok": false}
+{"task": "brightness", "i": 170, "pred": "(197, 530); (128, 831)", "gold": "(111,142); (51,107)", "ok": false}
+{"task": "brightness", "i": 171, "pred": "(395, 329); (883, 781)", "gold": "(188,37); (195,169)", "ok": false}
+{"task": "brightness", "i": 172, "pred": "(483, 110); (838, 200)", "gold": "(35,65); (187,49)", "ok": false}
+{"task": "brightness", "i": 173, "pred": "(121, 357); (481, 480)", "gold": "(98,118); (158,116)", "ok": false}
+{"task": "brightness", "i": 174, "pred": "(173, 160); (670, 370)", "gold": "(137,141); (50,41)", "ok": false}
+{"task": "brightness", "i": 175, "pred": "(781, 481); (178, 300)", "gold": "(47,66); (180,111)", "ok": false}
+{"task": "brightness", "i": 176, "pred": "(123, 434); (192, 166)", "gold": "(35,88); (108,48)", "ok": false}
+{"task": "brightness", "i": 177, "pred": "(113, 650)", "gold": "(108,57); (33,133)", "ok": false}
+{"task": "brightness", "i": 178, "pred": "(127, 200); (776, 660)", "gold": "(30,166); (161,143)", "ok": false}
+{"task": "brightness", "i": 179, "pred": "(127, 831)", "gold": "(60,66); (185,81)", "ok": false}
+{"task": "brightness", "i": 180, "pred": "(197, 171); (352, 824)", "gold": "(114,40); (168,106)", "ok": false}
+{"task": "brightness", "i": 181, "pred": "(352, 640); (296, 940)", "gold": "(91,190); (181,164)", "ok": false}
+{"task": "brightness", "i": 182, "pred": "(492, 773); (127, 197)", "gold": "(94,68); (117,144)", "ok": false}
+{"task": "brightness", "i": 183, "pred": "(197, 331); (483, 181)", "gold": "(110,49); (168,159)", "ok": false}
+{"task": "brightness", "i": 184, "pred": "(492, 815); (173, 281)", "gold": "(187,129); (161,74)", "ok": false}
+{"task": "brightness", "i": 185, "pred": "(651, 400); (833, 583)", "gold": "(164,135); (145,86)", "ok": false}
+{"task": "brightness", "i": 186, "pred": "(197, 560); (200, 260)", "gold": "(63,191); (62,133)", "ok": false}
+{"task": "brightness", "i": 187, "pred": "(400, 784); (599, 942)", "gold": "(196,144); (149,94)", "ok": false}
+{"task": "brightness", "i": 188, "pred": "(113, 802)", "gold": "(29,157); (122,56)", "ok": false}
+{"task": "brightness", "i": 189, "pred": "(397, 192); (350, 360)", "gold": "(80,92); (153,122)", "ok": false}
+{"task": "brightness", "i": 190, "pred": "(200, 859); (740, 200)", "gold": "(130,104); (126,173)", "ok": false}
+{"task": "brightness", "i": 191, "pred": "(483, 367)", "gold": "(186,127); (133,83)", "ok": false}
+{"task": "brightness", "i": 192, "pred": "(197, 180); (312, 481)", "gold": "(190,84); (62,115)", "ok": false}
+{"task": "brightness", "i": 193, "pred": "(183, 540)", "gold": "(118,90); (64,115)", "ok": false}
+{"task": "brightness", "i": 194, "pred": "(395, 874); (838, 812)", "gold": "(192,165); (123,179)", "ok": false}
+{"task": "brightness", "i": 195, "pred": "(367, 140); (367, 380)", "gold": "(37,146); (93,116)", "ok": false}
+{"task": "brightness", "i": 196, "pred": "(483, 399); (679, 759)", "gold": "(191,135); (107,76)", "ok": false}
+{"task": "brightness", "i": 197, "pred": "(492, 540); (579, 126)", "gold": "(76,174); (120,119)", "ok": false}
+{"task": "brightness", "i": 198, "pred": "(173, 200)", "gold": "(42,127); (50,48)", "ok": false}
+{"task": "brightness", "i": 199, "pred": "(312, 700); (397, 600)", "gold": "(173,41); (90,137)", "ok": false}
+{"task": "rotated", "i": 0, "pred": "(292, 388)", "gold": "(48,33)", "ok": false}
+{"task": "rotated", "i": 1, "pred": "(312, 667)", "gold": "(151,125)", "ok": false}
+{"task": "rotated", "i": 2, "pred": "(333, 788)", "gold": "(100,109)", "ok": false}
+{"task": "rotated", "i": 3, "pred": "(473, 172)", "gold": "(44,170)", "ok": false}
+{"task": "rotated", "i": 4, "pred": "(219, 352)", "gold": "(120,130)", "ok": false}
+{"task": "rotated", "i": 5, "pred": "(342, 733)", "gold": "(34,61)", "ok": false}
+{"task": "rotated", "i": 6, "pred": "(128, 317)", "gold": "(173,90)", "ok": false}
+{"task": "rotated", "i": 7, "pred": "(283, 160)", "gold": "(112,179)", "ok": false}
+{"task": "rotated", "i": 8, "pred": "(497, 360)", "gold": "(121,78)", "ok": false}
+{"task": "rotated", "i": 9, "pred": "(410, 444)", "gold": "(41,143)", "ok": false}
+{"task": "rotated", "i": 10, "pred": "(158, 208)", "gold": "(177,106)", "ok": false}
+{"task": "rotated", "i": 11, "pred": "(488, 740)", "gold": "(101,157)", "ok": false}
+{"task": "rotated", "i": 12, "pred": "(228, 214)", "gold": "(93,140)", "ok": false}
+{"task": "rotated", "i": 13, "pred": "(812, 288)", "gold": "(54,80)", "ok": false}
+{"task": "rotated", "i": 14, "pred": "(542, 804)", "gold": "(179,121)", "ok": false}
+{"task": "rotated", "i": 15, "pred": "(312, 137)", "gold": "(76,35)", "ok": false}
+{"task": "rotated", "i": 16, "pred": "(433, 427)", "gold": "(172,85)", "ok": false}
+{"task": "rotated", "i": 17, "pred": "(392, 370)", "gold": "(89,84)", "ok": false}
+{"task": "rotated", "i": 18, "pred": "(197, 718)", "gold": "(43,163)", "ok": false}
+{"task": "rotated", "i": 19, "pred": "(375, 442)", "gold": "(141,163)", "ok": false}
+{"task": "rotated", "i": 20, "pred": "(378, 667)", "gold": "(89,151)", "ok": false}
+{"task": "rotated", "i": 21, "pred": "(233, 344)", "gold": "(162,93)", "ok": false}
+{"task": "rotated", "i": 22, "pred": "(312, 723)", "gold": "(153,176)", "ok": false}
+{"task": "rotated", "i": 23, "pred": "(197, 824)", "gold": "(53,178)", "ok": false}
+{"task": "rotated", "i": 24, "pred": "(278, 262)", "gold": "(57,181)", "ok": false}
+{"task": "rotated", "i": 25, "pred": "(350, 373)", "gold": "(42,186)", "ok": false}
+{"task": "rotated", "i": 26, "pred": "(342, 700)", "gold": "(118,93)", "ok": false}
+{"task": "rotated", "i": 27, "pred": "(588, 280)", "gold": "(56,71)", "ok": false}
+{"task": "rotated", "i": 28, "pred": "(133, 800)", "gold": "(60,42)", "ok": false}
+{"task": "rotated", "i": 29, "pred": "(244, 312)", "gold": "(170,73)", "ok": false}
+{"task": "rotated", "i": 30, "pred": "(272, 138)", "gold": "(176,192)", "ok": false}
+{"task": "rotated", "i": 31, "pred": "(300, 144)", "gold": "(142,82)", "ok": false}
+{"task": "rotated", "i": 32, "pred": "(144, 304)", "gold": "(163,61)", "ok": false}
+{"task": "rotated", "i": 33, "pred": "(238, 238)", "gold": "(155,120)", "ok": false}
+{"task": "rotated", "i": 34, "pred": "(342, 398)", "gold": "(34,192)", "ok": false}
+{"task": "rotated", "i": 35, "pred": "(262, 650)", "gold": "(191,41)", "ok": false}
+{"task": "rotated", "i": 36, "pred": "(808, 712)", "gold": "(129,92)", "ok": false}
+{"task": "rotated", "i": 37, "pred": "(304, 660)", "gold": "(135,133)", "ok": false}
+{"task": "rotated", "i": 38, "pred": "(142, 771)", "gold": "(110,158)", "ok": false}
+{"task": "rotated", "i": 39, "pred": "(367, 232)", "gold": "(112,116)", "ok": false}
+{"task": "rotated", "i": 40, "pred": "(206, 413)", "gold": "(82,37)", "ok": false}
+{"task": "rotated", "i": 41, "pred": "(697, 773)", "gold": "(49,37)", "ok": false}
+{"task": "rotated", "i": 42, "pred": "(218, 640)", "gold": "(176,30)", "ok": false}
+{"task": "rotated", "i": 43, "pred": "(838, 144)", "gold": "(138,86)", "ok": false}
+{"task": "rotated", "i": 44, "pred": "(452, 398)", "gold": "(151,114)", "ok": false}
+{"task": "rotated", "i": 45, "pred": "(342, 424)", "gold": "(184,62)", "ok": false}
+{"task": "rotated", "i": 46, "pred": "(250, 650)", "gold": "(56,142)", "ok": false}
+{"task": "rotated", "i": 47, "pred": "(622, 354)", "gold": "(61,34)", "ok": false}
+{"task": "rotated", "i": 48, "pred": "(200, 764)", "gold": "(48,177)", "ok": false}
+{"task": "rotated", "i": 49, "pred": "(442, 650)", "gold": "(161,191)", "ok": false}
+{"task": "rotated", "i": 50, "pred": "(413, 640)", "gold": "(183,94)", "ok": false}
+{"task": "rotated", "i": 51, "pred": "(194, 592)", "gold": "(153,103)", "ok": false}
+{"task": "rotated", "i": 52, "pred": "(367, 300)", "gold": "(84,107)", "ok": false}
+{"task": "rotated", "i": 53, "pred": "(528, 160)", "gold": "(105,86)", "ok": false}
+{"task": "rotated", "i": 54, "pred": "(500, 250)", "gold": "(125,52)", "ok": false}
+{"task": "rotated", "i": 55, "pred": "(304, 693)", "gold": "(143,147)", "ok": false}
+{"task": "rotated", "i": 56, "pred": "(167, 517)", "gold": "(91,37)", "ok": false}
+{"task": "rotated", "i": 57, "pred": "(218, 792)", "gold": "(124,136)", "ok": false}
+{"task": "rotated", "i": 58, "pred": "(375, 156)", "gold": "(101,171)", "ok": false}
+{"task": "rotated", "i": 59, "pred": "(500, 400)", "gold": "(52,50)", "ok": false}
+{"task": "rotated", "i": 60, "pred": "(144, 792)", "gold": "(174,174)", "ok": false}
+{"task": "rotated", "i": 61, "pred": "(710, 144)", "gold": "(33,33)", "ok": false}
+{"task": "rotated", "i": 62, "pred": "(392, 454)", "gold": "(189,112)", "ok": false}
+{"task": "rotated", "i": 63, "pred": "(278, 325)", "gold": "(180,175)", "ok": false}
+{"task": "rotated", "i": 64, "pred": "(230, 319)", "gold": "(165,106)", "ok": false}
+{"task": "rotated", "i": 65, "pred": "(197, 166)", "gold": "(180,138)", "ok": false}
+{"task": "rotated", "i": 66, "pred": "(378, 614)", "gold": "(186,42)", "ok": false}
+{"task": "rotated", "i": 67, "pred": "(492, 792)", "gold": "(54,33)", "ok": false}
+{"task": "rotated", "i": 68, "pred": "(473, 542)", "gold": "(43,117)", "ok": false}
+{"task": "rotated", "i": 69, "pred": "(262, 230)", "gold": "(175,145)", "ok": false}
+{"task": "rotated", "i": 70, "pred": "(705, 774)", "gold": "(183,130)", "ok": false}
+{"task": "rotated", "i": 71, "pred": "(312, 444)", "gold": "(77,104)", "ok": false}
+{"task": "rotated", "i": 72, "pred": "(512, 782)", "gold": "(149,50)", "ok": false}
+{"task": "rotated", "i": 73, "pred": "(410, 208)", "gold": "(40,178)", "ok": false}
+{"task": "rotated", "i": 74, "pred": "(283, 654)", "gold": "(181,184)", "ok": false}
+{"task": "rotated", "i": 75, "pred": "(502, 770)", "gold": "(155,142)", "ok": false}
+{"task": "rotated", "i": 76, "pred": "(683, 813)", "gold": "(58,85)", "ok": false}
+{"task": "rotated", "i": 77, "pred": "(312, 808)", "gold": "(69,39)", "ok": false}
+{"task": "rotated", "i": 78, "pred": "(204, 394)", "gold": "(154,174)", "ok": false}
+{"task": "rotated", "i": 79, "pred": "(392, 367)", "gold": "(62,143)", "ok": false}
+{"task": "rotated", "i": 80, "pred": "(517, 544)", "gold": "(122,55)", "ok": false}
+{"task": "rotated", "i": 81, "pred": "(140, 608)", "gold": "(90,112)", "ok": false}
+{"task": "rotated", "i": 82, "pred": "(375, 550)", "gold": "(131,180)", "ok": false}
+{"task": "rotated", "i": 83, "pred": "(623, 242)", "gold": "(121,122)", "ok": false}
+{"task": "rotated", "i": 84, "pred": "(173, 660)", "gold": "(182,36)", "ok": false}
+{"task": "rotated", "i": 85, "pred": "(500, 167)", "gold": "(169,86)", "ok": false}
+{"task": "rotated", "i": 86, "pred": "(433, 212)", "gold": "(99,50)", "ok": false}
+{"task": "rotated", "i": 87, "pred": "(356, 188)", "gold": "(163,73)", "ok": false}
+{"task": "rotated", "i": 88, "pred": "(388, 208)", "gold": "(86,113)", "ok": false}
+{"task": "rotated", "i": 89, "pred": "(342, 458)", "gold": "(80,176)", "ok": false}
+{"task": "rotated", "i": 90, "pred": "(808, 817)", "gold": "(72,37)", "ok": false}
+{"task": "rotated", "i": 91, "pred": "(352, 544)", "gold": "(86,169)", "ok": false}
+{"task": "rotated", "i": 92, "pred": "(283, 750)", "gold": "(179,187)", "ok": false}
+{"task": "rotated", "i": 93, "pred": "(176, 292)", "gold": "(119,100)", "ok": false}
+{"task": "rotated", "i": 94, "pred": "(300, 638)", "gold": "(177,49)", "ok": false}
+{"task": "rotated", "i": 95, "pred": "(169, 270)", "gold": "(60,59)", "ok": false}
+{"task": "rotated", "i": 96, "pred": "(709, 394)", "gold": "(32,45)", "ok": false}
+{"task": "rotated", "i": 97, "pred": "(208, 317)", "gold": "(50,58)", "ok": false}
+{"task": "rotated", "i": 98, "pred": "(478, 683)", "gold": "(47,65)", "ok": false}
+{"task": "rotated", "i": 99, "pred": "(228, 352)", "gold": "(186,59)", "ok": false}
+{"task": "rotated", "i": 100, "pred": "(808, 827)", "gold": "(166,115)", "ok": false}
+{"task": "rotated", "i": 101, "pred": "(223, 554)", "gold": "(192,77)", "ok": false}
+{"task": "rotated", "i": 102, "pred": "(808, 760)", "gold": "(33,42)", "ok": false}
+{"task": "rotated", "i": 103, "pred": "(333, 512)", "gold": "(189,129)", "ok": false}
+{"task": "rotated", "i": 104, "pred": "(697, 288)", "gold": "(44,131)", "ok": false}
+{"task": "rotated", "i": 105, "pred": "(477, 438)", "gold": "(192,91)", "ok": false}
+{"task": "rotated", "i": 106, "pred": "(300, 312)", "gold": "(46,118)", "ok": false}
+{"task": "rotated", "i": 107, "pred": "(694, 200)", "gold": "(179,39)", "ok": false}
+{"task": "rotated", "i": 108, "pred": "(473, 444)", "gold": "(172,35)", "ok": false}
+{"task": "rotated", "i": 109, "pred": "(378, 640)", "gold": "(146,36)", "ok": false}
+{"task": "rotated", "i": 110, "pred": "(777, 312)", "gold": "(174,171)", "ok": false}
+{"task": "rotated", "i": 111, "pred": "(312, 540)", "gold": "(84,136)", "ok": false}
+{"task": "rotated", "i": 112, "pred": "(473, 350)", "gold": "(104,69)", "ok": false}
+{"task": "rotated", "i": 113, "pred": "(373, 250)", "gold": "(139,112)", "ok": false}
+{"task": "rotated", "i": 114, "pred": "(312, 824)", "gold": "(160,69)", "ok": false}
+{"task": "rotated", "i": 115, "pred": "(375, 468)", "gold": "(190,168)", "ok": false}
+{"task": "rotated", "i": 116, "pred": "(272, 444)", "gold": "(37,173)", "ok": false}
+{"task": "rotated", "i": 117, "pred": "(473, 444)", "gold": "(135,46)", "ok": false}
+{"task": "rotated", "i": 118, "pred": "(458, 777)", "gold": "(60,40)", "ok": false}
+{"task": "rotated", "i": 119, "pred": "(123, 300)", "gold": "(68,159)", "ok": false}
+{"task": "rotated", "i": 120, "pred": "(242, 483)", "gold": "(63,163)", "ok": false}
+{"task": "rotated", "i": 121, "pred": "(144, 581)", "gold": "(27,31)", "ok": false}
+{"task": "rotated", "i": 122, "pred": "(500, 400)", "gold": "(177,34)", "ok": false}
+{"task": "rotated", "i": 123, "pred": "(667, 160)", "gold": "(65,43)", "ok": false}
+{"task": "rotated", "i": 124, "pred": "(312, 270)", "gold": "(74,62)", "ok": false}
+{"task": "rotated", "i": 125, "pred": "(308, 674)", "gold": "(142,94)", "ok": false}
+{"task": "rotated", "i": 126, "pred": "(296, 296)", "gold": "(161,34)", "ok": false}
+{"task": "rotated", "i": 127, "pred": "(400, 840)", "gold": "(93,56)", "ok": false}
+{"task": "rotated", "i": 128, "pred": "(288, 314)", "gold": "(98,120)", "ok": false}
+{"task": "rotated", "i": 129, "pred": "(312, 538)", "gold": "(51,167)", "ok": false}
+{"task": "rotated", "i": 130, "pred": "(600, 352)", "gold": "(184,134)", "ok": false}
+{"task": "rotated", "i": 131, "pred": "(488, 774)", "gold": "(95,97)", "ok": false}
+{"task": "rotated", "i": 132, "pred": "(323, 883)", "gold": "(52,44)", "ok": false}
+{"task": "rotated", "i": 133, "pred": "(183, 440)", "gold": "(68,162)", "ok": false}
+{"task": "rotated", "i": 134, "pred": "(208, 696)", "gold": "(46,33)", "ok": false}
+{"task": "rotated", "i": 135, "pred": "(520, 417)", "gold": "(52,131)", "ok": false}
+{"task": "rotated", "i": 136, "pred": "(223, 750)", "gold": "(114,106)", "ok": false}
+{"task": "rotated", "i": 137, "pred": "(392, 172)", "gold": "(164,118)", "ok": false}
+{"task": "rotated", "i": 138, "pred": "(278, 183)", "gold": "(49,101)", "ok": false}
+{"task": "rotated", "i": 139, "pred": "(808, 290)", "gold": "(110,48)", "ok": false}
+{"task": "rotated", "i": 140, "pred": "(352, 333)", "gold": "(134,153)", "ok": false}
+{"task": "rotated", "i": 141, "pred": "(218, 220)", "gold": "(58,187)", "ok": false}
+{"task": "rotated", "i": 142, "pred": "(512, 512)", "gold": "(115,114)", "ok": false}
+{"task": "rotated", "i": 143, "pred": "(271, 584)", "gold": "(62,71)", "ok": false}
+{"task": "rotated", "i": 144, "pred": "(492, 812)", "gold": "(101,183)", "ok": false}
+{"task": "rotated", "i": 145, "pred": "(128, 790)", "gold": "(100,167)", "ok": false}
+{"task": "rotated", "i": 146, "pred": "(312, 552)", "gold": "(54,181)", "ok": false}
+{"task": "rotated", "i": 147, "pred": "(208, 720)", "gold": "(104,154)", "ok": false}
+{"task": "rotated", "i": 148, "pred": "(517, 321)", "gold": "(172,171)", "ok": false}
+{"task": "rotated", "i": 149, "pred": "(500, 511)", "gold": "(68,139)", "ok": false}
+{"task": "rotated", "i": 150, "pred": "(400, 658)", "gold": "(189,101)", "ok": false}
+{"task": "rotated", "i": 151, "pred": "(204, 640)", "gold": "(172,55)", "ok": false}
+{"task": "rotated", "i": 152, "pred": "(697, 350)", "gold": "(182,73)", "ok": false}
+{"task": "rotated", "i": 153, "pred": "(818, 664)", "gold": "(139,105)", "ok": false}
+{"task": "rotated", "i": 154, "pred": "(400, 808)", "gold": "(155,160)", "ok": false}
+{"task": "rotated", "i": 155, "pred": "(517, 482)", "gold": "(176,184)", "ok": false}
+{"task": "rotated", "i": 156, "pred": "(272, 160)", "gold": "(74,186)", "ok": false}
+{"task": "rotated", "i": 157, "pred": "(628, 770)", "gold": "(124,185)", "ok": false}
+{"task": "rotated", "i": 158, "pred": "(302, 827)", "gold": "(176,152)", "ok": false}
+{"task": "rotated", "i": 159, "pred": "(433, 542)", "gold": "(108,123)", "ok": false}
+{"task": "rotated", "i": 160, "pred": "(352, 542)", "gold": "(65,180)", "ok": false}
+{"task": "rotated", "i": 161, "pred": "(230, 777)", "gold": "(111,85)", "ok": false}
+{"task": "rotated", "i": 162, "pred": "(773, 814)", "gold": "(144,85)", "ok": false}
+{"task": "rotated", "i": 163, "pred": "(375, 604)", "gold": "(37,110)", "ok": false}
+{"task": "rotated", "i": 164, "pred": "(312, 792)", "gold": "(66,92)", "ok": false}
+{"task": "rotated", "i": 165, "pred": "(592, 656)", "gold": "(45,55)", "ok": false}
+{"task": "rotated", "i": 166, "pred": "(304, 188)", "gold": "(159,46)", "ok": false}
+{"task": "rotated", "i": 167, "pred": "(176, 176)", "gold": "(106,143)", "ok": false}
+{"task": "rotated", "i": 168, "pred": "(302, 654)", "gold": "(154,188)", "ok": false}
+{"task": "rotated", "i": 169, "pred": "(200, 820)", "gold": "(42,83)", "ok": false}
+{"task": "rotated", "i": 170, "pred": "(208, 352)", "gold": "(107,184)", "ok": false}
+{"task": "rotated", "i": 171, "pred": "(244, 750)", "gold": "(110,165)", "ok": false}
+{"task": "rotated", "i": 172, "pred": "(375, 242)", "gold": "(158,175)", "ok": false}
+{"task": "rotated", "i": 173, "pred": "(160, 352)", "gold": "(39,84)", "ok": false}
+{"task": "rotated", "i": 174, "pred": "(325, 604)", "gold": "(135,51)", "ok": false}
+{"task": "rotated", "i": 175, "pred": "(218, 592)", "gold": "(162,117)", "ok": false}
+{"task": "rotated", "i": 176, "pred": "(367, 511)", "gold": "(84,118)", "ok": false}
+{"task": "rotated", "i": 177, "pred": "(367, 375)", "gold": "(88,156)", "ok": false}
+{"task": "rotated", "i": 178, "pred": "(612, 300)", "gold": "(78,87)", "ok": false}
+{"task": "rotated", "i": 179, "pred": "(812, 342)", "gold": "(160,181)", "ok": false}
+{"task": "rotated", "i": 180, "pred": "(200, 650)", "gold": "(51,189)", "ok": false}
+{"task": "rotated", "i": 181, "pred": "(173, 570)", "gold": "(97,181)", "ok": false}
+{"task": "rotated", "i": 182, "pred": "(312, 412)", "gold": "(80,147)", "ok": false}
+{"task": "rotated", "i": 183, "pred": "(400, 200)", "gold": "(149,163)", "ok": false}
+{"task": "rotated", "i": 184, "pred": "(272, 512)", "gold": "(91,187)", "ok": false}
+{"task": "rotated", "i": 185, "pred": "(492, 542)", "gold": "(174,163)", "ok": false}
+{"task": "rotated", "i": 186, "pred": "(312, 625)", "gold": "(108,71)", "ok": false}
+{"task": "rotated", "i": 187, "pred": "(283, 171)", "gold": "(150,50)", "ok": false}
+{"task": "rotated", "i": 188, "pred": "(228, 756)", "gold": "(54,57)", "ok": false}
+{"task": "rotated", "i": 189, "pred": "(312, 788)", "gold": "(177,108)", "ok": false}
+{"task": "rotated", "i": 190, "pred": "(178, 720)", "gold": "(33,88)", "ok": false}
+{"task": "rotated", "i": 191, "pred": "(500, 200)", "gold": "(43,159)", "ok": false}
+{"task": "rotated", "i": 192, "pred": "(375, 538)", "gold": "(164,61)", "ok": false}
+{"task": "rotated", "i": 193, "pred": "(827, 212)", "gold": "(185,109)", "ok": false}
+{"task": "rotated", "i": 194, "pred": "(262, 400)", "gold": "(166,134)", "ok": false}
+{"task": "rotated", "i": 195, "pred": "(229, 734)", "gold": "(106,44)", "ok": false}
+{"task": "rotated", "i": 196, "pred": "(808, 200)", "gold": "(70,127)", "ok": false}
+{"task": "rotated", "i": 197, "pred": "(367, 527)", "gold": "(40,49)", "ok": false}
+{"task": "rotated", "i": 198, "pred": "(312, 107)", "gold": "(38,197)", "ok": false}
+{"task": "rotated", "i": 199, "pred": "(283, 812)", "gold": "(143,36)", "ok": false}
+{"task": "vowel", "i": 0, "pred": "(538, 200)", "gold": "(129,49); (183,88)", "ok": false}
+{"task": "vowel", "i": 1, "pred": "(197, 227)", "gold": "(48,68); (135,187)", "ok": false}
+{"task": "vowel", "i": 2, "pred": "(790, 460)", "gold": "(183,112); (62,154)", "ok": false}
+{"task": "vowel", "i": 3, "pred": "(127, 600)", "gold": "(115,82); (38,135)", "ok": false}
+{"task": "vowel", "i": 4, "pred": "(292, 777)", "gold": "(191,178); (73,174)", "ok": false}
+{"task": "vowel", "i": 5, "pred": "(710, 200)", "gold": "(149,53); (162,116)", "ok": false}
+{"task": "vowel", "i": 6, "pred": "(708, 218)", "gold": "(103,163); (169,54)", "ok": false}
+{"task": "vowel", "i": 7, "pred": "(542, 200)", "gold": "(134,56); (70,42)", "ok": false}
+{"task": "vowel", "i": 8, "pred": "(217,660)", "gold": "(155,188); (60,138)", "ok": false}
+{"task": "vowel", "i": 9, "pred": "(290, 320); (290, 550); (290, 780)", "gold": "(63,121); (74,75)", "ok": false}
+{"task": "vowel", "i": 10, "pred": "(200, 500)", "gold": "(177,179); (52,116)", "ok": false}
+{"task": "vowel", "i": 11, "pred": "(150, 170)", "gold": "(122,85); (46,39)", "ok": false}
+{"task": "vowel", "i": 12, "pred": "(260, 810)", "gold": "(40,180); (58,131)", "ok": false}
+{"task": "vowel", "i": 13, "pred": "(400, 730)", "gold": "(132,148); (43,193)", "ok": false}
+{"task": "vowel", "i": 14, "pred": "(692, 300)", "gold": "(167,69); (192,193)", "ok": false}
+{"task": "vowel", "i": 15, "pred": "(300, 600)", "gold": "(86,136); (82,50)", "ok": false}
+{"task": "vowel", "i": 16, "pred": "(508, 250)", "gold": "(120,60); (180,174)", "ok": false}
+{"task": "vowel", "i": 17, "pred": "(200,157)\n(320,657)\n(580,657)", "gold": "(91,138); (138,97)", "ok": false}
+{"task": "vowel", "i": 18, "pred": "(697, 270)", "gold": "(174,56); (121,175)", "ok": false}
+{"task": "vowel", "i": 19, "pred": "(432, 352)", "gold": "(182,125); (34,99)", "ok": false}
+{"task": "vowel", "i": 20, "pred": "(217, 434)", "gold": "(69,53); (40,108)", "ok": false}
+{"task": "vowel", "i": 21, "pred": "(247, 166)", "gold": "(174,167); (61,42)", "ok": false}
+{"task": "vowel", "i": 22, "pred": "(312, 650)", "gold": "(97,181); (88,139)", "ok": false}
+{"task": "vowel", "i": 23, "pred": "(406, 473)", "gold": "(56,106); (109,112)", "ok": false}
+{"task": "vowel", "i": 24, "pred": "(117, 208)", "gold": "(173,142); (37,50)", "ok": false}
+{"task": "vowel", "i": 25, "pred": "(130, 820)", "gold": "(158,167); (52,173)", "ok": false}
+{"task": "vowel", "i": 26, "pred": "(122,310)", "gold": "(98,55); (41,77)", "ok": false}
+{"task": "vowel", "i": 27, "pred": "(200, 140)", "gold": "(118,200); (148,43)", "ok": false}
+{"task": "vowel", "i": 28, "pred": "(497, 200)", "gold": "(111,47); (174,92)", "ok": false}
+{"task": "vowel", "i": 29, "pred": "(723, 900)", "gold": "(158,59); (187,186)", "ok": false}
+{"task": "vowel", "i": 30, "pred": "(200, 638)", "gold": "(143,192); (53,136)", "ok": false}
+{"task": "vowel", "i": 31, "pred": "(347, 330)", "gold": "(93,76); (186,127)", "ok": false}
+{"task": "vowel", "i": 32, "pred": "(502, 541)", "gold": "(125,195); (191,183)", "ok": false}
+{"task": "vowel", "i": 33, "pred": "(305, 240)", "gold": "(41,126); (77,57)", "ok": false}
+{"task": "vowel", "i": 34, "pred": "(788, 192)", "gold": "(158,48); (165,133)", "ok": false}
+{"task": "vowel", "i": 35, "pred": "(500,170)", "gold": "(165,61); (114,39)", "ok": false}
+{"task": "vowel", "i": 36, "pred": "(283, 277)", "gold": "(170,41); (48,61)", "ok": false}
+{"task": "vowel", "i": 37, "pred": "(220, 840)", "gold": "(66,71); (61,183)", "ok": false}
+{"task": "vowel", "i": 38, "pred": "(170,364)", "gold": "(122,140); (56,94)", "ok": false}
+{"task": "vowel", "i": 39, "pred": "(110, 319)", "gold": "(33,75); (178,190)", "ok": false}
+{"task": "vowel", "i": 40, "pred": "(200,530)", "gold": "(45,122); (67,79)", "ok": false}
+{"task": "vowel", "i": 41, "pred": "(508, 160)", "gold": "(190,85); (115,39)", "ok": false}
+{"task": "vowel", "i": 42, "pred": "(595,570)", "gold": "(124,137); (172,176)", "ok": false}
+{"task": "vowel", "i": 43, "pred": "(352, 610)", "gold": "(43,190); (92,142)", "ok": false}
+{"task": "vowel", "i": 44, "pred": "(600, 427)", "gold": "(63,84); (141,91)", "ok": false}
+{"task": "vowel", "i": 45, "pred": "(502, 450)", "gold": "(130,96); (124,47)", "ok": false}
+{"task": "vowel", "i": 46, "pred": "(512, 310)", "gold": "(161,69); (124,150)", "ok": false}
+{"task": "vowel", "i": 47, "pred": "(100, 840)", "gold": "(31,178); (18,48)", "ok": false}
+{"task": "vowel", "i": 48, "pred": "(610, 270)", "gold": "(149,65); (94,120)", "ok": false}
+{"task": "vowel", "i": 49, "pred": "(100, 540)", "gold": "(27,119); (115,154)", "ok": false}
+{"task": "vowel", "i": 50, "pred": "(238, 181)", "gold": "(65,48); (127,187)", "ok": false}
+{"task": "vowel", "i": 51, "pred": "(117, 570)", "gold": "(34,122); (129,182)", "ok": false}
+{"task": "vowel", "i": 52, "pred": "(812, 200)", "gold": "(189,50); (121,138)", "ok": false}
+{"task": "vowel", "i": 53, "pred": "(397, 180)", "gold": "(179,93); (65,41)", "ok": false}
+{"task": "vowel", "i": 54, "pred": "(130,250)", "gold": "(49,58); (192,191)", "ok": false}
+{"task": "vowel", "i": 55, "pred": "(292, 300)", "gold": "(57,138); (80,70)", "ok": false}
+{"task": "vowel", "i": 56, "pred": "(300, 684)", "gold": "(150,169); (88,162)", "ok": false}
+{"task": "vowel", "i": 57, "pred": "(217, 315)", "gold": "(56,68); (180,180)", "ok": false}
+{"task": "vowel", "i": 58, "pred": "(352, 240)", "gold": "(95,58); (81,186)", "ok": false}
+{"task": "vowel", "i": 59, "pred": "(400, 569)", "gold": "(107,119); (185,84)", "ok": false}
+{"task": "vowel", "i": 60, "pred": "(128,730)", "gold": "(41,165); (176,165)", "ok": false}
+{"task": "vowel", "i": 61, "pred": "(642, 882)", "gold": "(149,194); (38,150)", "ok": false}
+{"task": "vowel", "i": 62, "pred": "(270, 270)", "gold": "(53,65); (160,82)", "ok": false}
+{"task": "vowel", "i": 63, "pred": "(417, 625)", "gold": "(105,142); (188,187)", "ok": false}
+{"task": "vowel", "i": 64, "pred": "(300, 875)", "gold": "(83,190); (105,48)", "ok": false}
+{"task": "vowel", "i": 65, "pred": "(697, 470)", "gold": "(164,108); (178,47)", "ok": false}
+{"task": "vowel", "i": 66, "pred": "(110, 867)", "gold": "(89,199); (35,190)", "ok": false}
+{"task": "vowel", "i": 67, "pred": "(106, 400); (197, 850); (380, 650); (630, 280)", "gold": "(35,93); (80,185)", "ok": false}
+{"task": "vowel", "i": 68, "pred": "(223, 640)", "gold": "(57,146); (83,72)", "ok": false}
+{"task": "vowel", "i": 69, "pred": "(310, 152)", "gold": "(124,175); (167,45)", "ok": false}
+{"task": "vowel", "i": 70, "pred": "(267, 860)", "gold": "(70,170); (198,126)", "ok": false}
+{"task": "vowel", "i": 71, "pred": "(613, 900)", "gold": "(33,81); (119,197)", "ok": false}
+{"task": "vowel", "i": 72, "pred": "(452, 210)", "gold": "(128,199); (158,115)", "ok": false}
+{"task": "vowel", "i": 73, "pred": "(106, 484)", "gold": "(113,143); (35,47)", "ok": false}
+{"task": "vowel", "i": 74, "pred": "(680, 341)", "gold": "(189,74); (127,126)", "ok": false}
+{"task": "vowel", "i": 75, "pred": "(312, 530)", "gold": "(58,116); (86,47)", "ok": false}
+{"task": "vowel", "i": 76, "pred": "(133, 218)", "gold": "(51,180); (41,52)", "ok": false}
+{"task": "vowel", "i": 77, "pred": "(167, 800)", "gold": "(169,175); (48,169)", "ok": false}
+{"task": "vowel", "i": 78, "pred": "(712, 540)", "gold": "(167,116); (166,171)", "ok": false}
+{"task": "vowel", "i": 79, "pred": "(230, 484)", "gold": "(63,109); (40,44)", "ok": false}
+{"task": "vowel", "i": 80, "pred": "(694, 630)", "gold": "(65,98); (146,139)", "ok": false}
+{"task": "vowel", "i": 81, "pred": "(300, 592)", "gold": "(82,165); (148,121)", "ok": false}
+{"task": "vowel", "i": 82, "pred": "(217, 550)", "gold": "(49,131); (169,42)", "ok": false}
+{"task": "vowel", "i": 83, "pred": "(210, 840)", "gold": "(182,159); (62,188)", "ok": false}
+{"task": "vowel", "i": 84, "pred": "(792,300)", "gold": "(185,79); (48,172)", "ok": false}
+{"task": "vowel", "i": 85, "pred": "(200,550)", "gold": "(62,128); (183,106)", "ok": false}
+{"task": "vowel", "i": 86, "pred": "(220, 200); (540, 317); (490, 888)", "gold": "(33,155); (132,68)", "ok": false}
+{"task": "vowel", "i": 87, "pred": "(117, 250)", "gold": "(42,146); (37,65)", "ok": false}
+{"task": "vowel", "i": 88, "pred": "(508, 200)", "gold": "(37,118); (127,50)", "ok": false}
+{"task": "vowel", "i": 89, "pred": "(692, 352)", "gold": "(166,142); (184,87)", "ok": false}
+{"task": "vowel", "i": 90, "pred": "(500, 850)", "gold": "(180,149); (140,189)", "ok": false}
+{"task": "vowel", "i": 91, "pred": "(217, 619)", "gold": "(76,138); (115,186)", "ok": false}
+{"task": "vowel", "i": 92, "pred": "(560, 170)", "gold": "(168,161); (133,42)", "ok": false}
+{"task": "vowel", "i": 93, "pred": "(312, 438)", "gold": "(85,91); (120,148)", "ok": false}
+{"task": "vowel", "i": 94, "pred": "(197, 366)", "gold": "(55,80); (173,76)", "ok": false}
+{"task": "vowel", "i": 95, "pred": "(200, 240)", "gold": "(51,62); (172,196)", "ok": false}
+{"task": "vowel", "i": 96, "pred": "(122,154)", "gold": "(41,33); (37,199)", "ok": false}
+{"task": "vowel", "i": 97, "pred": "(488, 314)", "gold": "(80,59); (174,78)", "ok": false}
+{"task": "vowel", "i": 98, "pred": "(327, 550)", "gold": "(86,122); (78,51)", "ok": false}
+{"task": "vowel", "i": 99, "pred": "(122, 460)", "gold": "(34,52); (126,191)", "ok": false}
+{"task": "vowel", "i": 100, "pred": "(573, 630)", "gold": "(132,135); (148,183)", "ok": false}
+{"task": "vowel", "i": 101, "pred": "(217, 684)", "gold": "(78,169); (45,197)", "ok": false}
+{"task": "vowel", "i": 102, "pred": "(123, 460)", "gold": "(37,161); (38,109)", "ok": false}
+{"task": "vowel", "i": 103, "pred": "(710, 550)", "gold": "(64,193); (167,120)", "ok": false}
+{"task": "vowel", "i": 104, "pred": "(200, 880)", "gold": "(181,200); (182,71)", "ok": false}
+{"task": "vowel", "i": 105, "pred": "(697, 464)", "gold": "(157,94); (26,59)", "ok": false}
+{"task": "vowel", "i": 106, "pred": "(492,540)", "gold": "(182,175); (105,117)", "ok": false}
+{"task": "vowel", "i": 107, "pred": "(373, 430)\n(650, 430)\n(692, 810)", "gold": "(150,102); (148,189)", "ok": false}
+{"task": "vowel", "i": 108, "pred": "(192, 569)", "gold": "(76,77); (47,138)", "ok": false}
+{"task": "vowel", "i": 109, "pred": "(367, 540)", "gold": "(45,169); (97,78)", "ok": false}
+{"task": "vowel", "i": 110, "pred": "(510, 250)", "gold": "(183,135); (126,56)", "ok": false}
+{"task": "vowel", "i": 111, "pred": "(700,350)", "gold": "(162,75); (26,199)", "ok": false}
+{"task": "vowel", "i": 112, "pred": "(212, 827)", "gold": "(55,182); (120,182)", "ok": false}
+{"task": "vowel", "i": 113, "pred": "(417, 220)", "gold": "(23,61); (124,172)", "ok": false}
+{"task": "vowel", "i": 114, "pred": "(617, 400)", "gold": "(173,34); (132,90)", "ok": false}
+{"task": "vowel", "i": 115, "pred": "(367, 270)", "gold": "(167,77); (33,81)", "ok": false}
+{"task": "vowel", "i": 116, "pred": "(710, 400)", "gold": "(33,188); (175,97)", "ok": false}
+{"task": "vowel", "i": 117, "pred": "(122, 270)", "gold": "(41,71); (164,159)", "ok": false}
+{"task": "vowel", "i": 118, "pred": "(230, 188)", "gold": "(93,138); (60,42)", "ok": false}
+{"task": "vowel", "i": 119, "pred": "(367, 160)", "gold": "(51,172); (91,41)", "ok": false}
+{"task": "vowel", "i": 120, "pred": "(300, 511)", "gold": "(39,189); (83,122)", "ok": false}
+{"task": "vowel", "i": 121, "pred": "(617, 511)", "gold": "(143,121); (174,176)", "ok": false}
+{"task": "vowel", "i": 122, "pred": "(312, 540)", "gold": "(181,184); (99,61)", "ok": false}
+{"task": "vowel", "i": 123, "pred": "(200, 800)", "gold": "(63,46); (157,143)", "ok": false}
+{"task": "vowel", "i": 124, "pred": "(117, 770)", "gold": "(28,171); (118,182)", "ok": false}
+{"task": "vowel", "i": 125, "pred": "(160, 200)", "gold": "(183,72); (43,47)", "ok": false}
+{"task": "vowel", "i": 126, "pred": "(292, 850)", "gold": "(116,193); (63,196)", "ok": false}
+{"task": "vowel", "i": 127, "pred": "(197, 300)", "gold": "(50,68); (95,49)", "ok": false}
+{"task": "vowel", "i": 128, "pred": "(502, 550)", "gold": "(112,116); (31,52)", "ok": false}
+{"task": "vowel", "i": 129, "pred": "(327, 200)", "gold": "(80,56); (115,163)", "ok": false}
+{"task": "vowel", "i": 130, "pred": "(297, 230)", "gold": "(84,62); (190,134)", "ok": false}
+{"task": "vowel", "i": 131, "pred": "(110, 250)", "gold": "(35,60); (164,51)", "ok": false}
+{"task": "vowel", "i": 132, "pred": "(220, 720)", "gold": "(45,166); (190,133)", "ok": false}
+{"task": "vowel", "i": 133, "pred": "(270, 350)", "gold": "(143,37); (67,72)", "ok": false}
+{"task": "vowel", "i": 134, "pred": "(497,400)", "gold": "(108,89); (115,185)", "ok": false}
+{"task": "vowel", "i": 135, "pred": "(104, 181)", "gold": "(156,191); (29,49)", "ok": false}
+{"task": "vowel", "i": 136, "pred": "(200,400)", "gold": "(53,98); (130,196)", "ok": false}
+{"task": "vowel", "i": 137, "pred": "(317, 730)", "gold": "(185,96); (87,149)", "ok": false}
+{"task": "vowel", "i": 138, "pred": "(630, 850)", "gold": "(94,193); (145,61)", "ok": false}
+{"task": "vowel", "i": 139, "pred": "(200, 400)", "gold": "(104,163); (53,90)", "ok": false}
+{"task": "vowel", "i": 140, "pred": "(300,140)", "gold": "(131,50); (82,37)", "ok": false}
+{"task": "vowel", "i": 141, "pred": "(510, 270)", "gold": "(103,181); (129,70)", "ok": false}
+{"task": "vowel", "i": 142, "pred": "(580, 367)", "gold": "(119,80); (45,111)", "ok": false}
+{"task": "vowel", "i": 143, "pred": "(600, 620)", "gold": "(133,168); (183,122)", "ok": false}
+{"task": "vowel", "i": 144, "pred": "(130, 400)", "gold": "(118,116); (44,88)", "ok": false}
+{"task": "vowel", "i": 145, "pred": "(270, 170)", "gold": "(23,52); (149,134)", "ok": false}
+{"task": "vowel", "i": 146, "pred": "(296, 850)", "gold": "(72,37); (77,191)", "ok": false}
+{"task": "vowel", "i": 147, "pred": "(200, 550)", "gold": "(29,122); (165,107)", "ok": false}
+{"task": "vowel", "i": 148, "pred": "(708, 290)", "gold": "(167,75); (199,126)", "ok": false}
+{"task": "vowel", "i": 149, "pred": "(208, 434)", "gold": "(62,94); (64,49)", "ok": false}
+{"task": "vowel", "i": 150, "pred": "(313, 430)", "gold": "(184,45); (103,95)", "ok": false}
+{"task": "vowel", "i": 151, "pred": "(106,440)", "gold": "(38,103); (22,168)", "ok": false}
+{"task": "vowel", "i": 152, "pred": "(520, 922)", "gold": "(68,96); (151,197)", "ok": false}
+{"task": "vowel", "i": 153, "pred": "(217, 200)", "gold": "(73,54); (22,66)", "ok": false}
+{"task": "vowel", "i": 154, "pred": "(137,170)", "gold": "(118,76); (40,44)", "ok": false}
+{"task": "vowel", "i": 155, "pred": "(242, 450)", "gold": "(175,59); (66,103)", "ok": false}
+{"task": "vowel", "i": 156, "pred": "(492, 300)", "gold": "(117,122); (116,69)", "ok": false}
+{"task": "vowel", "i": 157, "pred": "(200, 527)", "gold": "(182,196); (49,122)", "ok": false}
+{"task": "vowel", "i": 158, "pred": "(357, 870)", "gold": "(92,173); (112,37)", "ok": false}
+{"task": "vowel", "i": 159, "pred": "(312, 580)", "gold": "(82,141); (153,80)", "ok": false}
+{"task": "vowel", "i": 160, "pred": "(400, 870)", "gold": "(103,187); (157,176)", "ok": false}
+{"task": "vowel", "i": 161, "pred": "(312, 850)", "gold": "(81,178); (185,134)", "ok": false}
+{"task": "vowel", "i": 162, "pred": "(217, 130)", "gold": "(110,187); (64,34)", "ok": false}
+{"task": "vowel", "i": 163, "pred": "(192, 450)", "gold": "(49,101); (55,146)", "ok": false}
+{"task": "vowel", "i": 164, "pred": "(700, 200)", "gold": "(185,194); (151,47)", "ok": false}
+{"task": "vowel", "i": 165, "pred": "(397, 875)", "gold": "(109,196); (189,99)", "ok": false}
+{"task": "vowel", "i": 166, "pred": "(197, 300)", "gold": "(165,116); (49,69)", "ok": false}
+{"task": "vowel", "i": 167, "pred": "(217, 620)", "gold": "(61,192); (60,142)", "ok": false}
+{"task": "vowel", "i": 168, "pred": "(117, 750)", "gold": "(39,165); (108,127)", "ok": false}
+{"task": "vowel", "i": 169, "pred": "(200, 750)", "gold": "(56,163); (19,155)", "ok": false}
+{"task": "vowel", "i": 170, "pred": "(750,260)", "gold": "(128,185); (186,54)", "ok": false}
+{"task": "vowel", "i": 171, "pred": "(310,200)", "gold": "(60,194); (94,53)", "ok": false}
+{"task": "vowel", "i": 172, "pred": "(312, 764)", "gold": "(91,166); (42,180)", "ok": false}
+{"task": "vowel", "i": 173, "pred": "(588, 540)", "gold": "(193,167); (145,119)", "ok": false}
+{"task": "vowel", "i": 174, "pred": "(350, 250)", "gold": "(86,58); (189,123)", "ok": false}
+{"task": "vowel", "i": 175, "pred": "(352, 683)", "gold": "(188,165); (95,126)", "ok": false}
+{"task": "vowel", "i": 176, "pred": "(390, 367)", "gold": "(103,79); (21,156)", "ok": false}
+{"task": "vowel", "i": 177, "pred": "(316, 550)", "gold": "(109,128); (161,113)", "ok": false}
+{"task": "vowel", "i": 178, "pred": "(130, 750)", "gold": "(43,165); (181,193)", "ok": false}
+{"task": "vowel", "i": 179, "pred": "(590,137)", "gold": "(120,33); (58,127)", "ok": false}
+{"task": "vowel", "i": 180, "pred": "(122,550)", "gold": "(147,180); (34,132)", "ok": false}
+{"task": "vowel", "i": 181, "pred": "(397,620)", "gold": "(113,133); (115,188)", "ok": false}
+{"task": "vowel", "i": 182, "pred": "(192, 530)", "gold": "(49,127); (146,168)", "ok": false}
+{"task": "vowel", "i": 183, "pred": "(738, 468)", "gold": "(177,102); (156,177)", "ok": false}
+{"task": "vowel", "i": 184, "pred": "(290,160)", "gold": "(59,62); (91,41)", "ok": false}
+{"task": "vowel", "i": 185, "pred": "(117,550)", "gold": "(34,129); (183,101)", "ok": false}
+{"task": "vowel", "i": 186, "pred": "(317, 340)", "gold": "(76,182); (171,52)", "ok": false}
+{"task": "vowel", "i": 187, "pred": "(200, 650)", "gold": "(32,150); (78,134)", "ok": false}
+{"task": "vowel", "i": 188, "pred": "(200,170)", "gold": "(158,109); (183,55)", "ok": false}
+{"task": "vowel", "i": 189, "pred": "(310, 200)", "gold": "(88,49); (119,124)", "ok": false}
+{"task": "vowel", "i": 190, "pred": "(692, 492)", "gold": "(158,184); (141,110)", "ok": false}
+{"task": "vowel", "i": 191, "pred": "(517, 684)", "gold": "(134,147); (174,201)", "ok": false}
+{"task": "vowel", "i": 192, "pred": "(106, 290)", "gold": "(183,184); (37,69)", "ok": false}
+{"task": "vowel", "i": 193, "pred": "(610, 867)", "gold": "(182,136); (141,188)", "ok": false}
+{"task": "vowel", "i": 194, "pred": "(505, 480)", "gold": "(167,131); (108,103)", "ok": false}
+{"task": "vowel", "i": 195, "pred": "(310, 300)", "gold": "(83,73); (138,97)", "ok": false}
+{"task": "vowel", "i": 196, "pred": "(626, 250)", "gold": "(154,61); (145,126)", "ok": false}
+{"task": "vowel", "i": 197, "pred": "(220, 550)", "gold": "(179,47); (55,196)", "ok": false}
+{"task": "vowel", "i": 198, "pred": "(592, 630)", "gold": "(140,143); (135,49)", "ok": false}
+{"task": "vowel", "i": 199, "pred": "(270, 700)", "gold": "(72,154); (103,40)", "ok": false}
+{"task": "fullgrid", "i": 0, "pred": "3,4,5,6,7,8", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 1, "pred": "0,1,2,3,4,5,6,7", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 2, "pred": "0,1,2,3,4,5", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 3, "pred": "0,1,2,3,4,5,6,7,8", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 4, "pred": "0,1,2,3,4,5,6,7,8", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 5, "pred": "0,1,2,3,4,5,6,7,8", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 6, "pred": "3,4,5,6", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 7, "pred": "3,4,5,6,7,8", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 8, "pred": "0,1,2,3,4,5,6,7,8", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 9, "pred": "0,1,2,3,4,5,6,7", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 10, "pred": "3,4,6,7", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 11, "pred": "0,1,2,3,4,5,6,7,8", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 12, "pred": "3,4,5,6", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 13, "pred": "3,4,5", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 14, "pred": "2,3,4,5", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 15, "pred": "3,4,5", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 16, "pred": "0,1,3,4,5,6", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 17, "pred": "0,1,2,3,4,5,6,7,8", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 18, "pred": "0,1,2,3,4,5,6,7,8", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 19, "pred": "3,4,5", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 20, "pred": "0,1,2,3,4,5", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 21, "pred": "3,4,5,6,7,8", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 22, "pred": "3,4,5", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 23, "pred": "3,4,5,6,7,8", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 24, "pred": "2,3,4,5,6,7", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 25, "pred": "3,4,5,6,7,8", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 26, "pred": "0,1,2,3,4,5,6,7,8", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 27, "pred": "0,1,2,3,4,5,6,7,8", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 28, "pred": "2,3,4,5,6,7", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 29, "pred": "0,1,2,3,4,5,6,7", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 30, "pred": "3,4,5", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 31, "pred": "3,4,5,6,7,8", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 32, "pred": "3,4,5,6", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 33, "pred": "0,1,2,3,4,5,6,7", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 34, "pred": "3,4,5,6,7,8", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 35, "pred": "2,3,4,5", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 36, "pred": "0,1,2,3,4,5,6,7", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 37, "pred": "0,1,2,3,4,5", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 38, "pred": "0,1,2,3,4,5", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 39, "pred": "2,3,4,5", "gold": "3,4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 40, "pred": "0,1,2,3,4,5", "gold": "3,4,5,7", "ok": false}
+{"task": "fullgrid", "i": 41, "pred": "0,1,2,3,4,5", "gold": "3,4,5,7", "ok": false}
+{"task": "fullgrid", "i": 42, "pred": "3,4,5", "gold": "3,4,5,7", "ok": false}
+{"task": "fullgrid", "i": 43, "pred": "3,4", "gold": "3,4,5,7", "ok": false}
+{"task": "fullgrid", "i": 44, "pred": "0,1,2,3,4,5", "gold": "3,4,5,7", "ok": false}
+{"task": "fullgrid", "i": 45, "pred": "0,1,2,3", "gold": "3,4,5,7", "ok": false}
+{"task": "fullgrid", "i": 46, "pred": "0,1,2,3,4,5", "gold": "3,4,5,7", "ok": false}
+{"task": "fullgrid", "i": 47, "pred": "3,4", "gold": "3,4,5,7", "ok": false}
+{"task": "fullgrid", "i": 48, "pred": "2,3,4", "gold": "3,4,5,7", "ok": false}
+{"task": "fullgrid", "i": 49, "pred": "0,1,2,3,4,5", "gold": "3,4,5,7", "ok": false}
+{"task": "fullgrid", "i": 50, "pred": "2,3,4,5", "gold": "3,4,5,7", "ok": false}
+{"task": "fullgrid", "i": 51, "pred": "3,4,5", "gold": "3,4,5,7", "ok": false}
+{"task": "fullgrid", "i": 52, "pred": "2,3,4", "gold": "3,4,5,7", "ok": false}
+{"task": "fullgrid", "i": 53, "pred": "3,4,6", "gold": "3,4,5,7", "ok": false}
+{"task": "fullgrid", "i": 54, "pred": "2,3,4,5", "gold": "3,4,5,7", "ok": false}
+{"task": "fullgrid", "i": 55, "pred": "2,3,4,5", "gold": "3,4,5,7", "ok": false}
+{"task": "fullgrid", "i": 56, "pred": "3,4,5", "gold": "3,4,5,7", "ok": false}
+{"task": "fullgrid", "i": 57, "pred": "0,1,2,3,4,5", "gold": "3,4,5,7", "ok": false}
+{"task": "fullgrid", "i": 58, "pred": "3,4", "gold": "3,4,5,7", "ok": false}
+{"task": "fullgrid", "i": 59, "pred": "0,1,2,3,4,5", "gold": "3,4,5,7", "ok": false}
+{"task": "fullgrid", "i": 60, "pred": "0,1,2,3,4,5,6,7,8", "gold": "3,4,5,7", "ok": false}
+{"task": "fullgrid", "i": 61, "pred": "0,1,2,3,4,5,6,7", "gold": "3,4,5,7", "ok": false}
+{"task": "fullgrid", "i": 62, "pred": "0,1,2,3,4,5,6,7,8", "gold": "3,4,5,7", "ok": false}
+{"task": "fullgrid", "i": 63, "pred": "3,4,5", "gold": "3,4,5,7", "ok": false}
+{"task": "fullgrid", "i": 64, "pred": "0,1,2,3,4,5,6,7", "gold": "3,4,5,8", "ok": false}
+{"task": "fullgrid", "i": 65, "pred": "0,1,2,3,4,5,6,7,8", "gold": "3,4,5,8", "ok": false}
+{"task": "fullgrid", "i": 66, "pred": "0,1,1,1,1,2,2,1,2,2", "gold": "3,4,5,8", "ok": false}
+{"task": "fullgrid", "i": 67, "pred": "0,1,2,3,4,5", "gold": "3,4,5,8", "ok": false}
+{"task": "fullgrid", "i": 68, "pred": "3,4,5", "gold": "3,4,5,8", "ok": false}
+{"task": "fullgrid", "i": 69, "pred": "3,4,5", "gold": "3,4,5,8", "ok": false}
+{"task": "fullgrid", "i": 70, "pred": "0,1,2,3,4,5,6,7,8", "gold": "3,4,5,8", "ok": false}
+{"task": "fullgrid", "i": 71, "pred": "0,1,2,3,4,5,6,7,8", "gold": "3,4,5,8", "ok": false}
+{"task": "fullgrid", "i": 72, "pred": "3,4", "gold": "3,4,5", "ok": false}
+{"task": "fullgrid", "i": 73, "pred": "0,1,2,3", "gold": "3,4,5", "ok": false}
+{"task": "fullgrid", "i": 74, "pred": "0,1,2,3,4,5", "gold": "3,4,5", "ok": false}
+{"task": "fullgrid", "i": 75, "pred": "0,1,2,3,4,5", "gold": "3,4,5", "ok": false}
+{"task": "fullgrid", "i": 76, "pred": "2,3,4", "gold": "3,4,5", "ok": false}
+{"task": "fullgrid", "i": 77, "pred": "0,1,2,3,4,5", "gold": "3,4,5", "ok": false}
+{"task": "fullgrid", "i": 78, "pred": "3,4", "gold": "3,4,5", "ok": false}
+{"task": "fullgrid", "i": 79, "pred": "0,1,3,4", "gold": "3,4,5", "ok": false}
+{"task": "fullgrid", "i": 80, "pred": "0,1,2,3,4,5", "gold": "3,4,5", "ok": false}
+{"task": "fullgrid", "i": 81, "pred": "2,3,4,5", "gold": "3,4,5", "ok": false}
+{"task": "fullgrid", "i": 82, "pred": "0,1,2,3", "gold": "3,4,5", "ok": false}
+{"task": "fullgrid", "i": 83, "pred": "0,1,2,3,4,5", "gold": "3,4,5", "ok": false}
+{"task": "fullgrid", "i": 84, "pred": "2,3,4,5", "gold": "3,4,5", "ok": false}
+{"task": "fullgrid", "i": 85, "pred": "0,1,2,3", "gold": "3,4,5", "ok": false}
+{"task": "fullgrid", "i": 86, "pred": "3,4,5", "gold": "3,4,5", "ok": true}
+{"task": "fullgrid", "i": 87, "pred": "4,5", "gold": "3,4,5", "ok": false}
+{"task": "fullgrid", "i": 88, "pred": "0,1,2,3,4,5", "gold": "3,4,5", "ok": false}
+{"task": "fullgrid", "i": 89, "pred": "2,3,4", "gold": "3,4,5", "ok": false}
+{"task": "fullgrid", "i": 90, "pred": "0,1,2,3,4,5,6,7,8", "gold": "3,4,5", "ok": false}
+{"task": "fullgrid", "i": 91, "pred": "2,3", "gold": "3,4,5", "ok": false}
+{"task": "fullgrid", "i": 92, "pred": "2,3,4,5", "gold": "3,4,5", "ok": false}
+{"task": "fullgrid", "i": 93, "pred": "0,1,2,3", "gold": "3,4,6,7", "ok": false}
+{"task": "fullgrid", "i": 94, "pred": "3,4", "gold": "3,4,6,7,8", "ok": false}
+{"task": "fullgrid", "i": 95, "pred": "0,1,2,3,4,5,6,7,8", "gold": "3,4,6,7,8", "ok": false}
+{"task": "fullgrid", "i": 96, "pred": "3,4,5,6,7,8", "gold": "3,4,6,7,8", "ok": false}
+{"task": "fullgrid", "i": 97, "pred": "3,4", "gold": "3,4,6,7,8", "ok": false}
+{"task": "fullgrid", "i": 98, "pred": "3,4", "gold": "3,4,6,7,8", "ok": false}
+{"task": "fullgrid", "i": 99, "pred": "0,1,4,5,7,8,10", "gold": "3,4,6,7,8", "ok": false}
+{"task": "fullgrid", "i": 100, "pred": "3,4,5,6,7,8", "gold": "3,4,6,7,8", "ok": false}
+{"task": "fullgrid", "i": 101, "pred": "3,4", "gold": "3,4,6,7", "ok": false}
+{"task": "fullgrid", "i": 102, "pred": "3,4", "gold": "3,4,6,7", "ok": false}
+{"task": "fullgrid", "i": 103, "pred": "0,1,3,4", "gold": "3,4,6,7", "ok": false}
+{"task": "fullgrid", "i": 104, "pred": "0,1,2,3,4,5", "gold": "3,4,6,7", "ok": false}
+{"task": "fullgrid", "i": 105, "pred": "3,4,5", "gold": "3,4,6,7", "ok": false}
+{"task": "fullgrid", "i": 106, "pred": "3,4,5", "gold": "3,4,6,7", "ok": false}
+{"task": "fullgrid", "i": 107, "pred": "0,1,2,3", "gold": "3,4,6,7", "ok": false}
+{"task": "fullgrid", "i": 108, "pred": "0,1,2,3,4,5", "gold": "3,4,6,7", "ok": false}
+{"task": "fullgrid", "i": 109, "pred": "0,1,3,4", "gold": "3,4,6,7", "ok": false}
+{"task": "fullgrid", "i": 110, "pred": "2,3,4,5", "gold": "3,4,6,7", "ok": false}
+{"task": "fullgrid", "i": 111, "pred": "2,3,4,5", "gold": "3,4,6,7", "ok": false}
+{"task": "fullgrid", "i": 112, "pred": "0,1,2,3", "gold": "3,4,6,7", "ok": false}
+{"task": "fullgrid", "i": 113, "pred": "0,1,3,4", "gold": "3,4,6,7", "ok": false}
+{"task": "fullgrid", "i": 114, "pred": "2,3,4,5", "gold": "3,4,7", "ok": false}
+{"task": "fullgrid", "i": 115, "pred": "0,1,2,3,4,5,6,7", "gold": "3,4,7,8", "ok": false}
+{"task": "fullgrid", "i": 116, "pred": "0,1,2,3,4,5", "gold": "3,4,7", "ok": false}
+{"task": "fullgrid", "i": 117, "pred": "0,1,2,3,4,5", "gold": "3,4,7", "ok": false}
+{"task": "fullgrid", "i": 118, "pred": "3,4", "gold": "3,4,7", "ok": false}
+{"task": "fullgrid", "i": 119, "pred": "0,1,2,4,5,6", "gold": "3,4,7", "ok": false}
+{"task": "fullgrid", "i": 120, "pred": "0,1,2,3,4,5", "gold": "3,4", "ok": false}
+{"task": "fullgrid", "i": 121, "pred": "0,1,2,3,4,5", "gold": "3,4", "ok": false}
+{"task": "fullgrid", "i": 122, "pred": "0,1,2,3,4,5", "gold": "3,4", "ok": false}
+{"task": "fullgrid", "i": 123, "pred": "0,1,3", "gold": "3,4", "ok": false}
+{"task": "fullgrid", "i": 124, "pred": "0,1,2,3,4,5", "gold": "4", "ok": false}
+{"task": "fullgrid", "i": 125, "pred": "4,5", "gold": "4,5", "ok": true}
+{"task": "fullgrid", "i": 126, "pred": "2,3,5,6", "gold": "4,5,6,7", "ok": false}
+{"task": "fullgrid", "i": 127, "pred": "5,6", "gold": "4,5,6,7,8", "ok": false}
+{"task": "fullgrid", "i": 128, "pred": "3,4,5,6,7,8", "gold": "4,5,6,7,8", "ok": false}
+{"task": "fullgrid", "i": 129, "pred": "3,4,5,6,7,8", "gold": "4,5,6,7,8", "ok": false}
+{"task": "fullgrid", "i": 130, "pred": "3,4,5,6,7,8", "gold": "4,5,6,7,8", "ok": false}
+{"task": "fullgrid", "i": 131, "pred": "3,4,5", "gold": "4,5,6,7,8", "ok": false}
+{"task": "fullgrid", "i": 132, "pred": "6,7,8,9", "gold": "4,5,6,7,8", "ok": false}
+{"task": "fullgrid", "i": 133, "pred": "2,3,4,5", "gold": "4,5,6,7", "ok": false}
+{"task": "fullgrid", "i": 134, "pred": "3,4,5", "gold": "4,5,7", "ok": false}
+{"task": "fullgrid", "i": 135, "pred": "4,5,6", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 136, "pred": "4,5,6,7", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 137, "pred": "4,5,6", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 138, "pred": "4,5,6", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 139, "pred": "3,4,5,6,7,8", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 140, "pred": "3,4,5,6,7,8", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 141, "pred": "4,5", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 142, "pred": "2,3,4,5", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 143, "pred": "4,5,6", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 144, "pred": "3,4,5,6,7,8", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 145, "pred": "4,5,6", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 146, "pred": "3,4,5,6", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 147, "pred": "3,4,5,6,7,8", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 148, "pred": "4,5,6", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 149, "pred": "3,4,6", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 150, "pred": "3,4,5,6,7,8", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 151, "pred": "3,4,5", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 152, "pred": "5,6", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 153, "pred": "2,3", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 154, "pred": "3,4,5,6,7,8", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 155, "pred": "3,4,5,6", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 156, "pred": "4,5", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 157, "pred": "2,3", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 158, "pred": "2,3,4,5,6,7", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 159, "pred": "4,5,6", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 160, "pred": "4,5,6", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 161, "pred": "4,5,6", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 162, "pred": "4,5", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 163, "pred": "4,5", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 164, "pred": "2,3,4,5", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 165, "pred": "3,4,5,6", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 166, "pred": "4,5,6", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 167, "pred": "3,4,5", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 168, "pred": "3,4,5,6,7,8", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 169, "pred": "4,5,6", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 170, "pred": "3,4,5,6,7,8", "gold": "4,5,7,8", "ok": false}
+{"task": "fullgrid", "i": 171, "pred": "3,4,5", "gold": "4,5,7", "ok": false}
+{"task": "fullgrid", "i": 172, "pred": "4,5,6", "gold": "4,5,7", "ok": false}
+{"task": "fullgrid", "i": 173, "pred": "3,4,5", "gold": "4,5,7", "ok": false}
+{"task": "fullgrid", "i": 174, "pred": "4,5,6", "gold": "4,5,7", "ok": false}
+{"task": "fullgrid", "i": 175, "pred": "3,4,5", "gold": "4,5,7", "ok": false}
+{"task": "fullgrid", "i": 176, "pred": "3,4,5", "gold": "4,5,7", "ok": false}
+{"task": "fullgrid", "i": 177, "pred": "3,4,5", "gold": "4,5,8", "ok": false}
+{"task": "fullgrid", "i": 178, "pred": "3,4,5", "gold": "4,5,8", "ok": false}
+{"task": "fullgrid", "i": 179, "pred": "3,4", "gold": "4,5", "ok": false}
+{"task": "fullgrid", "i": 180, "pred": "4,5", "gold": "4,5", "ok": true}
+{"task": "fullgrid", "i": 181, "pred": "3,4", "gold": "4,5", "ok": false}
+{"task": "fullgrid", "i": 182, "pred": "4,5", "gold": "4,5", "ok": true}
+{"task": "fullgrid", "i": 183, "pred": "3,4,5", "gold": "4,5", "ok": false}
+{"task": "fullgrid", "i": 184, "pred": "3,4", "gold": "4,6,7", "ok": false}
+{"task": "fullgrid", "i": 185, "pred": "3,4,5,6,7,8", "gold": "4,6,7,8", "ok": false}
+{"task": "fullgrid", "i": 186, "pred": "4,5", "gold": "4,6,7", "ok": false}
+{"task": "fullgrid", "i": 187, "pred": "4,5", "gold": "4,6,7", "ok": false}
+{"task": "fullgrid", "i": 188, "pred": "3,4,5", "gold": "4,6,7", "ok": false}
+{"task": "fullgrid", "i": 189, "pred": "3,4", "gold": "4,6,7", "ok": false}
+{"task": "fullgrid", "i": 190, "pred": "4,5", "gold": "4,7", "ok": false}
+{"task": "fullgrid", "i": 191, "pred": "4,5", "gold": "4,7,10", "ok": false}
+{"task": "fullgrid", "i": 192, "pred": "4,5", "gold": "4,7,8", "ok": false}
+{"task": "fullgrid", "i": 193, "pred": "3,4,5", "gold": "4,7,8", "ok": false}
+{"task": "fullgrid", "i": 194, "pred": "4,5,6", "gold": "4,7,8", "ok": false}
+{"task": "fullgrid", "i": 195, "pred": "3,4", "gold": "4,7", "ok": false}
+{"task": "fullgrid", "i": 196, "pred": "4,5", "gold": "4,7", "ok": false}
+{"task": "fullgrid", "i": 197, "pred": "4,5", "gold": "4,7", "ok": false}
+{"task": "fullgrid", "i": 198, "pred": "4,5,6,7,8,9", "gold": "6,7,8", "ok": false}
+{"task": "fullgrid", "i": 199, "pred": "4,5,6,7,8,9", "gold": "6,7,8", "ok": false}
+{"task": "classic", "i": 0, "pred": "zt55rb", "gold": "ZT55RB", "ok": true}
+{"task": "classic", "i": 1, "pred": "zt5b2f", "gold": "ZT5B2F", "ok": true}
+{"task": "classic", "i": 2, "pred": "zts7tm", "gold": "ZT5TTM", "ok": false}
+{"task": "classic", "i": 3, "pred": "zt5vly", "gold": "ZT5VLY", "ok": true}
+{"task": "classic", "i": 4, "pred": "zt5xhy", "gold": "ZT5XHY", "ok": true}
+{"task": "classic", "i": 5, "pred": "zt48jw", "gold": "ZTAGIW", "ok": false}
+{"task": "classic", "i": 6, "pred": "zt0lg1", "gold": "ZTDLGL", "ok": false}
+{"task": "classic", "i": 7, "pred": "ztfrmn", "gold": "ZTFRMN", "ok": true}
+{"task": "classic", "i": 8, "pred": "ztfbjv", "gold": "ZTFBJV", "ok": true}
+{"task": "classic", "i": 9, "pred": "zhatv", "gold": "ZTHATV", "ok": false}
+{"task": "classic", "i": 10, "pred": "ztmplh", "gold": "ZTMPLH", "ok": true}
+{"task": "classic", "i": 11, "pred": "2tm5f9", "gold": "ZTMSF9", "ok": false}
+{"task": "classic", "i": 12, "pred": "ztNvrv", "gold": "ZTNVRV", "ok": true}
+{"task": "classic", "i": 13, "pred": "ztqnl5", "gold": "ZTQNLS", "ok": false}
+{"task": "classic", "i": 14, "pred": "2t58ko", "gold": "ZTSGK0", "ok": false}
+{"task": "classic", "i": 15, "pred": "zluvio", "gold": "ZTUUIO", "ok": false}
+{"task": "classic", "i": 16, "pred": "ztvj6g", "gold": "ZTVJ6G", "ok": true}
+{"task": "classic", "i": 17, "pred": "ztw58h", "gold": "ZTW58H", "ok": true}
+{"task": "classic", "i": 18, "pred": "2txton", "gold": "ZTXTON", "ok": false}
+{"task": "classic", "i": 19, "pred": "ztagsn", "gold": "ZTAGSN", "ok": true}
+{"task": "classic", "i": 20, "pred": "ztaqw", "gold": "ZTAQNV", "ok": false}
+{"task": "classic", "i": 21, "pred": "ztb5gj", "gold": "ZTBSGJ", "ok": false}
+{"task": "classic", "i": 22, "pred": "ztcols", "gold": "ZTCDLS", "ok": false}
+{"task": "classic", "i": 23, "pred": "zt0nv8", "gold": "ZTDNVG", "ok": false}
+{"task": "classic", "i": 24, "pred": "ztfgyx", "gold": "ZTFGYX", "ok": true}
+{"task": "classic", "i": 25, "pred": "ztgn36", "gold": "ZTGN36", "ok": true}
+{"task": "classic", "i": 26, "pred": "2exlmz", "gold": "ZTKLMZ", "ok": false}
+{"task": "classic", "i": 27, "pred": "zt1ze8", "gold": "ZTLZEG", "ok": false}
+{"task": "classic", "i": 28, "pred": "ztngxc", "gold": "ZTN8HC", "ok": false}
+{"task": "classic", "i": 29, "pred": "2tp2df", "gold": "ZTPZDF", "ok": false}
+{"task": "classic", "i": 30, "pred": "zu3ddj", "gold": "ZU3DDY", "ok": false}
+{"task": "classic", "i": 31, "pred": "zuawyg", "gold": "ZU4WYG", "ok": false}
+{"task": "classic", "i": 32, "pred": "zu50iu", "gold": "ZU5QIU", "ok": false}
+{"task": "classic", "i": 33, "pred": "zu7nbp", "gold": "ZU7HBP", "ok": false}
+{"task": "classic", "i": 34, "pred": "zubios", "gold": "ZUBI9S", "ok": false}
+{"task": "classic", "i": 35, "pred": "zubit", "gold": "ZUBLIT", "ok": false}
+{"task": "classic", "i": 36, "pred": "zubxl", "gold": "ZUBYXL", "ok": false}
+{"task": "classic", "i": 37, "pred": "2ubv1c", "gold": "ZUBVLC", "ok": false}
+{"task": "classic", "i": 38, "pred": "zucj6k", "gold": "ZUCJ6K", "ok": true}
+{"task": "classic", "i": 39, "pred": "zuefmy", "gold": "ZUEFMY", "ok": true}
+{"task": "classic", "i": 40, "pred": "zu6cva", "gold": "ZUFCVA", "ok": false}
+{"task": "classic", "i": 41, "pred": "zuam7w", "gold": "ZUFM7W", "ok": false}
+{"task": "classic", "i": 42, "pred": "zhdqn", "gold": "ZUHDQW", "ok": false}
+{"task": "classic", "i": 43, "pred": "zuidla", "gold": "ZUIDLA", "ok": true}
+{"task": "classic", "i": 44, "pred": "zuirk", "gold": "ZUIR1K", "ok": false}
+{"task": "classic", "i": 45, "pred": "z409qz", "gold": "ZUO9QZ", "ok": false}
+{"task": "classic", "i": 46, "pred": "zuqrt", "gold": "ZUQURT", "ok": false}
+{"task": "classic", "i": 47, "pred": "zrnvp", "gold": "ZURNVP", "ok": false}
+{"task": "classic", "i": 48, "pred": "zu5782", "gold": "ZUS7B2", "ok": false}
+{"task": "classic", "i": 49, "pred": "zuYrCo", "gold": "ZUYRCO", "ok": true}
+{"task": "classic", "i": 50, "pred": "zuajdc", "gold": "ZUAJDC", "ok": true}
+{"task": "classic", "i": 51, "pred": "zuohry", "gold": "ZUDHRY", "ok": false}
+{"task": "classic", "i": 52, "pred": "zuduje", "gold": "ZUDUJE", "ok": true}
+{"task": "classic", "i": 53, "pred": "zuexku", "gold": "ZUEKKU", "ok": false}
+{"task": "classic", "i": 54, "pred": "aufgar", "gold": "ZUFGQR", "ok": false}
+{"task": "classic", "i": 55, "pred": "2ufbmc", "gold": "ZUFBMC", "ok": false}
+{"task": "classic", "i": 56, "pred": "zuhfest", "gold": "ZUHFST", "ok": false}
+{"task": "classic", "i": 57, "pred": "zuiGAR", "gold": "ZUIG4R", "ok": false}
+{"task": "classic", "i": 58, "pred": "zuiak", "gold": "ZUIAJK", "ok": false}
+{"task": "classic", "i": 59, "pred": "zujiug", "gold": "ZUJILG", "ok": false}
+{"task": "classic", "i": 60, "pred": "2ujtut", "gold": "ZUJTUT", "ok": false}
+{"task": "classic", "i": 61, "pred": "2ukst4", "gold": "ZUKST4", "ok": false}
+{"task": "classic", "i": 62, "pred": "zumzms", "gold": "ZUMZMS", "ok": true}
+{"task": "classic", "i": 63, "pred": "zu0x5r", "gold": "ZUQX5R", "ok": false}
+{"task": "classic", "i": 64, "pred": "zvhv5", "gold": "ZV1HY5", "ok": false}
+{"task": "classic", "i": 65, "pred": "zn61de", "gold": "ZV6LDE", "ok": false}
+{"task": "classic", "i": 66, "pred": "7na00", "gold": "ZVAA00", "ok": false}
+{"task": "classic", "i": 67, "pred": "zvbrjn", "gold": "ZVBRJW", "ok": false}
+{"task": "classic", "i": 68, "pred": "zvexiq", "gold": "ZVEXIQ", "ok": true}
+{"task": "classic", "i": 69, "pred": "2alvlm", "gold": "ZVLVLM", "ok": false}
+{"task": "classic", "i": 70, "pred": "zvlvlz", "gold": "ZVLYLZ", "ok": false}
+{"task": "classic", "i": 71, "pred": "zvn9bf", "gold": "ZVN9BF", "ok": true}
+{"task": "classic", "i": 72, "pred": "zvpewo", "gold": "ZVPEWP", "ok": false}
+{"task": "classic", "i": 73, "pred": "znqies", "gold": "ZVQIES", "ok": false}
+{"task": "classic", "i": 74, "pred": "zvo7nb", "gold": "ZVQLNB", "ok": false}
+{"task": "classic", "i": 75, "pred": "zvrega", "gold": "ZVREQA", "ok": false}
+{"task": "classic", "i": 76, "pred": "z5v3r", "gold": "ZVSV3R", "ok": false}
+{"task": "classic", "i": 77, "pred": "zvt40i", "gold": "ZVTAQI", "ok": false}
+{"task": "classic", "i": 78, "pred": "2n1ixx", "gold": "ZVTIXX", "ok": false}
+{"task": "classic", "i": 79, "pred": "zvUags", "gold": "ZVUAGS", "ok": true}
+{"task": "classic", "i": 80, "pred": "zvzkad", "gold": "ZVZKAD", "ok": true}
+{"task": "classic", "i": 81, "pred": "zvbbqx", "gold": "ZVBBQX", "ok": true}
+{"task": "classic", "i": 82, "pred": "zvcevh", "gold": "ZVCEVH", "ok": true}
+{"task": "classic", "i": 83, "pred": "2vqm1", "gold": "ZVCMDL", "ok": false}
+{"task": "classic", "i": 84, "pred": "2vhpt3", "gold": "ZVHPT3", "ok": false}
+{"task": "classic", "i": 85, "pred": "znjg8x", "gold": "ZVJG8X", "ok": false}
+{"task": "classic", "i": 86, "pred": "2vmaxc", "gold": "ZVMAXC", "ok": false}
+{"task": "classic", "i": 87, "pred": "zvnnsn", "gold": "ZVNSNS", "ok": false}
+{"task": "classic", "i": 88, "pred": "zv0mvv", "gold": "ZVOMVY", "ok": false}
+{"task": "classic", "i": 89, "pred": "zvp6wt", "gold": "ZVP6WT", "ok": true}
+{"task": "classic", "i": 90, "pred": "2vrop2", "gold": "ZVROP2", "ok": false}
+{"task": "classic", "i": 91, "pred": "zvs37h", "gold": "ZVS37H", "ok": true}
+{"task": "classic", "i": 92, "pred": "zvtc9f", "gold": "ZVTC9F", "ok": true}
+{"task": "classic", "i": 93, "pred": "ztjv9", "gold": "ZVTJV9", "ok": false}
+{"task": "classic", "i": 94, "pred": "zvugmn", "gold": "ZVU9MW", "ok": false}
+{"task": "classic", "i": 95, "pred": "2wucf", "gold": "ZVUCIF", "ok": false}
+{"task": "classic", "i": 96, "pred": "zvuy6q", "gold": "ZVUY6Q", "ok": true}
+{"task": "classic", "i": 97, "pred": "znopsm", "gold": "ZW0P5M", "ok": false}
+{"task": "classic", "i": 98, "pred": "zn30rp", "gold": "ZW30RP", "ok": false}
+{"task": "classic", "i": 99, "pred": "zwzrlq", "gold": "ZW7RLD", "ok": false}
+{"task": "classic", "i": 100, "pred": "zn9617", "gold": "ZW96IT", "ok": false}
+{"task": "classic", "i": 101, "pred": "zwcb60", "gold": "ZWCB6O", "ok": false}
+{"task": "classic", "i": 102, "pred": "zwd75l", "gold": "ZWD15L", "ok": false}
+{"task": "classic", "i": 103, "pred": "zwghj9", "gold": "ZWGHJ9", "ok": true}
+{"task": "classic", "i": 104, "pred": "zwiaye", "gold": "ZWIAYE", "ok": true}
+{"task": "classic", "i": 105, "pred": "zwkrhs", "gold": "ZWKRHS", "ok": true}
+{"task": "classic", "i": 106, "pred": "ZWODSZ", "gold": "ZWODSZ", "ok": true}
+{"task": "classic", "i": 107, "pred": "zwx7t1", "gold": "ZWX7T1", "ok": true}
+{"task": "classic", "i": 108, "pred": "zwbqju", "gold": "ZWBQJU", "ok": true}
+{"task": "classic", "i": 109, "pred": "2wfb38", "gold": "ZWFB38", "ok": false}
+{"task": "classic", "i": 110, "pred": "znffuf", "gold": "ZWFFUF", "ok": false}
+{"task": "classic", "i": 111, "pred": "zwjuy7", "gold": "ZWJUY7", "ok": true}
+{"task": "classic", "i": 112, "pred": "zwoyoy", "gold": "ZWOY0Y", "ok": false}
+{"task": "classic", "i": 113, "pred": "zwpiqi", "gold": "ZWPIEI", "ok": false}
+{"task": "classic", "i": 114, "pred": "zwtpfv", "gold": "ZWTPFV", "ok": true}
+{"task": "classic", "i": 115, "pred": "zwto50", "gold": "ZWTQSO", "ok": false}
+{"task": "classic", "i": 116, "pred": "znv20n", "gold": "ZWV20N", "ok": false}
+{"task": "classic", "i": 117, "pred": "zwytph", "gold": "ZWYTPZ", "ok": false}
+{"task": "classic", "i": 118, "pred": "2x3q3r", "gold": "ZX3Q3R", "ok": false}
+{"task": "classic", "i": 119, "pred": "zx6mje", "gold": "ZX6MJE", "ok": true}
+{"task": "classic", "i": 120, "pred": "zx70xz", "gold": "ZX70XZ", "ok": true}
+{"task": "classic", "i": 121, "pred": "zx908c", "gold": "ZX9O8C", "ok": false}
+{"task": "classic", "i": 122, "pred": "zxaoun", "gold": "ZXA0UY", "ok": false}
+{"task": "classic", "i": 123, "pred": "zxctea", "gold": "ZXCTEA", "ok": true}
+{"task": "classic", "i": 124, "pred": "zxcz7i", "gold": "ZXCZ1I", "ok": false}
+{"task": "classic", "i": 125, "pred": "zxf6w", "gold": "ZXF6WV", "ok": false}
+{"task": "classic", "i": 126, "pred": "zxiatj", "gold": "ZXIATJ", "ok": true}
+{"task": "classic", "i": 127, "pred": "zxke9y", "gold": "ZXKE9Y", "ok": true}
+{"task": "classic", "i": 128, "pred": "zxnip0", "gold": "ZXNIP0", "ok": true}
+{"task": "classic", "i": 129, "pred": "zxoass", "gold": "ZXOASS", "ok": true}
+{"task": "classic", "i": 130, "pred": "2x01yn", "gold": "ZXOIYW", "ok": false}
+{"task": "classic", "i": 131, "pred": "zxplhp", "gold": "ZXPLHP", "ok": true}
+{"task": "classic", "i": 132, "pred": "zx04de", "gold": "ZXQADE", "ok": false}
+{"task": "classic", "i": 133, "pred": "zy5f2x", "gold": "ZXSF2X", "ok": false}
+{"task": "classic", "i": 134, "pred": "zk77r2", "gold": "ZXT7R2", "ok": false}
+{"task": "classic", "i": 135, "pred": "zxvdg", "gold": "ZXVDEG", "ok": false}
+{"task": "classic", "i": 136, "pred": "zxwx9", "gold": "ZXWVX9", "ok": false}
+{"task": "classic", "i": 137, "pred": "zx0vcw", "gold": "ZXBVCW", "ok": false}
+{"task": "classic", "i": 138, "pred": "zx8f8d", "gold": "ZXGFGD", "ok": false}
+{"task": "classic", "i": 139, "pred": "zxhyfi", "gold": "ZXHLFI", "ok": false}
+{"task": "classic", "i": 140, "pred": "zxklv8", "gold": "ZXKLV8", "ok": true}
+{"task": "classic", "i": 141, "pred": "zxno9f", "gold": "ZXNO9F", "ok": true}
+{"task": "classic", "i": 142, "pred": "zxselv", "gold": "ZXSELV", "ok": true}
+{"task": "classic", "i": 143, "pred": "zxuc1d", "gold": "ZXUC1D", "ok": true}
+{"task": "classic", "i": 144, "pred": "zyhf4", "gold": "ZXYNF4", "ok": false}
+{"task": "classic", "i": 145, "pred": "zy5k1z", "gold": "ZY5KIZ", "ok": false}
+{"task": "classic", "i": 146, "pred": "zy605y", "gold": "ZY6O5Y", "ok": false}
+{"task": "classic", "i": 147, "pred": "zy9ctj", "gold": "ZY9CTJ", "ok": true}
+{"task": "classic", "i": 148, "pred": "zyawxu", "gold": "ZYAWXU", "ok": true}
+{"task": "classic", "i": 149, "pred": "zyb3at", "gold": "ZYB3AT", "ok": true}
+{"task": "classic", "i": 150, "pred": "zjbeox", "gold": "ZYBEOX", "ok": false}
+{"task": "classic", "i": 151, "pred": "zye3d7", "gold": "ZYE3DT", "ok": false}
+{"task": "classic", "i": 152, "pred": "zyfe86", "gold": "ZYFE86", "ok": true}
+{"task": "classic", "i": 153, "pred": "\u0437\u0443\u043d\u043e\u0432\u0430", "gold": "ZYH0W4", "ok": false}
+{"task": "classic", "i": 154, "pred": "zy148n", "gold": "ZYI48N", "ok": false}
+{"task": "classic", "i": 155, "pred": "zynq9x", "gold": "ZYMN9X", "ok": false}
+{"task": "classic", "i": 156, "pred": "zys68u", "gold": "ZYS6GU", "ok": false}
+{"task": "classic", "i": 157, "pred": "zys1tt", "gold": "ZYSLTT", "ok": false}
+{"task": "classic", "i": 158, "pred": "zyug7z", "gold": "ZYUG7Z", "ok": true}
+{"task": "classic", "i": 159, "pred": "zyuen", "gold": "ZYVUEM", "ok": false}
+{"task": "classic", "i": 160, "pred": "zywpot", "gold": "ZYWPOT", "ok": true}
+{"task": "classic", "i": 161, "pred": "zyxghe", "gold": "ZYXGHE", "ok": true}
+{"task": "classic", "i": 162, "pred": "zyrent", "gold": "ZYYENT", "ok": false}
+{"task": "classic", "i": 163, "pred": "zyac26", "gold": "ZYAC26", "ok": true}
+{"task": "classic", "i": 164, "pred": "zyd3au", "gold": "ZYD3AU", "ok": true}
+{"task": "classic", "i": 165, "pred": "zygiuu", "gold": "ZYGIUU", "ok": true}
+{"task": "classic", "i": 166, "pred": "zyhxsa", "gold": "ZYHXFA", "ok": false}
+{"task": "classic", "i": 167, "pred": "zym9r4", "gold": "ZYM9R4", "ok": true}
+{"task": "classic", "i": 168, "pred": "zymmct", "gold": "ZYMMCT", "ok": true}
+{"task": "classic", "i": 169, "pred": "zyqc3v", "gold": "ZYQC3V", "ok": true}
+{"task": "classic", "i": 170, "pred": "zyybfh", "gold": "ZYYBFH", "ok": true}
+{"task": "classic", "i": 171, "pred": "zyzne9", "gold": "ZYZHE9", "ok": false}
+{"task": "classic", "i": 172, "pred": "zz19wd", "gold": "ZZ19WD", "ok": true}
+{"task": "classic", "i": 173, "pred": "zz7130", "gold": "ZZ1I30", "ok": false}
+{"task": "classic", "i": 174, "pred": "z13dji", "gold": "ZZ3DJI", "ok": false}
+{"task": "classic", "i": 175, "pred": "zz3n1v", "gold": "ZZ3NLV", "ok": false}
+{"task": "classic", "i": 176, "pred": "zzapvn", "gold": "ZZ4PVN", "ok": false}
+{"task": "classic", "i": 177, "pred": "zzai0j", "gold": "ZZ4I0J", "ok": false}
+{"task": "classic", "i": 178, "pred": "2z4x1h", "gold": "ZZ4XLH", "ok": false}
+{"task": "classic", "i": 179, "pred": "zzgukw", "gold": "ZZGUTW", "ok": false}
+{"task": "classic", "i": 180, "pred": "zzmdf", "gold": "ZZIMNF", "ok": false}
+{"task": "classic", "i": 181, "pred": "zzkvd", "gold": "ZZIYVD", "ok": false}
+{"task": "classic", "i": 182, "pred": "zzjm12", "gold": "ZZJMF2", "ok": false}
+{"task": "classic", "i": 183, "pred": "lznk9g", "gold": "ZZNKQG", "ok": false}
+{"task": "classic", "i": 184, "pred": "zz0zxj", "gold": "ZZOZXJ", "ok": false}
+{"task": "classic", "i": 185, "pred": "zzpcyg", "gold": "ZZPCYG", "ok": true}
+{"task": "classic", "i": 186, "pred": "7zqx41", "gold": "ZZQX41", "ok": false}
+{"task": "classic", "i": 187, "pred": "zztfkn", "gold": "ZZTFKN", "ok": true}
+{"task": "classic", "i": 188, "pred": "zzuobk", "gold": "ZZU0BK", "ok": false}
+{"task": "classic", "i": 189, "pred": "zzvk2f", "gold": "ZZVK2F", "ok": true}
+{"task": "classic", "i": 190, "pred": "ZZerPC", "gold": "ZZERPC", "ok": true}
+{"task": "classic", "i": 191, "pred": "zzgz8y", "gold": "ZZGZ8Y", "ok": true}
+{"task": "classic", "i": 192, "pred": "zzj7br", "gold": "ZZI7BR", "ok": false}
+{"task": "classic", "i": 193, "pred": "zzicbx", "gold": "ZZICBX", "ok": true}
+{"task": "classic", "i": 194, "pred": "zikz", "gold": "ZZIK7L", "ok": false}
+{"task": "classic", "i": 195, "pred": "zz1u2g", "gold": "ZZLU7G", "ok": false}
+{"task": "classic", "i": 196, "pred": "z7m2p9", "gold": "ZZN2P9", "ok": false}
+{"task": "classic", "i": 197, "pred": "zzohyh", "gold": "ZZOHYH", "ok": true}
+{"task": "classic", "i": 198, "pred": "z4y7f", "gold": "ZZPY7R", "ok": false}
+{"task": "classic", "i": 199, "pred": "zzjnud", "gold": "ZZYNUD", "ok": false}
+{"task": "word", "i": 0, "pred": "poetry melody melody", "gold": "poetry melody", "ok": false}
+{"task": "word", "i": 1, "pred": "belief storm storm", "gold": "belief storm", "ok": false}
+{"task": "word", "i": 2, "pred": "lake college", "gold": "lake college", "ok": true}
+{"task": "word", "i": 3, "pred": "river river", "gold": "dusk river", "ok": false}
+{"task": "word", "i": 4, "pred": "shirt desert desert", "gold": "shirt desert", "ok": false}
+{"task": "word", "i": 5, "pred": "snow dusk dusk", "gold": "snow dusk", "ok": false}
+{"task": "word", "i": 6, "pred": "future victory victory", "gold": "future victory", "ok": false}
+{"task": "word", "i": 7, "pred": "balance sound sound", "gold": "balance sound", "ok": false}
+{"task": "word", "i": 8, "pred": "expression bald bald", "gold": "expression bald", "ok": false}
+{"task": "word", "i": 9, "pred": "love calm calm", "gold": "love calm", "ok": false}
+{"task": "word", "i": 10, "pred": "happiness island island", "gold": "happiness island", "ok": false}
+{"task": "word", "i": 11, "pred": "dance dreams dreams", "gold": "dance dreams", "ok": false}
+{"task": "word", "i": 12, "pred": "universe wish wish", "gold": "universe wish", "ok": false}
+{"task": "word", "i": 13, "pred": "hope friend friend", "gold": "hope friend", "ok": false}
+{"task": "word", "i": 14, "pred": "family bald bald", "gold": "family bald", "ok": false}
+{"task": "word", "i": 15, "pred": "power wouldd", "gold": "power world", "ok": false}
+{"task": "word", "i": 16, "pred": "mole courage courage", "gold": "mole courage", "ok": false}
+{"task": "word", "i": 17, "pred": "performance effort effort", "gold": "performance effort", "ok": false}
+{"task": "word", "i": 18, "pred": "painting painting", "gold": "sound painting", "ok": false}
+{"task": "word", "i": 19, "pred": "belief belief", "gold": "hope belief", "ok": false}
+{"task": "word", "i": 20, "pred": "journey work work", "gold": "journey work", "ok": false}
+{"task": "word", "i": 21, "pred": "effort joyjoy", "gold": "effort joy", "ok": false}
+{"task": "word", "i": 22, "pred": "life life", "gold": "health life", "ok": false}
+{"task": "word", "i": 23, "pred": "universe universe", "gold": "destination universe", "ok": false}
+{"task": "word", "i": 24, "pred": "potential potential", "gold": "cloud potential", "ok": false}
+{"task": "word", "i": 25, "pred": "stars support", "gold": "stars support", "ok": true}
+{"task": "word", "i": 26, "pred": "nightfall imagination imagination", "gold": "nightfall imagination", "ok": false}
+{"task": "word", "i": 27, "pred": "time desert desert", "gold": "time desert", "ok": false}
+{"task": "word", "i": 28, "pred": "imagination imagination", "gold": "freedom imagination", "ok": false}
+{"task": "word", "i": 29, "pred": "belief support support", "gold": "belief support", "ok": false}
+{"task": "word", "i": 30, "pred": "stars past past", "gold": "stars past", "ok": false}
+{"task": "word", "i": 31, "pred": "wind wish", "gold": "wind wish", "ok": true}
+{"task": "word", "i": 32, "pred": "support support", "gold": "support cloud", "ok": false}
+{"task": "word", "i": 33, "pred": "freedom team team", "gold": "freedom team", "ok": false}
+{"task": "word", "i": 34, "pred": "time powerpower", "gold": "time power", "ok": false}
+{"task": "word", "i": 35, "pred": "sunrise sunrise", "gold": "future sunrise", "ok": false}
+{"task": "word", "i": 36, "pred": "cloud snow snow", "gold": "cloud snow", "ok": false}
+{"task": "word", "i": 37, "pred": "evening cloud cloud", "gold": "evening cloud", "ok": false}
+{"task": "word", "i": 38, "pred": "art journey journey", "gold": "art journey", "ok": false}
+{"task": "word", "i": 39, "pred": "harmony wish wish", "gold": "harmony wish", "ok": false}
+{"task": "word", "i": 40, "pred": "play play", "gold": "play smile", "ok": false}
+{"task": "word", "i": 41, "pred": "writing moon moon", "gold": "writing moon", "ok": false}
+{"task": "word", "i": 42, "pred": "star art art", "gold": "star art", "ok": false}
+{"task": "word", "i": 43, "pred": "play play", "gold": "play calm", "ok": false}
+{"task": "word", "i": 44, "pred": "forest petal petal", "gold": "forest petal", "ok": false}
+{"task": "word", "i": 45, "pred": "sunrise calm calm", "gold": "sunrise calm", "ok": false}
+{"task": "word", "i": 46, "pred": "support past past", "gold": "support past", "ok": false}
+{"task": "word", "i": 47, "pred": "data bliss bliss", "gold": "data bliss", "ok": false}
+{"task": "word", "i": 48, "pred": "skull hope hope", "gold": "skull hope", "ok": false}
+{"task": "word", "i": 49, "pred": "college achievement achievement", "gold": "college achievement", "ok": false}
+{"task": "word", "i": 50, "pred": "flower time time", "gold": "flower time", "ok": false}
+{"task": "word", "i": 51, "pred": "beard flower flower", "gold": "beard flower", "ok": false}
+{"task": "word", "i": 52, "pred": "ear dawn dawn", "gold": "ear dawn", "ok": false}
+{"task": "word", "i": 53, "pred": "cloud cloud", "gold": "snow cloud", "ok": false}
+{"task": "word", "i": 54, "pred": "leaf cloud cloud", "gold": "leaf cloud", "ok": false}
+{"task": "word", "i": 55, "pred": "sunrise wash wash", "gold": "sunrise wish", "ok": false}
+{"task": "word", "i": 56, "pred": "fight fightfall", "gold": "light nightfall", "ok": false}
+{"task": "word", "i": 57, "pred": "team earth earth", "gold": "team earth", "ok": false}
+{"task": "word", "i": 58, "pred": "universe universe", "gold": "imagination universe", "ok": false}
+{"task": "word", "i": 59, "pred": "support leaf leaf", "gold": "support leaf", "ok": false}
+{"task": "word", "i": 60, "pred": "poetry sunshine sunshine", "gold": "poetry sunshine", "ok": false}
+{"task": "word", "i": 61, "pred": "compassion dream dream", "gold": "compassion dream", "ok": false}
+{"task": "word", "i": 62, "pred": "journey team team", "gold": "journey team", "ok": false}
+{"task": "word", "i": 63, "pred": "college universe", "gold": "college universe", "ok": true}
+{"task": "word", "i": 64, "pred": "night all achievement", "gold": "nightfall achievement", "ok": false}
+{"task": "word", "i": 65, "pred": "meadow star star", "gold": "meadow star", "ok": false}
+{"task": "word", "i": 66, "pred": "rainbow rainbow", "gold": "storm rainbow", "ok": false}
+{"task": "word", "i": 67, "pred": "compassion beard beard", "gold": "compassion beard", "ok": false}
+{"task": "word", "i": 68, "pred": "sculpture sculpture", "gold": "planet sculpture", "ok": false}
+{"task": "word", "i": 69, "pred": "potential planet planet", "gold": "potential planet", "ok": false}
+{"task": "word", "i": 70, "pred": "play lake lake", "gold": "play lake", "ok": false}
+{"task": "word", "i": 71, "pred": "moon dawn dawn", "gold": "moon dawn", "ok": false}
+{"task": "word", "i": 72, "pred": "imagination harmony harmony", "gold": "imagination harmony", "ok": false}
+{"task": "word", "i": 73, "pred": "ear health health", "gold": "ear health", "ok": false}
+{"task": "word", "i": 74, "pred": "river mountain mountain", "gold": "river mountain", "ok": false}
+{"task": "word", "i": 75, "pred": "light light", "gold": "lake light", "ok": false}
+{"task": "word", "i": 76, "pred": "play journey journey", "gold": "play journey", "ok": false}
+{"task": "word", "i": 77, "pred": "skull dreams", "gold": "skull dreams", "ok": true}
+{"task": "word", "i": 78, "pred": "star health health", "gold": "star health", "ok": false}
+{"task": "word", "i": 79, "pred": "lake lake", "gold": "passion lake", "ok": false}
+{"task": "word", "i": 80, "pred": "harmony harmony", "gold": "meadow harmony", "ok": false}
+{"task": "word", "i": 81, "pred": "tree hope hope", "gold": "tree hope", "ok": false}
+{"task": "word", "i": 82, "pred": "universe space space", "gold": "universe space", "ok": false}
+{"task": "word", "i": 83, "pred": "dreams dream", "gold": "dreams dream", "ok": true}
+{"task": "word", "i": 84, "pred": "strength team team", "gold": "strength team", "ok": false}
+{"task": "word", "i": 85, "pred": "future shadow shadow", "gold": "future shadow", "ok": false}
+{"task": "word", "i": 86, "pred": "dusk evening evening", "gold": "dusk evening", "ok": false}
+{"task": "word", "i": 87, "pred": "sunset sky sky", "gold": "sunset skull", "ok": false}
+{"task": "word", "i": 88, "pred": "forest effort", "gold": "forest effort", "ok": true}
+{"task": "word", "i": 89, "pred": "expression potential potential", "gold": "expression potential", "ok": false}
+{"task": "word", "i": 90, "pred": "belief hope hope", "gold": "belief hope", "ok": false}
+{"task": "word", "i": 91, "pred": "team team", "gold": "world team", "ok": false}
+{"task": "word", "i": 92, "pred": "life rainbow rainbow", "gold": "life rainbow", "ok": false}
+{"task": "word", "i": 93, "pred": "light dessert", "gold": "light desert", "ok": false}
+{"task": "word", "i": 94, "pred": "dreams calm calm", "gold": "dreams calm", "ok": false}
+{"task": "word", "i": 95, "pred": "shirt wonder wonder", "gold": "shirt wonder", "ok": false}
+{"task": "word", "i": 96, "pred": "world pedal pedal", "gold": "world petal", "ok": false}
+{"task": "word", "i": 97, "pred": "courage strength strength", "gold": "courage strength", "ok": false}
+{"task": "word", "i": 98, "pred": "strength flower flower", "gold": "strength flower", "ok": false}
+{"task": "word", "i": 99, "pred": "future future", "gold": "mountain future", "ok": false}
+{"task": "word", "i": 100, "pred": "clinic effort effort", "gold": "clinic effort", "ok": false}
+{"task": "word", "i": 101, "pred": "calm victory victory", "gold": "calm victory", "ok": false}
+{"task": "word", "i": 102, "pred": "world world", "gold": "imagination world", "ok": false}
+{"task": "word", "i": 103, "pred": "happiness happiness", "gold": "snow happiness", "ok": false}
+{"task": "word", "i": 104, "pred": "love clinic clinic", "gold": "love clinic", "ok": false}
+{"task": "word", "i": 105, "pred": "growth rainbow", "gold": "growth rainbow", "ok": true}
+{"task": "word", "i": 106, "pred": "light victory victory", "gold": "light victory", "ok": false}
+{"task": "word", "i": 107, "pred": "mountain college college", "gold": "mountain college", "ok": false}
+{"task": "word", "i": 108, "pred": "team song song", "gold": "team song", "ok": false}
+{"task": "word", "i": 109, "pred": "song dusk dusk", "gold": "song dusk", "ok": false}
+{"task": "word", "i": 110, "pred": "imagination imagination", "gold": "poetry imagination", "ok": false}
+{"task": "word", "i": 111, "pred": "poetry fun fun", "gold": "poetry fun", "ok": false}
+{"task": "word", "i": 112, "pred": "galaxy galaxy", "gold": "sculpture galaxy", "ok": false}
+{"task": "word", "i": 113, "pred": "skull harmony harmony", "gold": "skull harmony", "ok": false}
+{"task": "word", "i": 114, "pred": "rainbow life life", "gold": "rainbow life", "ok": false}
+{"task": "word", "i": 115, "pred": "painting passion", "gold": "painting passion", "ok": true}
+{"task": "word", "i": 116, "pred": "lake support support", "gold": "lake support", "ok": false}
+{"task": "word", "i": 117, "pred": "college college", "gold": "college courage", "ok": false}
+{"task": "word", "i": 118, "pred": "journey dusk dusk", "gold": "journey dusk", "ok": false}
+{"task": "word", "i": 119, "pred": "ocean ocean", "gold": "stars ocean", "ok": false}
+{"task": "word", "i": 120, "pred": "shadow wish", "gold": "shadow wish", "ok": true}
+{"task": "word", "i": 121, "pred": "galaxy future future", "gold": "galaxy future", "ok": false}
+{"task": "word", "i": 122, "pred": "wish journey journey", "gold": "wish journey", "ok": false}
+{"task": "word", "i": 123, "pred": "wonder gg", "gold": "wonder goal", "ok": false}
+{"task": "word", "i": 124, "pred": "love destination destination", "gold": "love destination", "ok": false}
+{"task": "word", "i": 125, "pred": "dream star star", "gold": "dream star", "ok": false}
+{"task": "word", "i": 126, "pred": "joy dance dance", "gold": "joy dance", "ok": false}
+{"task": "word", "i": 127, "pred": "mountain mountain", "gold": "harmony mountain", "ok": false}
+{"task": "word", "i": 128, "pred": "sculpture victory victory", "gold": "sculpture victory", "ok": false}
+{"task": "word", "i": 129, "pred": "river river", "gold": "sound river", "ok": false}
+{"task": "word", "i": 130, "pred": "joy sunshine sunshine", "gold": "joy sunshine", "ok": false}
+{"task": "word", "i": 131, "pred": "time sunset", "gold": "time sunset", "ok": true}
+{"task": "word", "i": 132, "pred": "mole calm calm", "gold": "mole calm", "ok": false}
+{"task": "word", "i": 133, "pred": "smile journey journey", "gold": "smile journey", "ok": false}
+{"task": "word", "i": 134, "pred": "play poetry", "gold": "play poetry", "ok": true}
+{"task": "word", "i": 135, "pred": "shadow hoppe", "gold": "shadow hope", "ok": false}
+{"task": "word", "i": 136, "pred": "dawn hope hope", "gold": "dawn hope", "ok": false}
+{"task": "word", "i": 137, "pred": "art strength strength", "gold": "art strength", "ok": false}
+{"task": "word", "i": 138, "pred": "belief mountain mountain", "gold": "belief mountain", "ok": false}
+{"task": "word", "i": 139, "pred": "freedom calm calm", "gold": "freedom calm", "ok": false}
+{"task": "word", "i": 140, "pred": "port growth growth", "gold": "port growth", "ok": false}
+{"task": "word", "i": 141, "pred": "art lifelife", "gold": "art life", "ok": false}
+{"task": "word", "i": 142, "pred": "skull skull", "gold": "shirt skull", "ok": false}
+{"task": "word", "i": 143, "pred": "love star star", "gold": "love star", "ok": false}
+{"task": "word", "i": 144, "pred": "flower love love", "gold": "flower love", "ok": false}
+{"task": "word", "i": 145, "pred": "painting world world", "gold": "painting world", "ok": false}
+{"task": "word", "i": 146, "pred": "play love love", "gold": "play love", "ok": false}
+{"task": "word", "i": 147, "pred": "success success", "gold": "success serenity", "ok": false}
+{"task": "word", "i": 148, "pred": "shadow effort effort", "gold": "shadow effort", "ok": false}
+{"task": "word", "i": 149, "pred": "tree popopopopopopopopopopopopopopopopopopopopopopopopopopopopopopopopopopopopopopopopopopopopopopopopopopopopopopopopopopopopopopop", "gold": "tree poetry", "ok": false}
+{"task": "word", "i": 150, "pred": "dreams dreams", "gold": "melody dreams", "ok": false}
+{"task": "word", "i": 151, "pred": "melody calm calm", "gold": "melody calm", "ok": false}
+{"task": "word", "i": 152, "pred": "expression expression", "gold": "meadow expression", "ok": false}
+{"task": "word", "i": 153, "pred": "calm calm", "gold": "calm mole", "ok": false}
+{"task": "word", "i": 154, "pred": "space poetry poetry", "gold": "space poetry", "ok": false}
+{"task": "word", "i": 155, "pred": "clinic strength strength", "gold": "clinic strength", "ok": false}
+{"task": "word", "i": 156, "pred": "health health", "gold": "writing health", "ok": false}
+{"task": "word", "i": 157, "pred": "work ocean ocean", "gold": "work ocean", "ok": false}
+{"task": "word", "i": 158, "pred": "music sound sound", "gold": "music sound", "ok": false}
+{"task": "word", "i": 159, "pred": "data data", "gold": "poetry data", "ok": false}
+{"task": "word", "i": 160, "pred": "wind wind", "gold": "wind compassion", "ok": false}
+{"task": "word", "i": 161, "pred": "sky evening evening", "gold": "sky evening", "ok": false}
+{"task": "word", "i": 162, "pred": "goal night night", "gold": "goal nightfall", "ok": false}
+{"task": "word", "i": 163, "pred": "star happiness happiness", "gold": "star happiness", "ok": false}
+{"task": "word", "i": 164, "pred": "team island island", "gold": "team island", "ok": false}
+{"task": "word", "i": 165, "pred": "present love", "gold": "present love", "ok": true}
+{"task": "word", "i": 166, "pred": "passion wind wind", "gold": "passion wind", "ok": false}
+{"task": "word", "i": 167, "pred": "belief rhythm rhythm", "gold": "belief rhythm", "ok": false}
+{"task": "word", "i": 168, "pred": "victory world world", "gold": "victory world", "ok": false}
+{"task": "word", "i": 169, "pred": "hope rainbow rainbow", "gold": "hope rainbow", "ok": false}
+{"task": "word", "i": 170, "pred": "power power", "gold": "power victory", "ok": false}
+{"task": "word", "i": 171, "pred": "joy mom mom", "gold": "joy moon", "ok": false}
+{"task": "word", "i": 172, "pred": "passion passion", "gold": "potential passion", "ok": false}
+{"task": "word", "i": 173, "pred": "melody shadow shadow", "gold": "melody shadow", "ok": false}
+{"task": "word", "i": 174, "pred": "theater sound sound", "gold": "theater sound", "ok": false}
+{"task": "word", "i": 175, "pred": "forest forest", "gold": "boot forest", "ok": false}
+{"task": "word", "i": 176, "pred": "star compassion", "gold": "star compassion", "ok": true}
+{"task": "word", "i": 177, "pred": "universe night night", "gold": "universe night", "ok": false}
+{"task": "word", "i": 178, "pred": "sculpture bliss bliss", "gold": "sculpture bliss", "ok": false}
+{"task": "word", "i": 179, "pred": "lake space space", "gold": "lake space", "ok": false}
+{"task": "word", "i": 180, "pred": "music music", "gold": "music harmony", "ok": false}
+{"task": "word", "i": 181, "pred": "time ocean ocean", "gold": "time ocean", "ok": false}
+{"task": "word", "i": 182, "pred": "journey friend friend", "gold": "journey friend", "ok": false}
+{"task": "word", "i": 183, "pred": "sculpture sculpture", "gold": "rainbow sculpture", "ok": false}
+{"task": "word", "i": 184, "pred": "sculpture victory", "gold": "sculpture victory", "ok": true}
+{"task": "word", "i": 185, "pred": "passion compassion", "gold": "passion compassion", "ok": true}
+{"task": "word", "i": 186, "pred": "nightfall love love", "gold": "nightfall love", "ok": false}
+{"task": "word", "i": 187, "pred": "health creativity creativity", "gold": "health creativity", "ok": false}
+{"task": "word", "i": 188, "pred": "harmony molee molee", "gold": "harmony mole", "ok": false}
+{"task": "word", "i": 189, "pred": "performance nightfall", "gold": "performance nightfall", "ok": true}
+{"task": "word", "i": 190, "pred": "growth growth", "gold": "harmony growth", "ok": false}
+{"task": "word", "i": 191, "pred": "tree flower flower", "gold": "tree flower", "ok": false}
+{"task": "word", "i": 192, "pred": "effort peace peace", "gold": "effort peace", "ok": false}
+{"task": "word", "i": 193, "pred": "freedom freedom", "gold": "strength freedom", "ok": false}
+{"task": "word", "i": 194, "pred": "wind wind", "gold": "lake wind", "ok": false}
+{"task": "word", "i": 195, "pred": "journey journey", "gold": "data journey", "ok": false}
+{"task": "word", "i": 196, "pred": "data island island", "gold": "data island", "ok": false}
+{"task": "word", "i": 197, "pred": "growth writing writing", "gold": "growth writing", "ok": false}
+{"task": "word", "i": 198, "pred": "forest balance balance", "gold": "forest balance", "ok": false}
+{"task": "word", "i": 199, "pred": "boot sunset", "gold": "boot sunset", "ok": true}

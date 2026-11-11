@@ -280,7 +280,7 @@ class HalSkills(SkillAgent):
         tool = "tool" not in ABL
         if cs == "words":                              # English words: read word by word against a dictionary
             w = self.pol.do_text(v.text, st)
-            if not tool:
+            if not tool or "nover" in ABL:
                 return w
             return self.verify_words(st, img(v.text["instruction_image"][0]), [w] + self.ocr_words(img(v.text["instruction_image"][0])))
         chars = {"upper": string.ascii_uppercase + string.digits, "lower": string.ascii_lowercase + string.digits}[cs]

@@ -9,7 +9,7 @@
   cell select : Noul per grid cell, select P > 0.5 (argmax when none / single-choice widgets)
   numbered    : clicks are chosen coarse-to-fine among numbered cells drawn on the image (choice question)
 """
-import math, itertools
+import os, math, itertools
 from PIL import Image, ImageDraw, ImageFont
 from clef import Clef
 
@@ -30,7 +30,13 @@ def argmax(v):
     return max(range(len(v)), key=v.__getitem__)
 
 
+TOP1 = "top1" in os.environ.get("ABL", "").split(",")   # variant: compare only the most likely readings
+
+
 def match(pr, pcs):
+    if TOP1:
+        a = max(pr, key=pr.get)
+        return [float(max(pc, key=pc.get) == a) for pc in pcs]
     return [sum(pr[v] * pc.get(v, 0) for v in pr) for pc in pcs]
 
 
