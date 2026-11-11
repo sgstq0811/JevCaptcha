@@ -1,0 +1,245 @@
+{"type": "Bingo", "puzzle_id": "bingo22.png", "action": [1, 5], "correct": true, "server": {"correct": true, "correct_answer": [[1, 5], [3, 7]], "user_answer": [1, 5]}}
+{"type": "Bingo", "puzzle_id": "bingo23.png", "action": [1, 8], "correct": true, "server": {"correct": true, "correct_answer": [[4, 6], [1, 8]], "user_answer": [1, 8]}}
+{"type": "Bingo", "puzzle_id": "bingo16.png", "action": [0, 8], "correct": true, "server": {"correct": true, "correct_answer": [[1, 5], [0, 8]], "user_answer": [0, 8]}}
+{"type": "Bingo", "puzzle_id": "bingo19.png", "action": [0, 8], "correct": true, "server": {"correct": true, "correct_answer": [[3, 7], [0, 8]], "user_answer": [0, 8]}}
+{"type": "Bingo", "puzzle_id": "bingo24.png", "action": [4, 5], "correct": true, "server": {"correct": true, "correct_answer": [[4, 5]], "user_answer": [4, 5]}}
+{"type": "Bingo", "puzzle_id": "bingo21.png", "action": [3, 4], "correct": true, "server": {"correct": true, "correct_answer": [[3, 4], [6, 8]], "user_answer": [3, 4]}}
+{"type": "Bingo", "puzzle_id": "bingo25.png", "action": [1, 5], "correct": true, "server": {"correct": true, "correct_answer": [[3, 7], [1, 5]], "user_answer": [1, 5]}}
+{"type": "Bingo", "puzzle_id": "bingo18.png", "action": [0, 6], "correct": false, "server": {"correct": false, "correct_answer": [[1, 4], [2, 8]], "user_answer": [0, 6]}}
+{"type": "Bingo", "puzzle_id": "bingo20.png", "action": [2, 3], "correct": true, "server": {"correct": true, "correct_answer": [[2, 3], [4, 8]], "user_answer": [2, 3]}}
+{"type": "Bingo", "puzzle_id": "bingo17.png", "action": [1, 7], "correct": true, "server": {"correct": true, "correct_answer": [[1, 7]], "user_answer": [1, 7]}}
+{"type": "Click_Order", "puzzle_id": "image17.png", "action": [[124.99999999999999, 112.375], [424.99999999999994, 636.7916666666666], [174.99999999999997, 636.7916666666666], [424.99999999999994, 412.0416666666667]], "correct": true, "server": {"correct": true, "correct_answer": [[150, 130], [425, 630], [150, 620], [430, 395]], "user_answer": [[126, 113], [426, 637], [176, 637], [426, 412]]}}
+{"type": "Click_Order", "puzzle_id": "image18.png", "action": [[424.99999999999994, 412.0416666666667], [124.99999999999999, 412.0416666666667], [124.99999999999999, 636.7916666666666], [124.99999999999999, 112.375]], "correct": true, "server": {"correct": true, "correct_answer": [[430, 395], [150, 410], [150, 630], [150, 130]], "user_answer": [[426, 412], [126, 412], [126, 637], [126, 113]]}}
+{"type": "Click_Order", "puzzle_id": "image11.png", "action": [[174.99544270833334, 83.47005208333333], [74.998046875, 183.63411458333331], [374.990234375, 50.08203125], [374.990234375, 183.63411458333331]], "correct": false, "server": {"correct": false, "correct_answer": [[195, 100], [120, 190], [360, 65], [390, 195]], "user_answer": [[175, 84], [75, 184], [375, 50], [375, 184]]}}
+{"type": "Click_Order", "puzzle_id": "image14.png", "action": [[424.99999999999994, 486.9583333333333], [174.99999999999997, 486.9583333333333], [475.0, 112.375], [475.0, 412.0416666666667]], "correct": false, "server": {"correct": false, "correct_answer": [[450, 710], [150, 430], [450, 150], [450, 415]], "user_answer": [[426, 488], [176, 488], [476, 113], [476, 413]]}}
+{"type": "Click_Order", "puzzle_id": "image19.png", "action": [[424.99999999999994, 636.7916666666666], [424.99999999999994, 412.0416666666667], [475.0, 84.28125], [124.99999999999999, 412.0416666666667]], "correct": true, "server": {"correct": true, "correct_answer": [[430, 650], [450, 390], [460, 120], [150, 410]], "user_answer": [[426, 637], [426, 413], [476, 85], [126, 413]]}}
+{"type": "Click_Order", "puzzle_id": "image16.png", "action": [[424.99999999999994, 112.375], [424.99999999999994, 412.0416666666667], [174.99999999999997, 112.375], [174.99999999999997, 412.0416666666667]], "correct": true, "server": {"correct": true, "correct_answer": [[435, 140], [440, 430], [155, 140], [160, 430]], "user_answer": [[426, 113], [426, 413], [176, 113], [176, 413]]}}
+{"type": "Click_Order", "puzzle_id": "image20.png", "action": [[475.0, 140.46875], [124.99999999999999, 702.34375], [475.0, 711.7083333333334], [174.99999999999997, 84.28125]], "correct": true, "server": {"correct": true, "correct_answer": [[440, 130], [140, 700], [470, 680], [150, 110]], "user_answer": [[476, 141], [126, 703], [476, 713], [176, 85]]}}
+{"type": "Click_Order", "puzzle_id": "image13.png", "action": [[174.99999999999997, 187.29166666666666], [174.99999999999997, 412.0416666666667], [475.0, 412.0416666666667], [475.0, 758.53125]], "correct": false, "server": {"correct": false, "correct_answer": [[150, 150], [145, 420], [450, 415], [450, 150]], "user_answer": [[176, 188], [176, 413], [476, 413], [476, 759]]}}
+{"type": "Click_Order", "puzzle_id": "image15.png", "action": [[174.99999999999997, 112.375], [424.99999999999994, 412.0416666666667], [174.99999999999997, 412.0416666666667]], "correct": true, "server": {"correct": true, "correct_answer": [[155, 140], [440, 430], [160, 430]], "user_answer": [[176, 113], [426, 413], [176, 413]]}}
+{"type": "Click_Order", "puzzle_id": "image12.png", "action": [[124.99999999999999, 262.2083333333333], [424.99999999999994, 262.2083333333333], [275.0, 486.9583333333333], [468.75, 486.9583333333333]], "correct": true, "server": {"correct": true, "correct_answer": [[145, 280], [420, 260], [300, 465], [470, 470]], "user_answer": [[126, 263], [426, 263], [276, 488], [469, 488]]}}
+{"type": "Connect_icon", "puzzle_id": "puzzle17.json", "action": 6, "correct": true, "server": {"correct": true, "correct_answer": 6, "user_answer": 6}}
+{"type": "Connect_icon", "puzzle_id": "puzzle18.json", "action": 5, "correct": true, "server": {"correct": true, "correct_answer": 5, "user_answer": 5}}
+{"type": "Connect_icon", "puzzle_id": "puzzle11.json", "action": 3, "correct": true, "server": {"correct": true, "correct_answer": 3, "user_answer": 3}}
+{"type": "Connect_icon", "puzzle_id": "puzzle14.json", "action": 3, "correct": true, "server": {"correct": true, "correct_answer": 3, "user_answer": 3}}
+{"type": "Connect_icon", "puzzle_id": "puzzle19.json", "action": 0, "correct": true, "server": {"correct": true, "correct_answer": 0, "user_answer": 0}}
+{"type": "Connect_icon", "puzzle_id": "puzzle16.json", "action": 4, "correct": true, "server": {"correct": true, "correct_answer": 4, "user_answer": 4}}
+{"type": "Connect_icon", "puzzle_id": "puzzle20.json", "action": 7, "correct": true, "server": {"correct": true, "correct_answer": 7, "user_answer": 7}}
+{"type": "Connect_icon", "puzzle_id": "puzzle13.json", "action": 2, "correct": true, "server": {"correct": true, "correct_answer": 2, "user_answer": 2}}
+{"type": "Connect_icon", "puzzle_id": "puzzle15.json", "action": 1, "correct": true, "server": {"correct": true, "correct_answer": 1, "user_answer": 1}}
+{"type": "Connect_icon", "puzzle_id": "puzzle12.json", "action": 1, "correct": true, "server": {"correct": true, "correct_answer": 1, "user_answer": 1}}
+{"type": "Coordinates", "puzzle_id": "coordinate_sample17.png", "action": 5, "correct": false, "server": {"correct": false, "correct_answer": 6, "user_answer": 5}}
+{"type": "Coordinates", "puzzle_id": "coordinate_sample18.png", "action": 7, "correct": false, "server": {"correct": false, "correct_answer": 3, "user_answer": 7}}
+{"type": "Coordinates", "puzzle_id": "coordinate_sample14.png", "action": 2, "correct": false, "server": {"correct": false, "correct_answer": 1, "user_answer": 2}}
+{"type": "Coordinates", "puzzle_id": "coordinate_sample11.png", "action": 2, "correct": true, "server": {"correct": true, "correct_answer": 2, "user_answer": 2}}
+{"type": "Coordinates", "puzzle_id": "coordinate_sample15.png", "action": 0, "correct": false, "server": {"correct": false, "correct_answer": 4, "user_answer": 0}}
+{"type": "Coordinates", "puzzle_id": "coordinate_sample16.png", "action": 3, "correct": false, "server": {"correct": false, "correct_answer": 7, "user_answer": 3}}
+{"type": "Coordinates", "puzzle_id": "coordinate_sample13.png", "action": 5, "correct": true, "server": {"correct": true, "correct_answer": 5, "user_answer": 5}}
+{"type": "Coordinates", "puzzle_id": "coordinate_sample12.png", "action": 2, "correct": true, "server": {"correct": true, "correct_answer": 2, "user_answer": 2}}
+{"type": "Dart_Count", "puzzle_id": "dart_puzzle_17.json", "action": 2, "correct": true, "server": {"correct": true, "correct_answer": null, "user_answer": 2}}
+{"type": "Dart_Count", "puzzle_id": "dart_puzzle_18.json", "action": 1, "correct": true, "server": {"correct": true, "correct_answer": null, "user_answer": 1}}
+{"type": "Dart_Count", "puzzle_id": "dart_puzzle_11.json", "action": 13, "correct": true, "server": {"correct": true, "correct_answer": null, "user_answer": 13}}
+{"type": "Dart_Count", "puzzle_id": "dart_puzzle_14.json", "action": 4, "correct": true, "server": {"correct": true, "correct_answer": null, "user_answer": 4}}
+{"type": "Dart_Count", "puzzle_id": "dart_puzzle_19.json", "action": 0, "correct": true, "server": {"correct": true, "correct_answer": null, "user_answer": 0}}
+{"type": "Dart_Count", "puzzle_id": "dart_puzzle_16.json", "action": 7, "correct": true, "server": {"correct": true, "correct_answer": null, "user_answer": 7}}
+{"type": "Dart_Count", "puzzle_id": "dart_puzzle_20.json", "action": 2, "correct": false, "server": {"correct": false, "correct_answer": null, "user_answer": 2}}
+{"type": "Dart_Count", "puzzle_id": "dart_puzzle_13.json", "action": 9, "correct": false, "server": {"correct": false, "correct_answer": null, "user_answer": 9}}
+{"type": "Dart_Count", "puzzle_id": "dart_puzzle_15.json", "action": 10, "correct": false, "server": {"correct": false, "correct_answer": null, "user_answer": 10}}
+{"type": "Dart_Count", "puzzle_id": "dart_puzzle_12.json", "action": 12, "correct": true, "server": {"correct": true, "correct_answer": null, "user_answer": 12}}
+{"type": "Dice_Count", "puzzle_id": "dice17.png", "action": 56, "correct": false, "server": {"correct": false, "correct_answer": 37, "user_answer": "56"}}
+{"type": "Dice_Count", "puzzle_id": "dice18.png", "action": 56, "correct": false, "server": {"correct": false, "correct_answer": 29, "user_answer": "56"}}
+{"type": "Dice_Count", "puzzle_id": "dice11.png", "action": 69, "correct": false, "server": {"correct": false, "correct_answer": 28, "user_answer": "69"}}
+{"type": "Dice_Count", "puzzle_id": "dice14.png", "action": 56, "correct": false, "server": {"correct": false, "correct_answer": 11, "user_answer": "56"}}
+{"type": "Dice_Count", "puzzle_id": "dice19.png", "action": 56, "correct": false, "server": {"correct": false, "correct_answer": 23, "user_answer": "56"}}
+{"type": "Dice_Count", "puzzle_id": "dice16.png", "action": 69, "correct": false, "server": {"correct": false, "correct_answer": 17, "user_answer": "69"}}
+{"type": "Dice_Count", "puzzle_id": "dice20.png", "action": 56, "correct": false, "server": {"correct": false, "correct_answer": 37, "user_answer": "56"}}
+{"type": "Dice_Count", "puzzle_id": "dice13.png", "action": 69, "correct": false, "server": {"correct": false, "correct_answer": 24, "user_answer": "69"}}
+{"type": "Dice_Count", "puzzle_id": "dice15.png", "action": 10, "correct": false, "server": {"correct": false, "correct_answer": 3, "user_answer": "10"}}
+{"type": "Dice_Count", "puzzle_id": "dice12.png", "action": 99, "correct": false, "server": {"correct": false, "correct_answer": 64, "user_answer": "99"}}
+{"type": "Geometry_Click", "puzzle_id": "xiaodun_000010.png", "action": [132.83999999999997, 160.07999999999998], "correct": true, "server": {"correct": true, "correct_answer": {"area": [[112, 122], [165, 180]], "type": "circle"}, "user_answer": [134, 162]}}
+{"type": "Geometry_Click", "puzzle_id": "xiaodun_000009.png", "action": [139.32, 31.280000000000005], "correct": false, "server": {"correct": false, "correct_answer": {"area": [[145, 20], [175, 60]], "type": "circle"}, "user_answer": [141, 33]}}
+{"type": "Geometry_Click", "puzzle_id": "geetest_000006.jpg", "action": [38.28, 121.80000000000001], "correct": true, "server": {"correct": true, "correct_answer": {"area": [[5, 100], [65, 150]], "type": "circle"}, "user_answer": [40, 123]}}
+{"type": "Geometry_Click", "puzzle_id": "xiaodun_000001.png", "action": [55.08, 90.16000000000001], "correct": true, "server": {"correct": true, "correct_answer": {"area": [[32, 70], [75, 115]], "type": "circle"}, "user_answer": [57, 92]}}
+{"type": "Geometry_Click", "puzzle_id": "xiaodun_000003.png", "action": [126.35999999999999, 46.0], "correct": true, "server": {"correct": true, "correct_answer": {"area": [[106, 33], [140, 70]], "type": "circle"}, "user_answer": [128, 47]}}
+{"type": "Geometry_Click", "puzzle_id": "netease_000003.jpg", "action": [281.88, 90.2], "correct": true, "server": {"correct": true, "correct_answer": {"area": [[255, 90], [290, 135]], "type": "circle"}, "user_answer": [283, 92]}}
+{"type": "Geometry_Click", "puzzle_id": "xiaodun_000007.png", "action": [81.0, 27.6], "correct": false, "server": {"correct": false, "correct_answer": {"area": [[70, 40], [100, 50]], "type": "circle"}, "user_answer": [83, 29]}}
+{"type": "Geometry_Click", "puzzle_id": "netease_000002.jpg", "action": [61.56, 77.08000000000001], "correct": true, "server": {"correct": true, "correct_answer": {"area": [[50, 50], [90, 100]], "type": "circle"}, "user_answer": [63, 79]}}
+{"type": "Geometry_Click", "puzzle_id": "geetest_000010.jpg", "action": [156.6, 93.96], "correct": true, "server": {"correct": true, "correct_answer": {"area": [[130, 60], [185, 125]], "type": "circle"}, "user_answer": [158, 95]}}
+{"type": "Geometry_Click", "puzzle_id": "vtt_000007.jpg", "action": [101.99734374999998, 280.94859375], "correct": true, "server": {"correct": true, "correct_answer": {"area": [[91, 250], [136, 313]], "type": "circle"}, "user_answer": [103, 282]}}
+{"type": "Geometry_Click", "puzzle_id": "geetest_000009.jpg", "action": [247.08, 191.39999999999998], "correct": true, "server": {"correct": true, "correct_answer": {"area": [[210, 160], [270, 240]], "type": "circle"}, "user_answer": [249, 193]}}
+{"type": "Image_Matching", "puzzle_id": "ground_image17.png", "action": 1, "correct": true, "server": {"correct": true, "correct_answer": "leopard", "user_answer": 1}}
+{"type": "Image_Matching", "puzzle_id": "ground_image18.png", "action": 0, "correct": true, "server": {"correct": true, "correct_answer": "lion", "user_answer": 0}}
+{"type": "Image_Matching", "puzzle_id": "ground_image11.png", "action": 1, "correct": true, "server": {"correct": true, "correct_answer": "mouse", "user_answer": 1}}
+{"type": "Image_Matching", "puzzle_id": "ground_image14.png", "action": 2, "correct": true, "server": {"correct": true, "correct_answer": "lion", "user_answer": 2}}
+{"type": "Image_Matching", "puzzle_id": "ground_image19.png", "action": 1, "correct": true, "server": {"correct": true, "correct_answer": "cat", "user_answer": 1}}
+{"type": "Image_Matching", "puzzle_id": "ground_image16.png", "action": 2, "correct": true, "server": {"correct": true, "correct_answer": "dog", "user_answer": 2}}
+{"type": "Image_Matching", "puzzle_id": "ground_image20.png", "action": 2, "correct": true, "server": {"correct": true, "correct_answer": "dog", "user_answer": 2}}
+{"type": "Image_Matching", "puzzle_id": "ground_image13.png", "action": 0, "correct": true, "server": {"correct": true, "correct_answer": "leopard", "user_answer": 0}}
+{"type": "Image_Matching", "puzzle_id": "ground_image15.png", "action": 4, "correct": true, "server": {"correct": true, "correct_answer": "cat", "user_answer": 4}}
+{"type": "Image_Matching", "puzzle_id": "ground_image12.png", "action": 2, "correct": true, "server": {"correct": true, "correct_answer": "fox", "user_answer": 2}}
+{"type": "Image_Recognition", "puzzle_id": "images17", "action": [0, 3, 4, 7], "correct": true, "server": {"correct": true, "correct_answer": null, "user_answer": [0, 3, 4, 7]}}
+{"type": "Image_Recognition", "puzzle_id": "images18", "action": [1, 2, 5, 6, 8], "correct": true, "server": {"correct": true, "correct_answer": null, "user_answer": [1, 2, 5, 6, 8]}}
+{"type": "Image_Recognition", "puzzle_id": "images11", "action": [0, 3, 4, 7], "correct": true, "server": {"correct": true, "correct_answer": null, "user_answer": [0, 3, 4, 7]}}
+{"type": "Image_Recognition", "puzzle_id": "images14", "action": [1, 3, 5], "correct": true, "server": {"correct": true, "correct_answer": null, "user_answer": [1, 3, 5]}}
+{"type": "Image_Recognition", "puzzle_id": "images19", "action": [0, 1, 3, 7], "correct": true, "server": {"correct": true, "correct_answer": null, "user_answer": [0, 1, 3, 7]}}
+{"type": "Image_Recognition", "puzzle_id": "images16", "action": [2, 3, 4, 5], "correct": true, "server": {"correct": true, "correct_answer": null, "user_answer": [2, 3, 4, 5]}}
+{"type": "Image_Recognition", "puzzle_id": "images20", "action": [5], "correct": true, "server": {"correct": true, "correct_answer": null, "user_answer": [5]}}
+{"type": "Image_Recognition", "puzzle_id": "images13", "action": [0, 3, 4, 6, 8], "correct": false, "server": {"correct": false, "correct_answer": null, "user_answer": [0, 3, 4, 6, 8]}}
+{"type": "Image_Recognition", "puzzle_id": "images15", "action": [0, 3, 6, 8], "correct": true, "server": {"correct": true, "correct_answer": null, "user_answer": [0, 3, 6, 8]}}
+{"type": "Image_Recognition", "puzzle_id": "images12", "action": [1, 2, 5, 7], "correct": true, "server": {"correct": true, "correct_answer": null, "user_answer": [1, 2, 5, 7]}}
+{"type": "Misleading_Click", "puzzle_id": "image17.png", "action": [12.9970703125, 109.37158203125], "correct": true, "server": {"correct": true, "correct_answer": "avoid_person", "user_answer": [15, 111]}}
+{"type": "Misleading_Click", "puzzle_id": "image18.png", "action": [107.01171875, 78.12255859375], "correct": true, "server": {"correct": true, "correct_answer": "avoid_person", "user_answer": [109, 80]}}
+{"type": "Misleading_Click", "puzzle_id": "image11.png", "action": [87.5927734375, 453.11083984375], "correct": true, "server": {"correct": true, "correct_answer": "avoid_person", "user_answer": [89, 455]}}
+{"type": "Misleading_Click", "puzzle_id": "image14.png", "action": [474.98763020833337, 428.732421875], "correct": true, "server": {"correct": true, "correct_answer": "avoid_person", "user_answer": [476, 430]}}
+{"type": "Misleading_Click", "puzzle_id": "image19.png", "action": [224.994140625, 100.1943359375], "correct": true, "server": {"correct": true, "correct_answer": "avoid_person", "user_answer": [226, 102]}}
+{"type": "Misleading_Click", "puzzle_id": "image16.png", "action": [56.24853515625, 62.70751953125], "correct": true, "server": {"correct": true, "correct_answer": "avoid_person", "user_answer": [58, 64]}}
+{"type": "Misleading_Click", "puzzle_id": "image20.png", "action": [93.74755859375, 388.78662109375], "correct": true, "server": {"correct": true, "correct_answer": "avoid_person", "user_answer": [95, 390]}}
+{"type": "Misleading_Click", "puzzle_id": "image13.png", "action": [48.56103515625, 395.82096354166663], "correct": true, "server": {"correct": true, "correct_answer": "avoid_person", "user_answer": [50, 397]}}
+{"type": "Misleading_Click", "puzzle_id": "image15.png", "action": [84.384765625, 453.11083984375], "correct": true, "server": {"correct": true, "correct_answer": "avoid_person", "user_answer": [86, 455]}}
+{"type": "Misleading_Click", "puzzle_id": "image12.png", "action": [80.1220703125, 354.15559895833337], "correct": true, "server": {"correct": true, "correct_answer": "avoid_person", "user_answer": [81, 356]}}
+{"type": "Object_Match", "puzzle_id": "example17.png", "action": 3, "correct": false, "server": {"correct": false, "correct_answer": null, "user_answer": 3}}
+{"type": "Object_Match", "puzzle_id": "example18.png", "action": 2, "correct": false, "server": {"correct": false, "correct_answer": null, "user_answer": 2}}
+{"type": "Object_Match", "puzzle_id": "example11.png", "action": 1, "correct": false, "server": {"correct": false, "correct_answer": null, "user_answer": 1}}
+{"type": "Object_Match", "puzzle_id": "example14.png", "action": 4, "correct": true, "server": {"correct": true, "correct_answer": null, "user_answer": 4}}
+{"type": "Object_Match", "puzzle_id": "example19.png", "action": 2, "correct": true, "server": {"correct": true, "correct_answer": null, "user_answer": 2}}
+{"type": "Object_Match", "puzzle_id": "example16.png", "action": 3, "correct": true, "server": {"correct": true, "correct_answer": null, "user_answer": 3}}
+{"type": "Object_Match", "puzzle_id": "example20.png", "action": 2, "correct": true, "server": {"correct": true, "correct_answer": null, "user_answer": 2}}
+{"type": "Object_Match", "puzzle_id": "example13.png", "action": 2, "correct": false, "server": {"correct": false, "correct_answer": null, "user_answer": 2}}
+{"type": "Object_Match", "puzzle_id": "example15.png", "action": 2, "correct": false, "server": {"correct": false, "correct_answer": null, "user_answer": 2}}
+{"type": "Object_Match", "puzzle_id": "example12.png", "action": 2, "correct": true, "server": {"correct": true, "correct_answer": null, "user_answer": 2}}
+{"type": "Patch_Select", "puzzle_id": "image17.jpeg", "action": [10, 11, 12, 13, 15, 16, 20], "correct": false, "server": {"correct": false, "correct_answer": [5, 10, 11, 12, 13, 15, 16, 17, 20, 21], "user_answer": [10, 11, 12, 13, 15, 16, 20]}}
+{"type": "Patch_Select", "puzzle_id": "image18.png", "action": [2, 7, 12, 17, 18, 22, 23], "correct": false, "server": {"correct": false, "correct_answer": [2, 7, 8, 12, 13, 16, 17, 18, 21, 22, 23], "user_answer": [2, 7, 12, 17, 18, 22, 23]}}
+{"type": "Patch_Select", "puzzle_id": "image11.jpeg", "action": [12, 17], "correct": false, "server": {"correct": false, "correct_answer": [11, 12, 13, 16, 17, 18], "user_answer": [12, 17]}}
+{"type": "Patch_Select", "puzzle_id": "image14.jpeg", "action": [17, 22], "correct": false, "server": {"correct": false, "correct_answer": [17, 18, 22, 23], "user_answer": [17, 22]}}
+{"type": "Patch_Select", "puzzle_id": "image19.jpeg", "action": [6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19], "correct": false, "server": {"correct": false, "correct_answer": [6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23], "user_answer": [6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]}}
+{"type": "Patch_Select", "puzzle_id": "image16.jpeg", "action": [11, 12, 13, 16, 17, 18], "correct": true, "server": {"correct": true, "correct_answer": [11, 12, 13, 16, 17, 18], "user_answer": [11, 12, 13, 16, 17, 18]}}
+{"type": "Patch_Select", "puzzle_id": "image20.jpeg", "action": [7, 10, 11, 12, 13, 14, 17, 19, 22], "correct": false, "server": {"correct": false, "correct_answer": [7, 10, 12, 14, 16, 17, 18, 19], "user_answer": [7, 10, 11, 12, 13, 14, 17, 19, 22]}}
+{"type": "Patch_Select", "puzzle_id": "image13.jpeg", "action": [17, 22, 23], "correct": false, "server": {"correct": false, "correct_answer": [22, 23], "user_answer": [17, 22, 23]}}
+{"type": "Patch_Select", "puzzle_id": "image15.jpeg", "action": [6, 7, 10, 11], "correct": false, "server": {"correct": false, "correct_answer": [2, 3, 6, 7, 8, 10, 11], "user_answer": [6, 7, 10, 11]}}
+{"type": "Patch_Select", "puzzle_id": "image12.jpeg", "action": [12, 13, 17, 18], "correct": false, "server": {"correct": false, "correct_answer": [8, 12, 13, 17, 18], "user_answer": [12, 13, 17, 18]}}
+{"type": "Pick_Area", "puzzle_id": "image23.png", "action": [325.0, 355.0], "correct": false, "server": {"correct": false, "correct_answer": {"area": [[240, 0], [496, 230]], "type": "largest region"}, "user_answer": [327, 356]}}
+{"type": "Pick_Area", "puzzle_id": "image25.png", "action": [224.47968750000004, 254.99203125000003], "correct": false, "server": {"correct": false, "correct_answer": {"area": [[320, 0], [495, 360]], "type": "largest region"}, "user_answer": [226, 256]}}
+{"type": "Pick_Area", "puzzle_id": "image12.png", "action": [285.0, 305.0], "correct": false, "server": {"correct": false, "correct_answer": {"area": [[0, 0], [310, 230]], "type": "largest region"}, "user_answer": [287, 306]}}
+{"type": "Pick_Area", "puzzle_id": "image20.png", "action": [235.00000000000003, 205.00000000000003], "correct": false, "server": {"correct": false, "correct_answer": {"area": [[100, 0], [496, 130]], "type": "largest region"}, "user_answer": [237, 206]}}
+{"type": "Pick_Area", "puzzle_id": "image30.png", "action": [205.0, 215.0], "correct": false, "server": {"correct": false, "correct_answer": {"area": [[260, 0], [495, 205]], "type": "largest region"}, "user_answer": [207, 216]}}
+{"type": "Pick_Area", "puzzle_id": "image18.png", "action": [265.0, 185.0], "correct": false, "server": {"correct": false, "correct_answer": {"area": [[70, 330], [410, 495]], "type": "largest region"}, "user_answer": [267, 186]}}
+{"type": "Pick_Area", "puzzle_id": "image28.png", "action": [275.0, 235.0], "correct": false, "server": {"correct": false, "correct_answer": {"area": [[110, 0], [420, 170]], "type": "largest region"}, "user_answer": [277, 236]}}
+{"type": "Pick_Area", "puzzle_id": "image16.png", "action": [324.6140625, 264.99171875], "correct": false, "server": {"correct": false, "correct_answer": {"area": [[0, 0], [495, 150]], "type": "largest region"}, "user_answer": [326, 266]}}
+{"type": "Pick_Area", "puzzle_id": "image22.png", "action": [244.70906250000002, 124.99609375], "correct": false, "server": {"correct": false, "correct_answer": {"area": [[0, 60], [190, 330]], "type": "largest region"}, "user_answer": [247, 126]}}
+{"type": "Pick_Area", "puzzle_id": "image19.png", "action": [345.0, 295.0], "correct": false, "server": {"correct": false, "correct_answer": {"area": [[0, 0], [115, 496]], "type": "largest region"}, "user_answer": [347, 296]}}
+{"type": "Pick_Area", "puzzle_id": "image29.png", "action": [265.0, 205.0], "correct": false, "server": {"correct": false, "correct_answer": {"area": [[170, 330], [496, 496]], "type": "largest region"}, "user_answer": [267, 206]}}
+{"type": "Pick_Area", "puzzle_id": "image15.png", "action": [235.25703124999998, 324.98984375], "correct": false, "server": {"correct": false, "correct_answer": {"area": [[140, 0], [497, 190]], "type": "largest region"}, "user_answer": [236, 326]}}
+{"type": "Pick_Area", "puzzle_id": "image14.png", "action": [265.0, 385.0], "correct": false, "server": {"correct": false, "correct_answer": {"area": [[0, 0], [496, 150]], "type": "largest region"}, "user_answer": [267, 386]}}
+{"type": "Pick_Area", "puzzle_id": "image17.png", "action": [204.51953124999997, 304.99046875], "correct": false, "server": {"correct": false, "correct_answer": {"area": [[250, 0], [495, 300]], "type": "largest region"}, "user_answer": [206, 306]}}
+{"type": "Pick_Area", "puzzle_id": "image13.png", "action": [244.99999999999997, 325.0], "correct": false, "server": {"correct": false, "correct_answer": {"area": [[230, 0], [496, 310]], "type": "largest region"}, "user_answer": [247, 326]}}
+{"type": "Pick_Area", "puzzle_id": "image11.png", "action": [325.3453125, 264.99171875], "correct": false, "server": {"correct": false, "correct_answer": {"area": [[0, 0], [260, 290]], "type": "largest region"}, "user_answer": [327, 266]}}
+{"type": "Pick_Area", "puzzle_id": "image26.png", "action": [255.27890625, 304.99046875000005], "correct": false, "server": {"correct": false, "correct_answer": {"area": [[0, 0], [190, 310]], "type": "largest region"}, "user_answer": [256, 306]}}
+{"type": "Pick_Area", "puzzle_id": "image27.png", "action": [254.69718749999998, 284.99109375], "correct": false, "server": {"correct": false, "correct_answer": {"area": [[350, 30], [495, 435]], "type": "largest region"}, "user_answer": [256, 286]}}
+{"type": "Pick_Area", "puzzle_id": "image21.png", "action": [235.0, 164.99999999999997], "correct": false, "server": {"correct": false, "correct_answer": {"area": [[0, 210], [210, 495]], "type": "largest region"}, "user_answer": [237, 166]}}
+{"type": "Pick_Area", "puzzle_id": "image24.png", "action": [245.0, 295.0], "correct": false, "server": {"correct": false, "correct_answer": {"area": [[70, 0], [495, 170]], "type": "largest region"}, "user_answer": [247, 296]}}
+{"type": "Place_Dot", "puzzle_id": "path23.png", "action": [570.0, 186.0], "correct": true, "server": {"correct": true, "correct_answer": null, "user_answer": [570, 185]}}
+{"type": "Place_Dot", "puzzle_id": "path25.png", "action": [534.0, 246.00000000000003], "correct": false, "server": {"correct": false, "correct_answer": null, "user_answer": [534, 245]}}
+{"type": "Place_Dot", "puzzle_id": "path12.png", "action": [534.0, 90.0], "correct": true, "server": {"correct": true, "correct_answer": null, "user_answer": [534, 89]}}
+{"type": "Place_Dot", "puzzle_id": "path20.png", "action": [510.0, 197.99999999999997], "correct": false, "server": {"correct": false, "correct_answer": null, "user_answer": [510, 197]}}
+{"type": "Place_Dot", "puzzle_id": "path31.png", "action": [474.0, 162.0], "correct": false, "server": {"correct": false, "correct_answer": null, "user_answer": [474, 161]}}
+{"type": "Place_Dot", "puzzle_id": "path30.png", "action": [474.0, 342.00000000000006], "correct": false, "server": {"correct": false, "correct_answer": null, "user_answer": [474, 341]}}
+{"type": "Place_Dot", "puzzle_id": "path27.png", "action": [462.0, 126.0], "correct": false, "server": {"correct": false, "correct_answer": null, "user_answer": [462, 125]}}
+{"type": "Place_Dot", "puzzle_id": "path32.png", "action": [450.0, 126.0], "correct": false, "server": {"correct": false, "correct_answer": null, "user_answer": [450, 125]}}
+{"type": "Place_Dot", "puzzle_id": "path28.png", "action": [390.0, 101.99999999999999], "correct": false, "server": {"correct": false, "correct_answer": null, "user_answer": [390, 101]}}
+{"type": "Place_Dot", "puzzle_id": "path16.png", "action": [522.0, 138.0], "correct": false, "server": {"correct": false, "correct_answer": null, "user_answer": [522, 137]}}
+{"type": "Place_Dot", "puzzle_id": "path21.png", "action": [522.0, 150.0], "correct": false, "server": {"correct": false, "correct_answer": null, "user_answer": [522, 149]}}
+{"type": "Place_Dot", "puzzle_id": "path18.png", "action": [498.0, 162.0], "correct": false, "server": {"correct": false, "correct_answer": null, "user_answer": [498, 161]}}
+{"type": "Place_Dot", "puzzle_id": "path29.png", "action": [426.0, 114.0], "correct": false, "server": {"correct": false, "correct_answer": null, "user_answer": [426, 113]}}
+{"type": "Place_Dot", "puzzle_id": "path15.png", "action": [474.0, 294.0], "correct": true, "server": {"correct": true, "correct_answer": null, "user_answer": [474, 293]}}
+{"type": "Place_Dot", "puzzle_id": "path14.png", "action": [498.0, 390.0], "correct": false, "server": {"correct": false, "correct_answer": null, "user_answer": [498, 389]}}
+{"type": "Place_Dot", "puzzle_id": "path17.png", "action": [498.0, 150.0], "correct": false, "server": {"correct": false, "correct_answer": null, "user_answer": [498, 149]}}
+{"type": "Place_Dot", "puzzle_id": "path13.png", "action": [558.0, 246.00000000000003], "correct": false, "server": {"correct": false, "correct_answer": null, "user_answer": [558, 245]}}
+{"type": "Place_Dot", "puzzle_id": "path11.png", "action": [450.0, 450.0], "correct": false, "server": {"correct": false, "correct_answer": null, "user_answer": [450, 449]}}
+{"type": "Place_Dot", "puzzle_id": "path24.png", "action": [570.0, 174.0], "correct": false, "server": {"correct": false, "correct_answer": null, "user_answer": [570, 173]}}
+{"type": "Place_Dot", "puzzle_id": "path26.png", "action": [522.0, 197.99999999999997], "correct": true, "server": {"correct": true, "correct_answer": null, "user_answer": [522, 197]}}
+{"type": "Place_Dot", "puzzle_id": "path19.png", "action": [462.0, 414.00000000000006], "correct": false, "server": {"correct": false, "correct_answer": null, "user_answer": [462, 413]}}
+{"type": "Place_Dot", "puzzle_id": "path22.png", "action": [462.0, 546.0], "correct": true, "server": {"correct": true, "correct_answer": null, "user_answer": [462, 545]}}
+{"type": "Rotation_Match", "puzzle_id": "puzzle_panda_direction_5.json", "action": 5, "correct": true, "server": {"correct": true, "correct_answer": 225, "user_answer": 225}}
+{"type": "Rotation_Match", "puzzle_id": "puzzle_panda_direction_7.json", "action": 0, "correct": true, "server": {"correct": true, "correct_answer": 0, "user_answer": 0}}
+{"type": "Rotation_Match", "puzzle_id": "puzzle_gold_direction_2.json", "action": 2, "correct": false, "server": {"correct": false, "correct_answer": 45, "user_answer": 90}}
+{"type": "Rotation_Match", "puzzle_id": "puzzle_panda_direction_2.json", "action": 2, "correct": false, "server": {"correct": false, "correct_answer": 45, "user_answer": 90}}
+{"type": "Rotation_Match", "puzzle_id": "puzzle_polarbear_direction_5.json", "action": 4, "correct": false, "server": {"correct": false, "correct_answer": 225, "user_answer": 180}}
+{"type": "Rotation_Match", "puzzle_id": "puzzle_polarbear_direction_4.json", "action": 6, "correct": false, "server": {"correct": false, "correct_answer": 315, "user_answer": 270}}
+{"type": "Rotation_Match", "puzzle_id": "puzzle_polarbear_direction_1.json", "action": 1, "correct": false, "server": {"correct": false, "correct_answer": 90, "user_answer": 45}}
+{"type": "Rotation_Match", "puzzle_id": "puzzle_panda_direction_4.json", "action": 7, "correct": true, "server": {"correct": true, "correct_answer": 315, "user_answer": 315}}
+{"type": "Rotation_Match", "puzzle_id": "puzzle_polarbear_direction_8.json", "action": 3, "correct": false, "server": {"correct": false, "correct_answer": 180, "user_answer": 135}}
+{"type": "Rotation_Match", "puzzle_id": "puzzle_gold_direction_7.json", "action": 0, "correct": true, "server": {"correct": true, "correct_answer": 0, "user_answer": 0}}
+{"type": "Rotation_Match", "puzzle_id": "puzzle_panda_direction_8.json", "action": 4, "correct": true, "server": {"correct": true, "correct_answer": 180, "user_answer": 180}}
+{"type": "Rotation_Match", "puzzle_id": "puzzle_gold_direction_5.json", "action": 5, "correct": true, "server": {"correct": true, "correct_answer": 225, "user_answer": 225}}
+{"type": "Rotation_Match", "puzzle_id": "puzzle_polarbear_direction_2.json", "action": 0, "correct": false, "server": {"correct": false, "correct_answer": 45, "user_answer": 0}}
+{"type": "Rotation_Match", "puzzle_id": "puzzle_gold_direction_4.json", "action": 7, "correct": true, "server": {"correct": true, "correct_answer": 315, "user_answer": 315}}
+{"type": "Rotation_Match", "puzzle_id": "puzzle_panda_direction_1.json", "action": 2, "correct": true, "server": {"correct": true, "correct_answer": 90, "user_answer": 90}}
+{"type": "Rotation_Match", "puzzle_id": "puzzle_gold_direction_6.json", "action": 3, "correct": true, "server": {"correct": true, "correct_answer": 135, "user_answer": 135}}
+{"type": "Rotation_Match", "puzzle_id": "puzzle_gold_direction_3.json", "action": 6, "correct": true, "server": {"correct": true, "correct_answer": 270, "user_answer": 270}}
+{"type": "Rotation_Match", "puzzle_id": "puzzle_polarbear_direction_3.json", "action": 5, "correct": false, "server": {"correct": false, "correct_answer": 270, "user_answer": 225}}
+{"type": "Rotation_Match", "puzzle_id": "puzzle_panda_direction_3.json", "action": 6, "correct": true, "server": {"correct": true, "correct_answer": 270, "user_answer": 270}}
+{"type": "Rotation_Match", "puzzle_id": "puzzle_polarbear_direction_7.json", "action": 7, "correct": false, "server": {"correct": false, "correct_answer": 0, "user_answer": 315}}
+{"type": "Rotation_Match", "puzzle_id": "puzzle_gold_direction_8.json", "action": 4, "correct": true, "server": {"correct": true, "correct_answer": 180, "user_answer": 180}}
+{"type": "Rotation_Match", "puzzle_id": "puzzle_panda_direction_6.json", "action": 3, "correct": true, "server": {"correct": true, "correct_answer": 135, "user_answer": 135}}
+{"type": "Rotation_Match", "puzzle_id": "puzzle_gold_direction_1.json", "action": 2, "correct": true, "server": {"correct": true, "correct_answer": 90, "user_answer": 90}}
+{"type": "Rotation_Match", "puzzle_id": "puzzle_polarbear_direction_6.json", "action": 2, "correct": false, "server": {"correct": false, "correct_answer": 135, "user_answer": 90}}
+{"type": "Select_Animal", "puzzle_id": "image23.png", "action": 0, "correct": true, "server": {"correct": true, "correct_answer": [0], "user_answer": [0]}}
+{"type": "Select_Animal", "puzzle_id": "image25.png", "action": 2, "correct": true, "server": {"correct": true, "correct_answer": [2], "user_answer": [2]}}
+{"type": "Select_Animal", "puzzle_id": "image12.png", "action": 1, "correct": true, "server": {"correct": true, "correct_answer": [1], "user_answer": [1]}}
+{"type": "Select_Animal", "puzzle_id": "image20.png", "action": 3, "correct": true, "server": {"correct": true, "correct_answer": [3], "user_answer": [3]}}
+{"type": "Select_Animal", "puzzle_id": "image30.png", "action": 1, "correct": true, "server": {"correct": true, "correct_answer": [1], "user_answer": [1]}}
+{"type": "Select_Animal", "puzzle_id": "image18.png", "action": 1, "correct": true, "server": {"correct": true, "correct_answer": [1], "user_answer": [1]}}
+{"type": "Select_Animal", "puzzle_id": "image28.png", "action": 5, "correct": true, "server": {"correct": true, "correct_answer": [5], "user_answer": [5]}}
+{"type": "Select_Animal", "puzzle_id": "image16.png", "action": 5, "correct": true, "server": {"correct": true, "correct_answer": [5], "user_answer": [5]}}
+{"type": "Select_Animal", "puzzle_id": "image22.png", "action": 5, "correct": true, "server": {"correct": true, "correct_answer": [5], "user_answer": [5]}}
+{"type": "Select_Animal", "puzzle_id": "image19.png", "action": 2, "correct": true, "server": {"correct": true, "correct_answer": [2], "user_answer": [2]}}
+{"type": "Select_Animal", "puzzle_id": "image29.png", "action": 0, "correct": true, "server": {"correct": true, "correct_answer": [0], "user_answer": [0]}}
+{"type": "Select_Animal", "puzzle_id": "image15.png", "action": 4, "correct": true, "server": {"correct": true, "correct_answer": [4], "user_answer": [4]}}
+{"type": "Select_Animal", "puzzle_id": "image14.png", "action": 3, "correct": true, "server": {"correct": true, "correct_answer": [3], "user_answer": [3]}}
+{"type": "Select_Animal", "puzzle_id": "image17.png", "action": 0, "correct": true, "server": {"correct": true, "correct_answer": [0], "user_answer": [0]}}
+{"type": "Select_Animal", "puzzle_id": "image13.png", "action": 2, "correct": true, "server": {"correct": true, "correct_answer": [2], "user_answer": [2]}}
+{"type": "Select_Animal", "puzzle_id": "image11.png", "action": 0, "correct": true, "server": {"correct": true, "correct_answer": [0], "user_answer": [0]}}
+{"type": "Select_Animal", "puzzle_id": "image26.png", "action": 3, "correct": true, "server": {"correct": true, "correct_answer": [3], "user_answer": [3]}}
+{"type": "Select_Animal", "puzzle_id": "image27.png", "action": 4, "correct": true, "server": {"correct": true, "correct_answer": [4], "user_answer": [4]}}
+{"type": "Select_Animal", "puzzle_id": "image21.png", "action": 4, "correct": true, "server": {"correct": true, "correct_answer": [4], "user_answer": [4]}}
+{"type": "Select_Animal", "puzzle_id": "image24.png", "action": 1, "correct": true, "server": {"correct": true, "correct_answer": [1], "user_answer": [1]}}
+{"type": "Slide_Puzzle", "puzzle_id": "slide33.png", "action": [388.88888888888886, 83.33333333333333], "correct": false, "server": {"correct": false, "correct_answer": [345, 82], "user_answer": [388, 82.6796875]}}
+{"type": "Slide_Puzzle", "puzzle_id": "slide35.png", "action": [277.77777777777777, 277.77777777777777], "correct": false, "server": {"correct": false, "correct_answer": [328, 281], "user_answer": [277.5, 277.390625]}}
+{"type": "Slide_Puzzle", "puzzle_id": "slide22.png", "action": [10.416666666666666, 111.1111111111111], "correct": false, "server": {"correct": false, "correct_answer": [326, 274], "user_answer": [30, 112.0078125]}}
+{"type": "Slide_Puzzle", "puzzle_id": "slide30.png", "action": [444.4444444444444, 305.55555555555554], "correct": false, "server": {"correct": false, "correct_answer": [377, 329], "user_answer": [444, 304.6796875]}}
+{"type": "Slide_Puzzle", "puzzle_id": "slide40.png", "action": [194.44444444444443, 111.1111111111111], "correct": true, "server": {"correct": true, "correct_answer": [199, 98], "user_answer": [194.5, 111.265625]}}
+{"type": "Slide_Puzzle", "puzzle_id": "slide28.png", "action": [249.99999999999997, 138.88888888888886], "correct": false, "server": {"correct": false, "correct_answer": [287, 149], "user_answer": [250, 139.0234375]}}
+{"type": "Slide_Puzzle", "puzzle_id": "slide38.png", "action": [277.77777777777777, 361.1111111111111], "correct": true, "server": {"correct": true, "correct_answer": [289, 354], "user_answer": [277.5, 361.5]}}
+{"type": "Slide_Puzzle", "puzzle_id": "slide26.png", "action": [138.88888888888889, 222.2222222222222], "correct": false, "server": {"correct": false, "correct_answer": [169, 232], "user_answer": [138.5, 222.03125]}}
+{"type": "Slide_Puzzle", "puzzle_id": "slide32.png", "action": [277.77777777777777, 138.88888888888886], "correct": false, "server": {"correct": false, "correct_answer": [249, 117], "user_answer": [277.5, 138.5]}}
+{"type": "Slide_Puzzle", "puzzle_id": "slide29.png", "action": [249.99999999999997, 427.0833333333333], "correct": false, "server": {"correct": false, "correct_answer": [303, 418], "user_answer": [250, 426.6796875]}}
+{"type": "Slide_Puzzle", "puzzle_id": "slide39.png", "action": [249.99999999999997, 361.1111111111111], "correct": false, "server": {"correct": false, "correct_answer": [316, 340], "user_answer": [250.5, 361.5]}}
+{"type": "Slide_Puzzle", "puzzle_id": "slide25.png", "action": [385.4166666666667, 277.77777777777777], "correct": false, "server": {"correct": false, "correct_answer": [437, 292], "user_answer": [385.5, 277.6015625]}}
+{"type": "Slide_Puzzle", "puzzle_id": "slide24.png", "action": [249.99999999999997, 305.55555555555554], "correct": false, "server": {"correct": false, "correct_answer": [275, 312], "user_answer": [250.5, 305.265625]}}
+{"type": "Slide_Puzzle", "puzzle_id": "slide27.png", "action": [222.2222222222222, 333.3333333333333], "correct": false, "server": {"correct": false, "correct_answer": [174, 318], "user_answer": [222, 332.6796875]}}
+{"type": "Slide_Puzzle", "puzzle_id": "slide23.png", "action": [72.91666666666667, 138.88888888888886], "correct": false, "server": {"correct": false, "correct_answer": [65, 158], "user_answer": [73, 139.0078125]}}
+{"type": "Slide_Puzzle", "puzzle_id": "slide21.png", "action": [333.33333333333337, 111.1111111111111], "correct": false, "server": {"correct": false, "correct_answer": [338, 144], "user_answer": [333, 111.3125]}}
+{"type": "Slide_Puzzle", "puzzle_id": "slide36.png", "action": [194.44444444444443, 427.0833333333333], "correct": true, "server": {"correct": true, "correct_answer": [184, 421], "user_answer": [194.5, 427.5]}}
+{"type": "Slide_Puzzle", "puzzle_id": "slide37.png", "action": [222.2222222222222, 31.25], "correct": false, "server": {"correct": false, "correct_answer": [210, 58], "user_answer": [222, 31.3125]}}
+{"type": "Slide_Puzzle", "puzzle_id": "slide31.png", "action": [249.99999999999997, 333.3333333333333], "correct": false, "server": {"correct": false, "correct_answer": [295, 335], "user_answer": [250, 332.6796875]}}
+{"type": "Slide_Puzzle", "puzzle_id": "slide34.png", "action": [138.88888888888886, 83.33333333333333], "correct": false, "server": {"correct": false, "correct_answer": [127, 130], "user_answer": [138, 84]}}
+{"type": "Unusual_Detection", "puzzle_id": "unusual23.png", "action": [4], "correct": true, "server": {"correct": true, "correct_answer": [4], "user_answer": [4]}}
+{"type": "Unusual_Detection", "puzzle_id": "unusual25.png", "action": [0, 2, 5], "correct": true, "server": {"correct": true, "correct_answer": [0, 2, 5], "user_answer": [0, 2, 5]}}
+{"type": "Unusual_Detection", "puzzle_id": "unusual12.png", "action": [0, 4, 5], "correct": true, "server": {"correct": true, "correct_answer": [0, 4, 5], "user_answer": [0, 4, 5]}}
+{"type": "Unusual_Detection", "puzzle_id": "unusual20.png", "action": [0, 2, 4], "correct": true, "server": {"correct": true, "correct_answer": [0, 2, 4], "user_answer": [0, 2, 4]}}
+{"type": "Unusual_Detection", "puzzle_id": "unusual30.png", "action": [0, 2, 3], "correct": true, "server": {"correct": true, "correct_answer": [0, 2, 3], "user_answer": [0, 2, 3]}}
+{"type": "Unusual_Detection", "puzzle_id": "unusual18.png", "action": [0], "correct": false, "server": {"correct": false, "correct_answer": [0, 2], "user_answer": [0]}}
+{"type": "Unusual_Detection", "puzzle_id": "unusual28.png", "action": [0, 2], "correct": true, "server": {"correct": true, "correct_answer": [0, 2], "user_answer": [0, 2]}}
+{"type": "Unusual_Detection", "puzzle_id": "unusual16.png", "action": [0], "correct": true, "server": {"correct": true, "correct_answer": [0], "user_answer": [0]}}
+{"type": "Unusual_Detection", "puzzle_id": "unusual22.png", "action": [2], "correct": false, "server": {"correct": false, "correct_answer": [0, 3, 4], "user_answer": [2]}}
+{"type": "Unusual_Detection", "puzzle_id": "unusual19.png", "action": [0, 4], "correct": false, "server": {"correct": false, "correct_answer": [0, 3, 4], "user_answer": [0, 4]}}
+{"type": "Unusual_Detection", "puzzle_id": "unusual29.png", "action": [1, 4], "correct": true, "server": {"correct": true, "correct_answer": [1, 4], "user_answer": [1, 4]}}
+{"type": "Unusual_Detection", "puzzle_id": "unusual15.png", "action": [0, 2, 4], "correct": true, "server": {"correct": true, "correct_answer": [0, 2, 4], "user_answer": [0, 2, 4]}}
+{"type": "Unusual_Detection", "puzzle_id": "unusual14.png", "action": [0, 2, 5], "correct": true, "server": {"correct": true, "correct_answer": [0, 2, 5], "user_answer": [0, 2, 5]}}
+{"type": "Unusual_Detection", "puzzle_id": "unusual17.png", "action": [0, 5], "correct": true, "server": {"correct": true, "correct_answer": [0, 5], "user_answer": [0, 5]}}
+{"type": "Unusual_Detection", "puzzle_id": "unusual13.png", "action": [0, 4], "correct": true, "server": {"correct": true, "correct_answer": [0, 4], "user_answer": [0, 4]}}
+{"type": "Unusual_Detection", "puzzle_id": "unusual11.png", "action": [0, 2, 3], "correct": true, "server": {"correct": true, "correct_answer": [0, 2, 3], "user_answer": [0, 2, 3]}}
+{"type": "Unusual_Detection", "puzzle_id": "unusual26.png", "action": [0, 2, 4], "correct": true, "server": {"correct": true, "correct_answer": [0, 2, 4], "user_answer": [0, 2, 4]}}
+{"type": "Unusual_Detection", "puzzle_id": "unusual27.png", "action": [1, 2], "correct": false, "server": {"correct": false, "correct_answer": [2], "user_answer": [1, 2]}}
+{"type": "Unusual_Detection", "puzzle_id": "unusual21.png", "action": [0, 2, 3], "correct": true, "server": {"correct": true, "correct_answer": [0, 2, 3], "user_answer": [0, 2, 3]}}
+{"type": "Unusual_Detection", "puzzle_id": "unusual24.png", "action": [0, 2], "correct": true, "server": {"correct": true, "correct_answer": [0, 2], "user_answer": [0, 2]}}
