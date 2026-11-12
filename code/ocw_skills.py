@@ -32,6 +32,7 @@ import math
 from strokes import line_ends, line_end_cands
 from regions import regions
 from ocw_policy import NUM, LINES3, DIRS, choice, argmax, match
+import delegate
 ABL = set(filter(None, os.environ.get("ABL", "").split(",")))   # ablation: components switched off
 
 SKILLS = {
@@ -313,6 +314,11 @@ class SkillAgent(GenericAgent):
         pairs = list(itertools.combinations(range(9), 2))
         p = self.noul({"task": "Compare two tiles of a picture grid."}, [[cr[i], cr[j]] for i, j in pairs],
                       "Do image 1 and image 2 show the same picture (the same object or animal in the same style)?")
+        if "swapver" in ABL:                           # variant: one question per rendered swap instead of pairwise equality
+            arg = self.swap_render_pick(cr, pairs)
+            for k in arg:
+                self.click(pg, els[g[k] - 1])
+            return f"swap tiles {g[arg[0]]} and {g[arg[1]]}"
         same = [[1.0] * 9 for _ in range(9)]
         for (i, j), v in zip(pairs, p):
             same[i][j] = same[j][i] = v
@@ -328,6 +334,19 @@ class SkillAgent(GenericAgent):
         for k in arg:
             self.click(pg, els[g[k] - 1])
         return f"swap tiles {g[arg[0]]} and {g[arg[1]]}"
+
+    def swap_render_pick(self, cr, pairs):
+        w, h = cr[0].size
+        ims = []
+        for i, j in pairs:
+            pos = list(range(9))
+            pos[i], pos[j] = pos[j], pos[i]
+            o = Image.new("RGB", (3 * w, 3 * h), (255, 255, 255))
+            for k in range(9):
+                o.paste(cr[pos[k]].resize((w, h)), ((k % 3) * w, (k // 3) * h))
+            ims.append([o])
+        p = self.noul({"task": "A picture grid after swapping two tiles."}, ims, "Do three identical pictures now line up in a row, a column or a diagonal?")
+        return pairs[argmax(p)]
 
     def dot(self, img):
         def render(x, y):
@@ -352,6 +371,8 @@ class SkillAgent(GenericAgent):
     def safe_point(self, img, st, coarse=10, fine=5, topk=3):
         """dot render-verify; each point scores P(right place) x (1 - P(marked as not to click)) x P(on an object); coarse lattice, then finer"""
         W, H = img.size
+        if "numcell" in ABL:                           # variant: one choice among numbered cells, no rendered verification
+            return self.pol.locate(img, st, "The image is divided into numbered red cells. Which numbered cell contains the place to click to answer the instruction?")
         ren = self.dot(img)
 
         def score(pts):
@@ -388,7 +409,8 @@ class SkillAgent(GenericAgent):
         bs = self.bigs(els)
         e = bs[0] if bs else {"x": box["x"], "y": box["y"], "w": box["width"], "h": box["height"]}
         img = im.crop(box_of(e, box))
-        x, y = self.point_in(st, img)
+        d = delegate.point(img, st["instruction"]) if delegate.MODEL else None   # hybrid: a frontier model picks the free click
+        x, y = d or self.point_in(st, img)
         pg.mouse.click(e["x"] + x * e["w"] / img.size[0], e["y"] + y * e["h"] / img.size[1])
         return f"point ({x / img.size[0]:.2f}, {y / img.size[1]:.2f})"
 
@@ -398,6 +420,11 @@ class SkillAgent(GenericAgent):
             return self.sk_point(pg, st, im, box, els)
         main, ref = bs[0], bs[1]
         order, img = im.crop(box_of(ref, box)), im.crop(box_of(main, box))
+        if delegate.MODEL and (xy := delegate.order(img, order, st["instruction"])):
+            for x, y in xy:
+                pg.mouse.click(main["x"] + x * main["w"] / img.size[0], main["y"] + y * main["h"] / img.size[1])
+                pg.wait_for_timeout(200)
+            return f"order (delegated) {[(round(x / img.size[0], 2), round(y / img.size[1], 2)) for x, y in xy]}"
         k = int(self.ask(st, [order], "How many separate items are shown in this reference?", {str(i): str(i) for i in range(2, 9)}))
         W, H = order.size
         horiz = W >= H
