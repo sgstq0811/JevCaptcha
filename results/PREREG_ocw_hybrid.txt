@@ -1,0 +1,8 @@
+2026-11-12, written before any delegated run on OCW. Set: the 245 challenges of the current OCW release outside the paper
+version (ocw_new_app, port 7863), and its 177-challenge subset with no image file shared with development pools.
+Rule (same as PREREG_hybrid.txt): frozen v17 library with Clef-flash; when the router picks the point or order skill,
+the click positions come from gpt-6-sol (code/delegate.py: picture [+ reference strip] + page instruction, pixel JSON);
+routing, submit and all other skills unchanged. Run once on the six families where v17 routed point or order
+(Click_Order, Geometry_Click, Misleading_Click, Pick_Area, Place_Dot, Unusual_Detection; 93 challenges); the other
+152 challenges keep their v17 records (no API call there). Compared with v17 118/245 (48.2%) and clean 45.8%.
+No change to the rule or prompt after the run. Budget cap 8 USD.

@@ -1,0 +1,9 @@
+2026-11-12, written before any library or hybrid run on cog_adapt_tasks.json (141 fresh COGNITION challenges, phase04_2 adaptive_evaluator_slice).
+Hybrid rule (fixed): run the frozen v17 library with Clef-flash; if the routed skill is point or order (skills whose action is a free click location),
+replace the challenge answer by the frontier model prompted directly (gpt-6-sol, api_direct.py, same prompt and schema). Otherwise keep the library answer.
+Evaluated once on cog_adapt with the official scorer; no change to the rule afterwards.
+Known when written: gpt-6-sol direct 78/141, Gemini-3.1-Pro direct 57/141 (rescaled) on this set; library result unknown (HPC job 109528 queued).
+
+2026-11-12 19:58, after scoring: md5 check shows all 116 images of the 141 challenges occur in captcha_data; 119 challenges use only
+main-split (development) images, 22 use images outside the main split. The set is NOT a fresh held-out set. Scores (official scorer):
+library 70/141, hybrid 96/141, gpt-6-sol 78/141, Gemini 57/141 (rescaled). Not usable as clean evidence for the library or the hybrid.
