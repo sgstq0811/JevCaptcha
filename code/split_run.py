@@ -12,8 +12,20 @@ def load_split(model_path, device="cuda", dtype=torch.bfloat16, **kw):
     from safetensors.torch import load_file
     from transformers import AutoProcessor, Qwen3_5ForConditionalGeneration
     p = Path(model_path)
-    mem = {int(k): v for k, v in (x.split(":") for x in os.environ.get("SPLIT_MEM", "0:10GiB,1:11GiB").split(","))}
-    bb = Qwen3_5ForConditionalGeneration.from_pretrained(p, dtype=dtype, device_map="auto", max_memory=mem)
+    mem = {(k if k == "cpu" else int(k)): v for k, v in (x.split(":") for x in os.environ.get("SPLIT_MEM", "0:10GiB,1:11GiB").split(","))}
+    dm = "auto"
+    if "cpu" in mem:                                   # overflow layers to CPU; embeddings and head stay on a GPU (the head reads their weights)
+        from accelerate import infer_auto_device_map, init_empty_weights
+        from transformers import AutoConfig
+        with init_empty_weights():
+            em = Qwen3_5ForConditionalGeneration._from_config(AutoConfig.from_pretrained(p), torch_dtype=dtype)
+        keep = int(os.environ.get("SPLIT_KEEP_GIB", "4"))   # room on GPU 1 for the embeddings moved there below
+        m2 = dict(mem); m2[1] = f"{max(1, int(str(mem[1]).rstrip('GiB')) - keep)}GiB"
+        dm = infer_auto_device_map(em, max_memory=m2, no_split_module_classes=em._no_split_modules, dtype=dtype)
+        for k in list(dm):
+            if "embed_tokens" in k or k.startswith("lm_head") or k.endswith("norm") and "layers" not in k:
+                dm[k] = 1
+    bb = Qwen3_5ForConditionalGeneration.from_pretrained(p, dtype=dtype, device_map=dm, **({} if "cpu" in mem else {"max_memory": mem}))
     bb.config.use_cache = False
     head = J.JointSchemaHead(**json.loads((p / "joint_head_config.json").read_text()))
     head.load_state_dict(load_file(p / "joint_head.safetensors"), strict=True)
@@ -42,7 +54,7 @@ _fp = AutoModelForImageTextToText.from_pretrained.__func__
 
 def fp_split(cls, *a, **kw):                     # generative backbones: same dtype, layers spread over the GPUs
     kw["device_map"] = "auto"
-    kw["max_memory"] = {int(k): v for k, v in (x.split(":") for x in os.environ.get("SPLIT_MEM", "0:10GiB,1:11GiB").split(","))}
+    kw["max_memory"] = {(k if k == "cpu" else int(k)): v for k, v in (x.split(":") for x in os.environ.get("SPLIT_MEM", "0:10GiB,1:11GiB").split(","))}
     return _fp(cls, *a, **kw)
 
 

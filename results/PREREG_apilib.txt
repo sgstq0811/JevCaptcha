@@ -1,0 +1,7 @@
+2026-11-14, written before the full runs. Backbone swap of the frozen v17 library: every typed question goes to gpt-6-sol
+through code/api_backend.py (verbalised JSON probabilities, candidates of one question grouped 10 per call, API_GROUP=10,
+max_side 768); skills, routing, page rules and aggregation rules unchanged. Sets: the 245 new OCW challenges (177 clean)
+and the 75 COGNITION challenges outside the main split (46 clean), official graders, one run each.
+Compared with: gpt-6-sol alone (OCW agent 70.2% / clean 74.6%; COGNITION direct 54.7% / clean 80.4%), the library with
+Clef-flash (48.2 / 45.8; 76.0 / 69.6). A pilot of one challenge per OCW family (results/ocw_apilib_pilot.jsonl) was run
+only to estimate cost; nothing is changed after it. Budget cap: 50 USD over all runs of this study.

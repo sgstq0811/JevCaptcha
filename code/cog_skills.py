@@ -11,11 +11,11 @@ grid if the task gives one) and picks a skill; the skills are the OCW ones with 
   type   : a number                                                     -> decade, then digit           -> value
 The router also sees the answer rules stated in the task prompt; point and swap need one picture. A point on a tiled
 picture answers with the tile under it; a set of tiles is a selection. The answer is written in the format the chosen skill produces; scoring is the artifact's evaluate_pass1."""
-import os, sys, json, argparse, itertools
+import os, re, sys, json, argparse, itertools
 from PIL import Image, ImageOps, ImageDraw
 sys.path.insert(0, os.path.dirname(__file__))
 from ocw_skills import SkillAgent, ABL, pick_all
-from ocw_policy import LINES3, grid_boxes, argmax
+from ocw_policy import LINES3, grid_boxes, argmax, choice, NUM
 
 SKILLS = {
     "choose": "image 1 is a reference; choose the one image among the others that matches it as the instruction asks",
@@ -26,8 +26,17 @@ SKILLS = {
     "order": "click several items in the order given by a reference",
     "type": "type a number answer",
 }
-DATA = os.environ.get("COG_DATA", os.path.expanduser(os.environ.get("JEVCAPTCHA_ROOT", "~/captcha_jev") + "/cognition/cognition-usenixsec26-artifact/captcha_data"))
+DATA = os.environ.get("COG_DATA", os.path.expanduser("~/captcha_jev/cognition/cognition-usenixsec26-artifact/captcha_data"))
 GTS = {}
+
+
+WORDS = "zero one two three four five six seven eight nine".split()
+
+
+def count_in(instr):
+    """the number an instruction asks tiles to have ('tiles where the shape has 5 holes'), or None"""
+    m = re.search(r"\b(?:has|have|having|with|contains?|showing)\s+(?:exactly\s+)?(\d|zero|one|two|three|four|five|six|seven|eight|nine)\b(?!-)", instr.lower())
+    return None if not m else int(m.group(1)) if m.group(1).isdigit() else WORDS.index(m.group(1))
 
 
 def grid_of(t, pid, gt):
@@ -97,6 +106,12 @@ class StaticSkills(SkillAgent):
 
     def st_select(self, st, ims, paths, grid):
         _, _, tiles = self.tiles_of(ims, grid)
+        n = count_in(st["instruction"]) if "count" not in ABL else None
+        if n is not None:                               # v18: tiles picked by a count the instruction names (rule B against the read number)
+            q = choice(f"The instruction is: '{st['instruction']}'. How many of the things the instruction counts does this picture show?", NUM(10))
+            p = [d["n"].get(str(n), 0.0) for d in self.clef.decide([self.pol.rec(st, [t], {"n": q}) for t in tiles])]
+            sel = pick_all(p)
+            return {"answer_type": "multi_select", "indices": sorted(sel)}, f"count {n} {sel}"
         p = self.tile_p(st, tiles)
         one = self.ask(st, ims[:1], "Does the instruction ask for exactly one tile or for all tiles that fit?", {"one": "exactly one", "all": "all that fit"})
         sel = [argmax(p)] if one == "one" else pick_all(p)
@@ -108,6 +123,8 @@ class StaticSkills(SkillAgent):
         pairs = list(itertools.combinations(range(n), 2))
         p = self.noul({"task": "Compare two tiles of a picture grid."}, [[cr[i], cr[j]] for i, j in pairs],
                       "Do image 1 and image 2 show the same picture (the same object or animal in the same style)?")
+        if "swapver" in ABL and n == 9:                # variant: one question per rendered swap
+            return {"correct": list(self.swap_render_pick(cr, pairs))}, "swap (rendered)"
         same = [[1.0] * n for _ in range(n)]
         for (i, j), v in zip(pairs, p):
             same[i][j] = same[j][i] = v
@@ -156,7 +173,7 @@ StaticSkills.key = None
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
-    ap.add_argument("--tasks", default=os.path.expanduser(os.environ.get("JEVCAPTCHA_ROOT", "~/captcha_jev") + "/results/cog_tasks.json"))
+    ap.add_argument("--tasks", default=os.path.expanduser("~/captcha_jev/results/cog_tasks.json"))
     ap.add_argument("--split", default="full")
     ap.add_argument("--model", default="Cloudflare/clef-flash")
     ap.add_argument("--out", required=True)
