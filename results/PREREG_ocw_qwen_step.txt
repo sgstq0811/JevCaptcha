@@ -1,0 +1,5 @@
+2026-11-17 pre-registration: generative step-wise local baseline on the 245 new OCW challenges.
+Qwen3.5-9B (bf16, greedy, thinking off, max 512 new tokens) behind code/local_chat_server.py, driven by the unchanged
+ocw_api_agent.py (same prompt, screenshot + numbered elements, history, JSON actions) as gpt-6-luna/terra/sol and Gemini.
+COORD_SCALE=1000 fixed from a synthetic red-dot test (Qwen answers point_2d on a 0..1000 grid), not from OCW.
+One run, all 245, reported whatever it gives, on full / md5-clean / dHash<=8 subsets.
