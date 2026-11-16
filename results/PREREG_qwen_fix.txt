@@ -1,0 +1,4 @@
+2026-11-17: the Qwen3.5-9B library runs on COGNITION unseen families (60/80 FileNotFoundError: Relation_Match and Symbol_Count
+live in expanded_captcha_data, COG_DATA was not set) and on the COGNITION main split (cog_skills_qwen, 11-04, pre-freeze
+library, 56/303 ValueError) are invalid. Rerun with the frozen v17 library (code/cog_skills_v17.py = cog_skills.py.v17),
+same model and scoring as the reported Qwen library rows, one run each, reported whatever it gives.

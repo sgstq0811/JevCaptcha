@@ -1,0 +1,303 @@
+{"key": "Bingo/bingo25.png", "skill": "swap", "log": "swap [1, 5]"}
+{"key": "Bingo/bingo15.png", "skill": "swap", "log": "swap [2, 5]"}
+{"key": "Bingo/bingo4.png", "skill": "swap", "log": "swap [1, 7]"}
+{"key": "Bingo/bingo1.png", "skill": "swap", "log": "swap [0, 7]"}
+{"key": "Bingo/bingo3.png", "skill": "swap", "log": "swap [0, 1]"}
+{"key": "Bingo/bingo19.png", "skill": "swap", "log": "swap [0, 8]"}
+{"key": "Bingo/bingo2.png", "skill": "swap", "log": "swap [4, 7]"}
+{"key": "Bingo/bingo21.png", "skill": "swap", "log": "swap [6, 8]"}
+{"key": "Bingo/bingo23.png", "skill": "swap", "log": "swap [1, 8]"}
+{"key": "Bingo/bingo12.png", "skill": "swap", "log": "swap [1, 7]"}
+{"key": "Bingo/bingo17.png", "skill": "swap", "log": "swap [1, 7]"}
+{"key": "Bingo/bingo22.png", "skill": "swap", "log": "swap [1, 5]"}
+{"key": "Bingo/bingo14.png", "skill": "swap", "log": "swap [0, 2]"}
+{"key": "Bingo/bingo13.png", "skill": "swap", "log": "swap [5, 8]"}
+{"key": "Bingo/bingo6.png", "skill": "swap", "log": "swap [3, 6]"}
+{"key": "Bingo/bingo10.png", "skill": "swap", "log": "swap [3, 5]"}
+{"key": "Bingo/bingo8.png", "skill": "swap", "log": "swap [1, 7]"}
+{"key": "Bingo/bingo9.png", "skill": "swap", "log": "swap [1, 4]"}
+{"key": "Bingo/bingo20.png", "skill": "swap", "log": "swap [2, 3]"}
+{"key": "Bingo/bingo16.png", "skill": "swap", "log": "swap [0, 8]"}
+{"key": "Click_Order/image6.png", "skill": "order", "log": "order 4"}
+{"key": "Click_Order/image7.png", "skill": "order", "log": "order 4"}
+{"key": "Click_Order/image10.png", "skill": "order", "log": "order 4"}
+{"key": "Click_Order/image8.png", "skill": "order", "log": "order 4"}
+{"key": "Click_Order/image9.png", "skill": "order", "log": "order 4"}
+{"key": "Click_Order/image4.png", "skill": "order", "log": "order 4"}
+{"key": "Click_Order/image5.png", "skill": "order", "log": "order 4"}
+{"key": "Click_Order/image1.png", "skill": "order", "log": "order 4"}
+{"key": "Click_Order/image2.png", "skill": "order", "log": "order 4"}
+{"key": "Click_Order/image3.png", "skill": "order", "log": "order 4"}
+{"key": "Connect_Icon/puzzle10.json", "skill": "choose", "log": "object 2"}
+{"key": "Connect_Icon/puzzle1.json", "skill": "choose", "log": "position 0"}
+{"key": "Connect_Icon/puzzle19.json", "skill": "choose", "log": "object 0"}
+{"key": "Connect_Icon/puzzle4.json", "skill": "choose", "log": "position 2"}
+{"key": "Connect_Icon/puzzle7.json", "skill": "choose", "log": "object 0"}
+{"key": "Connect_Icon/puzzle15.json", "skill": "choose", "log": "object 1"}
+{"key": "Connect_Icon/puzzle13.json", "skill": "choose", "log": "object 2"}
+{"key": "Connect_Icon/puzzle12.json", "skill": "choose", "log": "object 1"}
+{"key": "Connect_Icon/puzzle6.json", "skill": "choose", "log": "position 2"}
+{"key": "Connect_Icon/puzzle8.json", "skill": "choose", "log": "object 6"}
+{"key": "Connect_Icon/puzzle5.json", "skill": "choose", "log": "position 4"}
+{"key": "Connect_Icon/puzzle11.json", "skill": "select", "log": "all [0, 1, 2, 3, 4, 6, 7]"}
+{"key": "Connect_Icon/puzzle18.json", "skill": "choose", "log": "object 5"}
+{"key": "Connect_Icon/puzzle16.json", "skill": "choose", "log": "object 4"}
+{"key": "Connect_Icon/puzzle14.json", "skill": "choose", "log": "object 3"}
+{"key": "Connect_Icon/puzzle9.json", "skill": "choose", "log": "object 1"}
+{"key": "Connect_Icon/puzzle2.json", "skill": "choose", "log": "position 4"}
+{"key": "Connect_Icon/puzzle17.json", "skill": "choose", "log": "object 6"}
+{"key": "Connect_Icon/puzzle20.json", "skill": "choose", "log": "object 7"}
+{"key": "Connect_Icon/puzzle3.json", "skill": "choose", "log": "position 2"}
+{"key": "Patch_Select/image3.jpg", "skill": "select", "log": "all [12, 17]"}
+{"key": "Patch_Select/image1.jpg", "skill": "select", "log": "all [0, 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13]"}
+{"key": "Patch_Select/image5.jpg", "skill": "select", "log": "all [0, 1, 5, 6]"}
+{"key": "Patch_Select/image8.jpg", "skill": "select", "log": "all [6, 16, 17, 22, 24]"}
+{"key": "Patch_Select/image10.jpg", "skill": "select", "log": "all [23]"}
+{"key": "Patch_Select/image6.jpg", "skill": "select", "log": "all [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 16, 18, 20, 24]"}
+{"key": "Patch_Select/image9.jpg", "skill": "select", "log": "all [12, 18, 21]"}
+{"key": "Patch_Select/image7.jpg", "skill": "select", "log": "all [12, 13, 17]"}
+{"key": "Patch_Select/image2.jpg", "skill": "select", "log": "all [5, 6, 10, 11, 12, 13, 15, 16]"}
+{"key": "Patch_Select/image4.jpg", "skill": "select", "log": "all [7, 12, 13, 14]"}
+{"key": "Place_Dot/path32.png", "skill": "select", "log": "one [0]"}
+{"key": "Place_Dot/path30.png", "skill": "select", "log": "one [0]"}
+{"key": "Place_Dot/path25.png", "skill": "select", "log": "one [0]"}
+{"key": "Place_Dot/path18.png", "skill": "select", "log": "one [0]"}
+{"key": "Place_Dot/path16.png", "skill": "select", "log": "one [0]"}
+{"key": "Place_Dot/path11.png", "skill": "select", "log": "one [0]"}
+{"key": "Place_Dot/path5.png", "skill": "select", "log": "one [0]"}
+{"key": "Place_Dot/path26.png", "skill": "select", "log": "one [0]"}
+{"key": "Place_Dot/path2.png", "skill": "select", "log": "one [0]"}
+{"key": "Place_Dot/path20.png", "skill": "select", "log": "one [0]"}
+{"key": "Place_Dot/path6.png", "skill": "point", "log": "point (299, 219)"}
+{"key": "Place_Dot/path31.png", "skill": "select", "log": "one [0]"}
+{"key": "Place_Dot/path29.png", "skill": "select", "log": "one [0]"}
+{"key": "Place_Dot/path3.png", "skill": "select", "log": "one [0]"}
+{"key": "Place_Dot/path27.png", "skill": "select", "log": "one [0]"}
+{"key": "Place_Dot/path22.png", "skill": "select", "log": "one [0]"}
+{"key": "Place_Dot/path1.png", "skill": "select", "log": "one [0]"}
+{"key": "Place_Dot/path23.png", "skill": "select", "log": "one [0]"}
+{"key": "Place_Dot/path15.png", "skill": "select", "log": "one [0]"}
+{"key": "Place_Dot/path28.png", "skill": "select", "log": "one [0]"}
+{"key": "Dart_Count/dart_puzzle_10.json", "skill": "choose", "log": "number 7"}
+{"key": "Dart_Count/dart_puzzle_9.json", "skill": "choose", "log": "number 6"}
+{"key": "Dart_Count/dart_puzzle_17.json", "skill": "choose", "log": "number 2"}
+{"key": "Dart_Count/dart_puzzle_6.json", "skill": "choose", "log": "number 3"}
+{"key": "Dart_Count/dart_puzzle_15.json", "skill": "choose", "log": "number 6"}
+{"key": "Dart_Count/dart_puzzle_2.json", "skill": "choose", "log": "number 5"}
+{"key": "Dart_Count/dart_puzzle_13.json", "skill": "choose", "log": "number 9"}
+{"key": "Dart_Count/dart_puzzle_3.json", "skill": "choose", "log": "number 1"}
+{"key": "Dart_Count/dart_puzzle_18.json", "skill": "choose", "log": "number 1"}
+{"key": "Dart_Count/dart_puzzle_14.json", "skill": "choose", "log": "number 4"}
+{"key": "Dart_Count/dart_puzzle_7.json", "skill": "choose", "log": "number 4"}
+{"key": "Dart_Count/dart_puzzle_19.json", "skill": "choose", "log": "number 0"}
+{"key": "Dart_Count/dart_puzzle_8.json", "skill": "choose", "log": "number 5"}
+{"key": "Dart_Count/dart_puzzle_16.json", "skill": "choose", "log": "number 7"}
+{"key": "Dart_Count/dart_puzzle_11.json", "skill": "choose", "log": "number 9"}
+{"key": "Dart_Count/dart_puzzle_20.json", "skill": "choose", "log": "number 6"}
+{"key": "Dart_Count/dart_puzzle_4.json", "skill": "choose", "log": "number 0"}
+{"key": "Dart_Count/dart_puzzle_12.json", "skill": "choose", "log": "number 9"}
+{"key": "Dart_Count/dart_puzzle_1.json", "skill": "choose", "log": "number 10"}
+{"key": "Dart_Count/dart_puzzle_5.json", "skill": "choose", "log": "number 3"}
+{"key": "Image_Recognition/images8", "skill": "select", "log": "all [0, 1, 2, 3, 7]"}
+{"key": "Image_Recognition/images10", "skill": "select", "log": "all [0, 4, 5, 6, 7]"}
+{"key": "Image_Recognition/images14", "skill": "select", "log": "all [1, 3, 5]"}
+{"key": "Image_Recognition/images16", "skill": "select", "log": "all [2, 3, 4, 5]"}
+{"key": "Image_Recognition/images12", "skill": "select", "log": "all [1, 2, 5, 7]"}
+{"key": "Image_Recognition/images11", "skill": "select", "log": "all [0, 3, 4, 7]"}
+{"key": "Image_Recognition/images18", "skill": "select", "log": "all [1, 2, 5, 6, 8]"}
+{"key": "Image_Recognition/images6", "skill": "select", "log": "all [1, 2, 3, 4, 8]"}
+{"key": "Image_Recognition/images2", "skill": "select", "log": "all [0, 2, 4, 6, 8]"}
+{"key": "Image_Recognition/images9", "skill": "select", "log": "all [0, 2, 4, 5, 7]"}
+{"key": "Image_Recognition/images4", "skill": "select", "log": "all [1, 2, 3, 4, 6, 7, 8]"}
+{"key": "Image_Recognition/images20", "skill": "select", "log": "all [5]"}
+{"key": "Image_Recognition/images17", "skill": "select", "log": "all [0, 3, 4, 7]"}
+{"key": "Image_Recognition/images5", "skill": "select", "log": "all [0, 5, 7, 8]"}
+{"key": "Image_Recognition/images1", "skill": "select", "log": "all [1, 2, 3, 4, 5, 7, 8]"}
+{"key": "Image_Recognition/images7", "skill": "select", "log": "all [0, 3, 5, 6]"}
+{"key": "Image_Recognition/images13", "skill": "select", "log": "all [0, 3, 4, 6, 8]"}
+{"key": "Image_Recognition/images19", "skill": "select", "log": "all [0, 1, 3, 7]"}
+{"key": "Image_Recognition/images3", "skill": "select", "log": "all [0, 2, 3, 5, 6]"}
+{"key": "Image_Recognition/images15", "skill": "select", "log": "all [0, 3, 6, 8]"}
+{"key": "Path_Finder/path10.JPG", "skill": "choose", "log": "position 0"}
+{"key": "Path_Finder/path4.JPG", "skill": "select", "log": "one [2]"}
+{"key": "Path_Finder/path6.JPG", "skill": "select", "log": "one [5]"}
+{"key": "Path_Finder/path1.JPG", "skill": "select", "log": "one [1]"}
+{"key": "Path_Finder/path8.JPG", "skill": "rotate", "log": "position 0"}
+{"key": "Path_Finder/path2.JPG", "skill": "rotate", "log": "position 2"}
+{"key": "Path_Finder/path5.JPG", "skill": "select", "log": "one [0]"}
+{"key": "Path_Finder/path3.JPG", "skill": "rotate", "log": "position 4"}
+{"key": "Path_Finder/path7.JPG", "skill": "choose", "log": "position 2"}
+{"key": "Path_Finder/path9.JPG", "skill": "select", "log": "one [0]"}
+{"key": "Misleading_Click/image5.png", "skill": "select", "log": "all [0]"}
+{"key": "Misleading_Click/image2.png", "skill": "select", "log": "all [0]"}
+{"key": "Misleading_Click/image9.png", "skill": "select", "log": "all [0]"}
+{"key": "Misleading_Click/image1.png", "skill": "select", "log": "one [0]"}
+{"key": "Misleading_Click/image10.png", "skill": "select", "log": "all [0]"}
+{"key": "Misleading_Click/image6.png", "skill": "select", "log": "all [0]"}
+{"key": "Misleading_Click/image7.png", "skill": "select", "log": "all [0]"}
+{"key": "Misleading_Click/image8.png", "skill": "select", "log": "all [0]"}
+{"key": "Misleading_Click/image3.png", "skill": "select", "log": "all [0]"}
+{"key": "Misleading_Click/image4.png", "skill": "select", "log": "all [0]"}
+{"key": "Pick_Area/image3.png", "skill": "select", "log": "one [0]"}
+{"key": "Pick_Area/image18.png", "skill": "select", "log": "one [0]"}
+{"key": "Pick_Area/image23.png", "skill": "select", "log": "one [0]"}
+{"key": "Pick_Area/image20.png", "skill": "select", "log": "one [0]"}
+{"key": "Pick_Area/image7.png", "skill": "select", "log": "one [0]"}
+{"key": "Pick_Area/image11.png", "skill": "select", "log": "one [0]"}
+{"key": "Pick_Area/image17.png", "skill": "select", "log": "one [0]"}
+{"key": "Pick_Area/image25.png", "skill": "select", "log": "one [0]"}
+{"key": "Pick_Area/image28.png", "skill": "select", "log": "one [0]"}
+{"key": "Pick_Area/image15.png", "skill": "select", "log": "one [0]"}
+{"key": "Pick_Area/image9.png", "skill": "select", "log": "one [0]"}
+{"key": "Pick_Area/image30.png", "skill": "select", "log": "one [0]"}
+{"key": "Pick_Area/image24.png", "skill": "select", "log": "one [0]"}
+{"key": "Pick_Area/image4.png", "skill": "select", "log": "one [0]"}
+{"key": "Pick_Area/image8.png", "skill": "select", "log": "one [0]"}
+{"key": "Pick_Area/image5.png", "skill": "select", "log": "one [0]"}
+{"key": "Pick_Area/image6.png", "skill": "select", "log": "all [0]"}
+{"key": "Pick_Area/image19.png", "skill": "select", "log": "one [0]"}
+{"key": "Pick_Area/image1.png", "skill": "select", "log": "all [0]"}
+{"key": "Pick_Area/image26.png", "skill": "select", "log": "one [0]"}
+{"key": "Coordinates/coordinate_sample15.png", "skill": "choose", "log": "number 0"}
+{"key": "Coordinates/coordinate_sample9.png", "skill": "choose", "log": "number 1"}
+{"key": "Coordinates/coordinate_sample10.png", "skill": "choose", "log": "number 3"}
+{"key": "Coordinates/coordinate_sample2.png", "skill": "choose", "log": "position 1"}
+{"key": "Coordinates/coordinate_sample4.png", "skill": "choose", "log": "number 3"}
+{"key": "Coordinates/coordinate_sample5.png", "skill": "choose", "log": "number 4"}
+{"key": "Coordinates/coordinate_sample13.png", "skill": "choose", "log": "position 7"}
+{"key": "Coordinates/coordinate_sample16.png", "skill": "choose", "log": "position 7"}
+{"key": "Coordinates/coordinate_sample14.png", "skill": "choose", "log": "position 1"}
+{"key": "Coordinates/coordinate_sample7.png", "skill": "choose", "log": "number 0"}
+{"key": "Coordinates/coordinate_sample11.png", "skill": "choose", "log": "number 0"}
+{"key": "Coordinates/coordinate_sample8.png", "skill": "choose", "log": "number 3"}
+{"key": "Coordinates/coordinate_sample12.png", "skill": "choose", "log": "position 8"}
+{"key": "Coordinates/coordinate_sample18.png", "skill": "choose", "log": "position 3"}
+{"key": "Coordinates/coordinate_sample6.png", "skill": "choose", "log": "number 3"}
+{"key": "Coordinates/coordinate_sample1.png", "skill": "choose", "log": "number 4"}
+{"key": "Coordinates/coordinate_sample3.png", "skill": "choose", "log": "number 1"}
+{"key": "Coordinates/coordinate_sample17.png", "skill": "choose", "log": "position 1"}
+{"key": "Geometry_Click/geetest_000002.jpg", "skill": "select", "log": "one [0]"}
+{"key": "Geometry_Click/geetest_000001.jpg", "skill": "select", "log": "one [0]"}
+{"key": "Geometry_Click/vtt_000003.jpg", "skill": "select", "log": "one [0]"}
+{"key": "Geometry_Click/dingxiang_000004.jpg", "skill": "select", "log": "all [0]"}
+{"key": "Geometry_Click/dingxiang_000002.jpg", "skill": "select", "log": "all [0]"}
+{"key": "Geometry_Click/dingxiang_000001.jpg", "skill": "select", "log": "one [0]"}
+{"key": "Geometry_Click/vtt_000002.jpg", "skill": "select", "log": "one [0]"}
+{"key": "Geometry_Click/dingxiang_000005.jpg", "skill": "select", "log": "one [0]"}
+{"key": "Geometry_Click/vtt_000001.jpg", "skill": "select", "log": "all [0]"}
+{"key": "Geometry_Click/geetest_000004.jpg", "skill": "select", "log": "one [0]"}
+{"key": "Geometry_Click/geetest_000003.jpg", "skill": "select", "log": "one [0]"}
+{"key": "Geometry_Click/dingxiang_000003.jpg", "skill": "select", "log": "one [0]"}
+{"key": "Geometry_Click/geetest_000005.jpg", "skill": "select", "log": "all [0]"}
+{"key": "Geometry_Click/vtt_000005.jpg", "skill": "select", "log": "one [0]"}
+{"key": "Geometry_Click/vtt_000004.jpg", "skill": "select", "log": "one [0]"}
+{"key": "Rotation_Match/puzzle_polarbear_direction_1.json", "skill": "rotate", "log": "position 1"}
+{"key": "Rotation_Match/puzzle_cat_direction_6.json", "skill": "rotate", "log": "direction 3"}
+{"key": "Rotation_Match/puzzle_sad_cat_direction_2.json", "skill": "rotate", "log": "position 1"}
+{"key": "Rotation_Match/puzzle_sad_cat_direction_6.json", "skill": "rotate", "log": "direction 3"}
+{"key": "Rotation_Match/puzzle_cat_direction_3.json", "skill": "rotate", "log": "direction 6"}
+{"key": "Rotation_Match/puzzle_gold_direction_4.json", "skill": "rotate", "log": "direction 7"}
+{"key": "Rotation_Match/puzzle_gold_direction_2.json", "skill": "rotate", "log": "position 5"}
+{"key": "Rotation_Match/puzzle_hungry_cat_direction_5.json", "skill": "rotate", "log": "position 7"}
+{"key": "Rotation_Match/puzzle_polarbear_direction_5.json", "skill": "rotate", "log": "position 1"}
+{"key": "Rotation_Match/puzzle_gold_direction_1.json", "skill": "rotate", "log": "position 3"}
+{"key": "Rotation_Match/puzzle_hungry_cat_direction_2.json", "skill": "rotate", "log": "position 0"}
+{"key": "Rotation_Match/puzzle_panda_direction_3.json", "skill": "rotate", "log": "direction 6"}
+{"key": "Rotation_Match/puzzle_hungry_cat_direction_4.json", "skill": "rotate", "log": "direction 5"}
+{"key": "Rotation_Match/puzzle_polarbear_direction_3.json", "skill": "rotate", "log": "direction 4"}
+{"key": "Rotation_Match/puzzle_polarbear_direction_8.json", "skill": "rotate", "log": "position 5"}
+{"key": "Rotation_Match/puzzle_polarbear_direction_6.json", "skill": "rotate", "log": "direction 1"}
+{"key": "Rotation_Match/puzzle_polarbear_direction_7.json", "skill": "rotate", "log": "direction 6"}
+{"key": "Rotation_Match/puzzle_panda_direction_7.json", "skill": "rotate", "log": "direction 0"}
+{"key": "Rotation_Match/puzzle_sad_cat_direction_1.json", "skill": "rotate", "log": "position 1"}
+{"key": "Rotation_Match/puzzle_gold_direction_6.json", "skill": "rotate", "log": "direction 3"}
+{"key": "Select_Animal/image14.png", "skill": "select", "log": "one [3]"}
+{"key": "Select_Animal/image13.png", "skill": "select", "log": "one [2]"}
+{"key": "Select_Animal/image28.png", "skill": "select", "log": "one [5]"}
+{"key": "Select_Animal/image19.png", "skill": "select", "log": "one [2]"}
+{"key": "Select_Animal/image9.png", "skill": "select", "log": "one [4]"}
+{"key": "Select_Animal/image17.png", "skill": "select", "log": "one [0]"}
+{"key": "Select_Animal/image4.png", "skill": "select", "log": "one [2]"}
+{"key": "Select_Animal/image23.png", "skill": "select", "log": "one [0]"}
+{"key": "Select_Animal/image29.png", "skill": "select", "log": "one [0]"}
+{"key": "Select_Animal/image26.png", "skill": "select", "log": "one [3]"}
+{"key": "Select_Animal/image7.png", "skill": "select", "log": "one [0]"}
+{"key": "Select_Animal/image10.png", "skill": "select", "log": "one [4]"}
+{"key": "Select_Animal/image22.png", "skill": "select", "log": "one [5]"}
+{"key": "Select_Animal/image2.png", "skill": "select", "log": "one [4]"}
+{"key": "Select_Animal/image12.png", "skill": "select", "log": "one [1]"}
+{"key": "Select_Animal/image15.png", "skill": "select", "log": "one [4]"}
+{"key": "Select_Animal/image30.png", "skill": "select", "log": "one [1]"}
+{"key": "Select_Animal/image8.png", "skill": "select", "log": "one [4]"}
+{"key": "Select_Animal/image24.png", "skill": "select", "log": "one [1]"}
+{"key": "Select_Animal/image18.png", "skill": "select", "log": "one [1]"}
+{"key": "Dice_Count/dice12.png", "skill": "type", "log": "type 27"}
+{"key": "Dice_Count/dice2.png", "skill": "type", "log": "type 27"}
+{"key": "Dice_Count/dice1.png", "skill": "type", "log": "type 27"}
+{"key": "Dice_Count/dice9.png", "skill": "type", "log": "type 105"}
+{"key": "Dice_Count/dice4.png", "skill": "type", "log": "type 27"}
+{"key": "Dice_Count/dice5.png", "skill": "type", "log": "type 27"}
+{"key": "Dice_Count/dice3.png", "skill": "type", "log": "type 27"}
+{"key": "Dice_Count/dice8.png", "skill": "type", "log": "type 27"}
+{"key": "Dice_Count/dice6.png", "skill": "type", "log": "type 36"}
+{"key": "Dice_Count/dice7.png", "skill": "type", "log": "type 147"}
+{"key": "Dice_Count/dice10.png", "skill": "type", "log": "type 27"}
+{"key": "Image_Matching/ground_image11.png", "skill": "choose", "log": "position 1"}
+{"key": "Image_Matching/ground_image13.png", "skill": "choose", "log": "position 4"}
+{"key": "Image_Matching/ground_image2.png", "skill": "choose", "log": "position 1"}
+{"key": "Image_Matching/ground_image3.png", "skill": "choose", "log": "position 1"}
+{"key": "Image_Matching/ground_image9.png", "skill": "choose", "log": "object 0"}
+{"key": "Image_Matching/ground_image8.png", "skill": "choose", "log": "object 3"}
+{"key": "Image_Matching/ground_image10.png", "skill": "choose", "log": "position 3"}
+{"key": "Image_Matching/ground_image1.png", "skill": "choose", "log": "position 2"}
+{"key": "Image_Matching/ground_image7.png", "skill": "choose", "log": "position 4"}
+{"key": "Image_Matching/ground_image19.png", "skill": "choose", "log": "object 2"}
+{"key": "Image_Matching/ground_image20.png", "skill": "choose", "log": "position 2"}
+{"key": "Image_Matching/ground_image6.png", "skill": "choose", "log": "position 0"}
+{"key": "Image_Matching/ground_image12.png", "skill": "choose", "log": "position 2"}
+{"key": "Image_Matching/ground_image16.png", "skill": "choose", "log": "position 0"}
+{"key": "Image_Matching/ground_image15.png", "skill": "choose", "log": "position 1"}
+{"key": "Image_Matching/ground_image14.png", "skill": "choose", "log": "position 4"}
+{"key": "Image_Matching/ground_image17.png", "skill": "choose", "log": "position 1"}
+{"key": "Image_Matching/ground_image5.png", "skill": "choose", "log": "position 4"}
+{"key": "Image_Matching/ground_image18.png", "skill": "choose", "log": "position 0"}
+{"key": "Unusual_Detection/unusual6.png", "skill": "select", "log": "all [2, 3, 4, 5]"}
+{"key": "Unusual_Detection/unusual13.png", "skill": "select", "log": "all [0, 4]"}
+{"key": "Unusual_Detection/unusual10.png", "skill": "select", "log": "all [0, 2, 3, 5]"}
+{"key": "Unusual_Detection/unusual1.png", "skill": "select", "log": "all [0, 2, 3, 4, 5]"}
+{"key": "Unusual_Detection/unusual3.png", "skill": "select", "log": "all [0, 2, 3, 4, 5]"}
+{"key": "Unusual_Detection/unusual16.png", "skill": "select", "log": "all [0]"}
+{"key": "Unusual_Detection/unusual29.png", "skill": "select", "log": "one [4]"}
+{"key": "Unusual_Detection/unusual28.png", "skill": "select", "log": "one [2]"}
+{"key": "Unusual_Detection/unusual14.png", "skill": "select", "log": "all [0, 2, 5]"}
+{"key": "Unusual_Detection/unusual25.png", "skill": "select", "log": "all [0, 2, 5]"}
+{"key": "Unusual_Detection/unusual30.png", "skill": "select", "log": "one [3]"}
+{"key": "Unusual_Detection/unusual24.png", "skill": "select", "log": "all [0, 2]"}
+{"key": "Unusual_Detection/unusual21.png", "skill": "select", "log": "all [0, 2, 3]"}
+{"key": "Unusual_Detection/unusual20.png", "skill": "select", "log": "all [0, 2, 4]"}
+{"key": "Unusual_Detection/unusual23.png", "skill": "select", "log": "all [4]"}
+{"key": "Unusual_Detection/unusual18.png", "skill": "select", "log": "all [0]"}
+{"key": "Unusual_Detection/unusual17.png", "skill": "select", "log": "all [0, 5]"}
+{"key": "Unusual_Detection/unusual11.png", "skill": "select", "log": "all [0, 2, 3]"}
+{"key": "Unusual_Detection/unusual15.png", "skill": "select", "log": "one [0]"}
+{"key": "Unusual_Detection/unusual22.png", "skill": "select", "log": "all [2]"}
+{"key": "Object_Match/example19.png", "skill": "type", "log": "type 24"}
+{"key": "Object_Match/example20.png", "skill": "type", "log": "type 36"}
+{"key": "Object_Match/example8.png", "skill": "choose", "log": "number 0"}
+{"key": "Object_Match/example2.png", "skill": "choose", "log": "number 2"}
+{"key": "Object_Match/example7.png", "skill": "choose", "log": "number 0"}
+{"key": "Object_Match/example14.png", "skill": "type", "log": "type 2"}
+{"key": "Object_Match/example9.png", "skill": "type", "log": "type 61"}
+{"key": "Object_Match/example11.png", "skill": "choose", "log": "number 3"}
+{"key": "Object_Match/example13.png", "skill": "type", "log": "type 2"}
+{"key": "Object_Match/example5.png", "skill": "choose", "log": "number 4"}
+{"key": "Object_Match/example18.png", "skill": "type", "log": "type 1"}
+{"key": "Object_Match/example6.png", "skill": "type", "log": "type 2"}
+{"key": "Object_Match/example10.png", "skill": "type", "log": "type 36"}
+{"key": "Object_Match/example17.png", "skill": "type", "log": "type 1"}
+{"key": "Object_Match/example15.png", "skill": "type", "log": "type 2"}
+{"key": "Object_Match/example3.png", "skill": "choose", "log": "number 0"}
+{"key": "Object_Match/example16.png", "skill": "choose", "log": "number 3"}
+{"key": "Object_Match/example12.png", "skill": "choose", "log": "number 1"}
+{"key": "Object_Match/example1.png", "skill": "choose", "log": "number 1"}
+{"key": "Object_Match/example4.png", "skill": "choose", "log": "number 1"}
