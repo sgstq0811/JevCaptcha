@@ -357,9 +357,12 @@ def run(agent, types, out, limit=0):
         for t in types:                                  # the type only selects which puzzles to serve
             n = len(json.load(open(f"{GT_ROOT}/{t}/ground_truth.json")))
             n = n if not limit else min(limit, n)
-            if done.get(t, 0) >= n:
+            skip = set(json.load(open(os.environ["SKIP_IDS"])).get(t, [])) if os.environ.get("SKIP_IDS") else set()
+            if skip:                                     # fill in only the puzzles a capped run left unanswered
+                n = n - len(skip)
+            elif done.get(t, 0) >= n:
                 continue
-            if done.get(t):                              # restart an unfinished type from scratch
+            elif done.get(t):                            # restart an unfinished type from scratch
                 rows = [l for l in open(out) if json.loads(l)["type"] != t]
                 open(out, "w").writelines(rows)
             ctx = b.new_context(viewport={"width": 1280, "height": 1800})
@@ -387,6 +390,9 @@ def run(agent, types, out, limit=0):
                 pg.goto(URL)
                 pg.wait_for_timeout(1500)
                 pid = served[-1] if served else None
+                while pid in skip:                       # the server serves puzzles in turn; pass over answered ones
+                    pg.goto("about:blank"); served.clear(); pg.goto(URL); pg.wait_for_timeout(1500)
+                    pid = served[-1] if served else None
                 pg.evaluate("() => { const d = document.querySelector('#debug-indicator'); if (d) d.remove(); }")
                 prompt = pg.inner_text("#puzzle-prompt")
                 verdict.clear()

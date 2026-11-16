@@ -8,6 +8,8 @@ sys.path.insert(0, os.path.dirname(__file__))
 import delegate
 from ocw_generic import GenericAgent, FIND, dedupe, run, MAX_STEPS
 
+SCALE = float(os.environ.get("COORD_SCALE", 0))
+
 ACTIONS = ('{"action": "click", "element": k} | {"action": "click_point", "x": px, "y": px} | '
            '{"action": "drag", "element": k, "x": px, "y": px} | {"action": "type", "element": k, "text": "..."} | '
            '{"action": "hold", "element": k} | {"action": "stop"}')
@@ -35,6 +37,8 @@ class APIAgent(GenericAgent):
         except Exception:
             return None
         kind = a.get("action")
+        if SCALE and "x" in a and "y" in a:            # models that answer on a 0..SCALE grid whatever the prompt says (Gemini Pro)
+            a["x"], a["y"] = float(a["x"]) * im.size[0] / SCALE, float(a["y"]) * im.size[1] / SCALE
         e = els[int(a["element"]) - 1] if str(a.get("element", "")).isdigit() and 0 < int(a["element"]) <= len(els) else None
         if kind == "stop" or (kind in ("click", "drag", "type", "hold") and e is None):
             return None
