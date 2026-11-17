@@ -1,0 +1,4 @@
+2026-11-17 pre-registration: ReCAP-8B-Instruct (ReCAP-Agent/ReCAP-8B-Instruct, CAPTCHA-trained 8B GUI agent, ICML 2026) on the
+245 new OCW challenges, step by step through the unchanged ocw_api_agent.py (same prompt, screenshot + numbered elements, history,
+JSON actions) as Qwen3.5-9B step, gpt-6-luna/terra/sol and Gemini; bf16, greedy, max 512 new tokens, behind code/local_chat_server.py.
+COORD_SCALE=1000 from the synthetic red-dot test (answers 724,218 for 700/960,150/642), not from OCW. One run, all 245, reported as is.
