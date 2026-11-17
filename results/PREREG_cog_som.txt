@@ -1,0 +1,13 @@
+Pre-registered 2026-11-17 ~15:00 SGT, before any run.
+Question (reviewer r27): does Ask+Aggregate beat letting a generative VLM pick among the same candidates?
+Set: the 75 COGNITION challenges outside the main split (official full set), official scorer.
+Model: Qwen3.5-9B, greedy, thinking off, max 32 new tokens, one run.
+Routing: the frozen v17 library route of each challenge (logged skill), so only Ask+Aggregate is replaced.
+Candidates shown numbered, one generative answer per challenge:
+  rotate: reference + the same 8 rendered states (images numbered 1-8) -> one number.
+  point: picture overlaid with 6x6 numbered cells (Set-of-Mark) -> one number -> cell centre (tile under it on tiled pictures, as the library).
+  select: the same tiles, numbered -> list of numbers.
+  swap: the same 9 tiles, numbered -> two numbers.
+Unparseable answer = wrong. Compared with: library (Clef-flash) 57/75 and Qwen lib. 29/75 already reported.
+Reported whatever the result, in the held-out section.
+Amendment 15:10, before any result: OOM with full-size images; every image given to Qwen is downscaled to at most 512 px (longest side).

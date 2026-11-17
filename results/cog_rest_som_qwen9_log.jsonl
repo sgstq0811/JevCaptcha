@@ -1,0 +1,75 @@
+{"key": "Bingo/bingo18.png", "skill": "swap", "reply": "To solve this puzzle, we need to identify a row or column in the 3x3 grid that contains two identical images and one different image. By swapping", "ans": {"correct": [2, 2]}}
+{"key": "Bingo/bingo5.png", "skill": "swap", "reply": "To solve this puzzle, we need to identify a row or column in the 3x3 grid that contains two identical images and one different image. By swapping", "ans": {"correct": [2, 2]}}
+{"key": "Bingo/bingo24.png", "skill": "swap", "reply": "To solve this puzzle, we need to identify a row or column in the 3x3 grid that contains two identical images and one different image. By swapping", "ans": {"correct": [2, 2]}}
+{"key": "Bingo/bingo11.png", "skill": "swap", "reply": "To solve this puzzle, we first need to identify the content of each tile in the 3x3 grid. The tiles are numbered from 1 to ", "ans": {"correct": [2, 2]}}
+{"key": "Bingo/bingo7.png", "skill": "swap", "reply": "To solve this puzzle, we first need to identify the sequence of images as they are currently arranged in a 3x3 grid, based on the provided numbering", "ans": {"correct": [2, 2]}}
+{"key": "Place_Dot/path13.png", "skill": "point", "reply": "34\n", "ans": {"answer_type": "single_point", "point": {"x": 350.0, "y": 550.0}}}
+{"key": "Place_Dot/path17.png", "skill": "point", "reply": "11\n", "ans": {"answer_type": "single_point", "point": {"x": 450.0, "y": 150.0}}}
+{"key": "Place_Dot/path8.png", "skill": "point", "reply": "24\n", "ans": {"answer_type": "single_point", "point": {"x": 550.0, "y": 350.0}}}
+{"key": "Place_Dot/path9.png", "skill": "point", "reply": "10\n", "ans": {"answer_type": "single_point", "point": {"x": 350.0, "y": 150.0}}}
+{"key": "Place_Dot/path19.png", "skill": "point", "reply": "26\n", "ans": {"answer_type": "single_point", "point": {"x": 150.0, "y": 450.0}}}
+{"key": "Place_Dot/path4.png", "skill": "point", "reply": "34\n", "ans": {"answer_type": "single_point", "point": {"x": 350.0, "y": 550.0}}}
+{"key": "Place_Dot/path12.png", "skill": "point", "reply": "26\n", "ans": {"answer_type": "single_point", "point": {"x": 150.0, "y": 450.0}}}
+{"key": "Place_Dot/path14.png", "skill": "point", "reply": "32\n", "ans": {"answer_type": "single_point", "point": {"x": 150.0, "y": 550.0}}}
+{"key": "Place_Dot/path7.png", "skill": "point", "reply": "15\n", "ans": {"answer_type": "single_point", "point": {"x": 250.0, "y": 250.0}}}
+{"key": "Place_Dot/path21.png", "skill": "point", "reply": "12\n", "ans": {"answer_type": "single_point", "point": {"x": 550.0, "y": 150.0}}}
+{"key": "Place_Dot/path24.png", "skill": "point", "reply": "12\n", "ans": {"answer_type": "single_point", "point": {"x": 550.0, "y": 150.0}}}
+{"key": "Place_Dot/path10.png", "skill": "point", "reply": "24\n", "ans": {"answer_type": "single_point", "point": {"x": 550.0, "y": 350.0}}}
+{"key": "Rotation_Match/puzzle_cat_direction_2.json", "skill": "rotate", "reply": "1\n", "ans": {"answer_type": "rotation", "angle": 0.0}}
+{"key": "Rotation_Match/puzzle_panda_direction_4.json", "skill": "rotate", "reply": "1\n", "ans": {"answer_type": "rotation", "angle": 0.0}}
+{"key": "Rotation_Match/puzzle_sad_cat_direction_4.json", "skill": "rotate", "reply": "1\n", "ans": {"answer_type": "rotation", "angle": 0.0}}
+{"key": "Rotation_Match/puzzle_cat_direction_7.json", "skill": "rotate", "reply": "1\n", "ans": {"answer_type": "rotation", "angle": 0.0}}
+{"key": "Rotation_Match/puzzle_gold_direction_8.json", "skill": "rotate", "reply": "To solve this task, we need to find the candidate image that shows the pyramid of gold bars from the same perspective as the reference image.\n\n- The reference", "ans": null}
+{"key": "Rotation_Match/puzzle_gold_direction_7.json", "skill": "rotate", "reply": "To solve this task, we need to find the candidate image that shows the pyramid of gold bars from the same perspective as the reference image.\n\n- The reference", "ans": null}
+{"key": "Rotation_Match/puzzle_sad_cat_direction_3.json", "skill": "rotate", "reply": "1\n", "ans": {"answer_type": "rotation", "angle": 0.0}}
+{"key": "Rotation_Match/puzzle_hungry_cat_direction_6.json", "skill": "rotate", "reply": "To solve this task, we need to find the candidate image that matches the orientation of the hand in the reference image.\n\n- The reference image shows a hand", "ans": null}
+{"key": "Rotation_Match/puzzle_cat_direction_5.json", "skill": "rotate", "reply": "1\n", "ans": {"answer_type": "rotation", "angle": 0.0}}
+{"key": "Rotation_Match/puzzle_hungry_cat_direction_3.json", "skill": "rotate", "reply": "1\n", "ans": {"answer_type": "rotation", "angle": 0.0}}
+{"key": "Rotation_Match/puzzle_polarbear_direction_4.json", "skill": "rotate", "reply": "1\n", "ans": {"answer_type": "rotation", "angle": 0.0}}
+{"key": "Rotation_Match/puzzle_polarbear_direction_2.json", "skill": "rotate", "reply": "1\n", "ans": {"answer_type": "rotation", "angle": 0.0}}
+{"key": "Rotation_Match/puzzle_panda_direction_1.json", "skill": "rotate", "reply": "1\n", "ans": {"answer_type": "rotation", "angle": 0.0}}
+{"key": "Rotation_Match/puzzle_hungry_cat_direction_8.json", "skill": "rotate", "reply": "1\n", "ans": {"answer_type": "rotation", "angle": 0.0}}
+{"key": "Rotation_Match/puzzle_panda_direction_6.json", "skill": "rotate", "reply": "To solve this task, we need to analyze the orientation of the object in the reference image and find the candidate image where the object has the same orientation.\n\n", "ans": null}
+{"key": "Rotation_Match/puzzle_cat_direction_1.json", "skill": "rotate", "reply": "1\n", "ans": {"answer_type": "rotation", "angle": 0.0}}
+{"key": "Rotation_Match/puzzle_sad_cat_direction_5.json", "skill": "rotate", "reply": "1\n", "ans": {"answer_type": "rotation", "angle": 0.0}}
+{"key": "Rotation_Match/puzzle_sad_cat_direction_8.json", "skill": "rotate", "reply": "1\n", "ans": {"answer_type": "rotation", "angle": 0.0}}
+{"key": "Rotation_Match/puzzle_panda_direction_8.json", "skill": "rotate", "reply": "1\n", "ans": {"answer_type": "rotation", "angle": 0.0}}
+{"key": "Rotation_Match/puzzle_sad_cat_direction_7.json", "skill": "rotate", "reply": "1\n", "ans": {"answer_type": "rotation", "angle": 0.0}}
+{"key": "Rotation_Match/puzzle_gold_direction_5.json", "skill": "rotate", "reply": "To solve this task, we need to determine which of the candidate images (2-9) shows the pyramid of gold bars rotated to match the orientation of the", "ans": {"answer_type": "rotation", "angle": 45.0}}
+{"key": "Rotation_Match/puzzle_hungry_cat_direction_7.json", "skill": "rotate", "reply": "1\n", "ans": {"answer_type": "rotation", "angle": 0.0}}
+{"key": "Rotation_Match/puzzle_cat_direction_4.json", "skill": "rotate", "reply": "1\n", "ans": {"answer_type": "rotation", "angle": 0.0}}
+{"key": "Rotation_Match/puzzle_cat_direction_8.json", "skill": "rotate", "reply": "1\n", "ans": {"answer_type": "rotation", "angle": 0.0}}
+{"key": "Rotation_Match/puzzle_panda_direction_2.json", "skill": "rotate", "reply": "1\n", "ans": {"answer_type": "rotation", "angle": 0.0}}
+{"key": "Rotation_Match/puzzle_panda_direction_5.json", "skill": "rotate", "reply": "1\n", "ans": {"answer_type": "rotation", "angle": 0.0}}
+{"key": "Rotation_Match/puzzle_gold_direction_3.json", "skill": "rotate", "reply": "To solve this task, we need to find the candidate image that shows the pyramid of gold bars rotated to match the orientation of the hand in the reference image.", "ans": null}
+{"key": "Rotation_Match/puzzle_hungry_cat_direction_1.json", "skill": "rotate", "reply": "1\n", "ans": {"answer_type": "rotation", "angle": 0.0}}
+{"key": "Select_Animal/image21.png", "skill": "point", "reply": "21\n", "ans": {"answer_type": "multi_select", "indices": [4]}}
+{"key": "Select_Animal/image25.png", "skill": "point", "reply": "11\n", "ans": {"answer_type": "multi_select", "indices": [2]}}
+{"key": "Select_Animal/image27.png", "skill": "point", "reply": "21\n", "ans": {"answer_type": "multi_select", "indices": [4]}}
+{"key": "Select_Animal/image6.png", "skill": "point", "reply": "24\n", "ans": {"answer_type": "multi_select", "indices": [5]}}
+{"key": "Select_Animal/image20.png", "skill": "point", "reply": "26\n", "ans": {"answer_type": "multi_select", "indices": [3]}}
+{"key": "Select_Animal/image11.png", "skill": "point", "reply": "8\n", "ans": {"answer_type": "multi_select", "indices": [0]}}
+{"key": "Select_Animal/image5.png", "skill": "point", "reply": "8\n", "ans": {"answer_type": "multi_select", "indices": [0]}}
+{"key": "Select_Animal/image3.png", "skill": "point", "reply": "10\n", "ans": {"answer_type": "multi_select", "indices": [1]}}
+{"key": "Select_Animal/image16.png", "skill": "point", "reply": "30\n", "ans": {"answer_type": "multi_select", "indices": [5]}}
+{"key": "Select_Animal/image1.png", "skill": "point", "reply": "29\n", "ans": {"answer_type": "multi_select", "indices": [5]}}
+{"key": "Unusual_Detection/unusual2.png", "skill": "select", "reply": "4, 5\n", "ans": {"answer_type": "multi_select", "indices": [3, 4]}}
+{"key": "Unusual_Detection/unusual5.png", "skill": "select", "reply": "1, 3, 4\n", "ans": {"answer_type": "multi_select", "indices": [0, 2, 3]}}
+{"key": "Unusual_Detection/unusual26.png", "skill": "select", "reply": "1, 3, 5\n", "ans": {"answer_type": "multi_select", "indices": [0, 2, 4]}}
+{"key": "Unusual_Detection/unusual27.png", "skill": "select", "reply": "3, 4\n", "ans": {"answer_type": "multi_select", "indices": [2, 3]}}
+{"key": "Unusual_Detection/unusual7.png", "skill": "select", "reply": "3, 5\n", "ans": {"answer_type": "multi_select", "indices": [2, 4]}}
+{"key": "Unusual_Detection/unusual12.png", "skill": "select", "reply": "1, 5, 6\n", "ans": {"answer_type": "multi_select", "indices": [0, 4, 5]}}
+{"key": "Unusual_Detection/unusual8.png", "skill": "select", "reply": "1, 5, 6\n", "ans": {"answer_type": "multi_select", "indices": [0, 4, 5]}}
+{"key": "Unusual_Detection/unusual4.png", "skill": "select", "reply": "1, 3, 4, 5\n", "ans": {"answer_type": "multi_select", "indices": [0, 2, 3, 4]}}
+{"key": "Unusual_Detection/unusual19.png", "skill": "select", "reply": "1, 5\n", "ans": {"answer_type": "multi_select", "indices": [0, 4]}}
+{"key": "Unusual_Detection/unusual9.png", "skill": "select", "reply": "1, 3, 5\n", "ans": {"answer_type": "multi_select", "indices": [0, 2, 4]}}
+{"key": "Pick_Area/image27.png", "skill": "point", "reply": "10\n", "ans": {"answer_type": "single_point", "point": {"x": 291.6666666666667, "y": 125.0}}}
+{"key": "Pick_Area/image16.png", "skill": "point", "reply": "16\n", "ans": {"answer_type": "single_point", "point": {"x": 291.6666666666667, "y": 208.33333333333334}}}
+{"key": "Pick_Area/image13.png", "skill": "point", "reply": "21\n", "ans": {"answer_type": "single_point", "point": {"x": 208.33333333333334, "y": 291.6666666666667}}}
+{"key": "Pick_Area/image10.png", "skill": "point", "reply": "18\n", "ans": {"answer_type": "single_point", "point": {"x": 458.3333333333333, "y": 208.33333333333334}}}
+{"key": "Pick_Area/image21.png", "skill": "point", "reply": "28\n", "ans": {"answer_type": "single_point", "point": {"x": 291.6666666666667, "y": 375.0}}}
+{"key": "Pick_Area/image14.png", "skill": "point", "reply": "16\n", "ans": {"answer_type": "single_point", "point": {"x": 291.6666666666667, "y": 208.33333333333334}}}
+{"key": "Pick_Area/image22.png", "skill": "point", "reply": "15\n", "ans": {"answer_type": "single_point", "point": {"x": 208.33333333333334, "y": 208.33333333333334}}}
+{"key": "Pick_Area/image12.png", "skill": "point", "reply": "27\n", "ans": {"answer_type": "single_point", "point": {"x": 208.33333333333334, "y": 375.0}}}
+{"key": "Pick_Area/image2.png", "skill": "point", "reply": "15\n", "ans": {"answer_type": "single_point", "point": {"x": 208.33333333333334, "y": 208.33333333333334}}}
+{"key": "Pick_Area/image29.png", "skill": "point", "reply": "16\n", "ans": {"answer_type": "single_point", "point": {"x": 291.6666666666667, "y": 208.33333333333334}}}
