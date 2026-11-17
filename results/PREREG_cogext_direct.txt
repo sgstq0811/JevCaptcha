@@ -1,0 +1,1 @@
+2026-11-17: Qwen3.5-9B direct prompting (code/cog_direct.py, official system prompt + schema, as on the 75 outside-split challenges) on the 80 unseen-family challenges; one run, reported as is.
