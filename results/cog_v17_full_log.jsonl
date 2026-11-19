@@ -1,0 +1,75 @@
+{"key": "Bingo/bingo18.png", "skill": "swap", "log": "swap [1, 4]"}
+{"key": "Bingo/bingo5.png", "skill": "swap", "log": "swap [0, 6]"}
+{"key": "Bingo/bingo24.png", "skill": "swap", "log": "swap [4, 5]"}
+{"key": "Bingo/bingo11.png", "skill": "swap", "log": "swap [7, 8]"}
+{"key": "Bingo/bingo7.png", "skill": "swap", "log": "swap [2, 4]"}
+{"key": "Place_Dot/path13.png", "skill": "point", "log": "point (560, 248)"}
+{"key": "Place_Dot/path17.png", "skill": "point", "log": "point (414, 390)"}
+{"key": "Place_Dot/path8.png", "skill": "point", "log": "point (358, 473)"}
+{"key": "Place_Dot/path9.png", "skill": "point", "log": "point (501, 362)"}
+{"key": "Place_Dot/path19.png", "skill": "point", "log": "point (316, 157)"}
+{"key": "Place_Dot/path4.png", "skill": "point", "log": "point (301, 514)"}
+{"key": "Place_Dot/path12.png", "skill": "point", "log": "point (528, 92)"}
+{"key": "Place_Dot/path14.png", "skill": "point", "log": "point (464, 119)"}
+{"key": "Place_Dot/path7.png", "skill": "point", "log": "point (359, 492)"}
+{"key": "Place_Dot/path21.png", "skill": "point", "log": "point (431, 125)"}
+{"key": "Place_Dot/path24.png", "skill": "point", "log": "point (468, 116)"}
+{"key": "Place_Dot/path10.png", "skill": "point", "log": "point (502, 359)"}
+{"key": "Rotation_Match/puzzle_cat_direction_2.json", "skill": "rotate", "log": "direction 2"}
+{"key": "Rotation_Match/puzzle_panda_direction_4.json", "skill": "rotate", "log": "direction 7"}
+{"key": "Rotation_Match/puzzle_sad_cat_direction_4.json", "skill": "rotate", "log": "direction 7"}
+{"key": "Rotation_Match/puzzle_cat_direction_7.json", "skill": "rotate", "log": "direction 0"}
+{"key": "Rotation_Match/puzzle_gold_direction_8.json", "skill": "rotate", "log": "direction 4"}
+{"key": "Rotation_Match/puzzle_gold_direction_7.json", "skill": "rotate", "log": "direction 0"}
+{"key": "Rotation_Match/puzzle_sad_cat_direction_3.json", "skill": "rotate", "log": "direction 6"}
+{"key": "Rotation_Match/puzzle_hungry_cat_direction_6.json", "skill": "rotate", "log": "direction 3"}
+{"key": "Rotation_Match/puzzle_cat_direction_5.json", "skill": "rotate", "log": "direction 5"}
+{"key": "Rotation_Match/puzzle_hungry_cat_direction_3.json", "skill": "rotate", "log": "direction 6"}
+{"key": "Rotation_Match/puzzle_polarbear_direction_4.json", "skill": "rotate", "log": "direction 5"}
+{"key": "Rotation_Match/puzzle_polarbear_direction_2.json", "skill": "rotate", "log": "direction 0"}
+{"key": "Rotation_Match/puzzle_panda_direction_1.json", "skill": "rotate", "log": "direction 2"}
+{"key": "Rotation_Match/puzzle_hungry_cat_direction_8.json", "skill": "rotate", "log": "direction 4"}
+{"key": "Rotation_Match/puzzle_panda_direction_6.json", "skill": "rotate", "log": "direction 3"}
+{"key": "Rotation_Match/puzzle_cat_direction_1.json", "skill": "rotate", "log": "direction 2"}
+{"key": "Rotation_Match/puzzle_sad_cat_direction_5.json", "skill": "rotate", "log": "direction 5"}
+{"key": "Rotation_Match/puzzle_sad_cat_direction_8.json", "skill": "rotate", "log": "direction 4"}
+{"key": "Rotation_Match/puzzle_panda_direction_8.json", "skill": "rotate", "log": "direction 4"}
+{"key": "Rotation_Match/puzzle_sad_cat_direction_7.json", "skill": "rotate", "log": "direction 0"}
+{"key": "Rotation_Match/puzzle_gold_direction_5.json", "skill": "rotate", "log": "direction 5"}
+{"key": "Rotation_Match/puzzle_hungry_cat_direction_7.json", "skill": "rotate", "log": "direction 0"}
+{"key": "Rotation_Match/puzzle_cat_direction_4.json", "skill": "rotate", "log": "direction 7"}
+{"key": "Rotation_Match/puzzle_cat_direction_8.json", "skill": "rotate", "log": "direction 4"}
+{"key": "Rotation_Match/puzzle_panda_direction_2.json", "skill": "rotate", "log": "direction 2"}
+{"key": "Rotation_Match/puzzle_panda_direction_5.json", "skill": "rotate", "log": "direction 5"}
+{"key": "Rotation_Match/puzzle_gold_direction_3.json", "skill": "rotate", "log": "direction 6"}
+{"key": "Rotation_Match/puzzle_hungry_cat_direction_1.json", "skill": "rotate", "log": "direction 2"}
+{"key": "Select_Animal/image21.png", "skill": "point", "log": "point -> tile 4"}
+{"key": "Select_Animal/image25.png", "skill": "point", "log": "point -> tile 2"}
+{"key": "Select_Animal/image27.png", "skill": "point", "log": "point -> tile 4"}
+{"key": "Select_Animal/image6.png", "skill": "point", "log": "point -> tile 5"}
+{"key": "Select_Animal/image20.png", "skill": "point", "log": "point -> tile 3"}
+{"key": "Select_Animal/image11.png", "skill": "point", "log": "point -> tile 0"}
+{"key": "Select_Animal/image5.png", "skill": "point", "log": "point -> tile 0"}
+{"key": "Select_Animal/image3.png", "skill": "point", "log": "point -> tile 1"}
+{"key": "Select_Animal/image16.png", "skill": "point", "log": "point -> tile 5"}
+{"key": "Select_Animal/image1.png", "skill": "point", "log": "point -> tile 5"}
+{"key": "Unusual_Detection/unusual2.png", "skill": "select", "log": "all [3]"}
+{"key": "Unusual_Detection/unusual5.png", "skill": "select", "log": "all [0, 2]"}
+{"key": "Unusual_Detection/unusual26.png", "skill": "select", "log": "all [0, 2, 4]"}
+{"key": "Unusual_Detection/unusual27.png", "skill": "select", "log": "one [2]"}
+{"key": "Unusual_Detection/unusual7.png", "skill": "select", "log": "one [2]"}
+{"key": "Unusual_Detection/unusual12.png", "skill": "select", "log": "all [0, 4, 5]"}
+{"key": "Unusual_Detection/unusual8.png", "skill": "select", "log": "all [0, 5]"}
+{"key": "Unusual_Detection/unusual4.png", "skill": "select", "log": "all [0, 2, 3, 4]"}
+{"key": "Unusual_Detection/unusual19.png", "skill": "select", "log": "all [0, 4]"}
+{"key": "Unusual_Detection/unusual9.png", "skill": "select", "log": "one [2]"}
+{"key": "Pick_Area/image27.png", "skill": "point", "log": "point (498, 240)"}
+{"key": "Pick_Area/image16.png", "skill": "point", "log": "point (182, 129)"}
+{"key": "Pick_Area/image13.png", "skill": "point", "log": "point (498, 197)"}
+{"key": "Pick_Area/image10.png", "skill": "point", "log": "point (0, 0)"}
+{"key": "Pick_Area/image21.png", "skill": "point", "log": "point (0, 215)"}
+{"key": "Pick_Area/image14.png", "skill": "point", "log": "point (0, 0)"}
+{"key": "Pick_Area/image22.png", "skill": "point", "log": "point (0, 262)"}
+{"key": "Pick_Area/image12.png", "skill": "point", "log": "point (102, 0)"}
+{"key": "Pick_Area/image2.png", "skill": "point", "log": "point (414, 0)"}
+{"key": "Pick_Area/image29.png", "skill": "point", "log": "point (227, 0)"}

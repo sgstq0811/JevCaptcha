@@ -26,7 +26,7 @@ SKILLS = {
     "order": "click several items in the order given by a reference",
     "type": "type a number answer",
 }
-DATA = os.environ.get("COG_DATA", os.path.expanduser("~/captcha_jev/cognition/cognition-usenixsec26-artifact/captcha_data"))
+DATA = os.environ.get("COG_DATA", os.path.expanduser(os.environ.get("JEVCAPTCHA_ROOT", "~/captcha_jev") + "/cognition/cognition-usenixsec26-artifact/captcha_data"))
 GTS = {}
 
 
@@ -173,7 +173,7 @@ StaticSkills.key = None
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
-    ap.add_argument("--tasks", default=os.path.expanduser("~/captcha_jev/results/cog_tasks.json"))
+    ap.add_argument("--tasks", default=os.path.expanduser(os.environ.get("JEVCAPTCHA_ROOT", "~/captcha_jev") + "/results/cog_tasks.json"))
     ap.add_argument("--split", default="full")
     ap.add_argument("--model", default="Cloudflare/clef-flash")
     ap.add_argument("--out", required=True)

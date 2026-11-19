@@ -1,18 +1,19 @@
 """Set-of-Mark control: the frozen library's route and candidates, but a generative VLM (Qwen3.5-9B) picks among the
 numbered candidates in one answer, replacing Ask + Aggregate. See results/PREREG_cog_som.txt."""
 import os, sys, re, json, torch
-sys.path.insert(0, os.path.expanduser("~/captcha_jev/v17sync/code"))
-import cog_skills_v17 as C
+os.environ["ABL"] = "count"                      # the frozen v17 library (no count-select)
+import cog_skills as C
 from ocw_policy import grid_boxes
 from PIL import Image, ImageDraw, ImageFont
 from transformers import AutoProcessor, AutoModelForImageTextToText
 
 OUT = sys.argv[1]
-T = json.load(open(os.path.expanduser("~/captcha_jev/results/cog_tasks.json")))
+ROOT = os.path.expanduser(os.environ.get("JEVCAPTCHA_ROOT", "~/captcha_jev"))
+T = json.load(open(ROOT + "/results/cog_tasks.json"))
 main = {d["key"] for d in T["main"]}
 tasks = [d for d in T["full"] if d["key"] not in main]
 route = {}
-for l in open(os.path.expanduser("~/captcha_jev/results/cog_v17_full_log.jsonl")):
+for l in open(ROOT + "/results/cog_v17_full_log.jsonl"):
     r = json.loads(l); route[r["key"]] = r["skill"]
 
 NAME = "Qwen/Qwen3.5-9B"
