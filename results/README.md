@@ -13,8 +13,9 @@ Per-challenge outputs of the frozen library and of the baselines. `.jsonl` files
 | `mca_v17.jsonl` | MCA-Bench official test split | 414 / 2000 |
 | `hal_qf_all.jsonl` | Halligan, Qwen3.5-9B with first-token scoring | 1507 / 2600 |
 | `hal_x_*.jsonl` | crossed router x scorer on the 150 differently routed Halligan challenges | |
-| `ocw_new245_qwen.jsonl`, `cog_rest_qwen.json`, `cog_ext_qwen.json`, `mca_qwenlib.jsonl` | held-out sets, same library with Qwen3.5-9B (MCA with first-token scoring) | 96 / 245, 29 / 75, 2 / 80, 309 / 2000 |
+| `ocw_new245_qwen.jsonl`, `cog_rest_qwen.json`, `cog_ext_qwen_fix.json`, `mca_qwenlib.jsonl` | held-out sets, same library with Qwen3.5-9B (MCA with first-token scoring) | 96 / 245, 29 / 75, 25 / 80, 309 / 2000 |
 | `cog_rest_direct.json`, `mca_direct_qwen9b.jsonl` | held-out sets, Qwen3.5-9B direct prompting (MCA coordinates are 0-1000; rescale to pixels before scoring) | 18 / 75, 472 / 2000 |
-| `api_*_gpt-6-sol.*`, `api_*_gemini-3.1-pro-preview*` | held-out sets, gpt-6-sol / Gemini-3.1-Pro direct prompting (MCA Gemini coordinates rescaled to pixels in `_px`) | COGNITION outside main 41 / 30 of 75, unseen families 48 / 62 of 80, MCA 1129 / 862 of 2000 |
+| `api_*_gpt-6-sol.*`, `api_*_gemini-3.1-pro-preview*` | held-out sets, gpt-6-sol / Gemini-3.1-Pro direct prompting (Gemini coordinates rescaled to pixels in the `_px` files) | COGNITION outside main 41 / 40 of 75, unseen families 48 / 62 of 80, MCA 1129 / 862 of 2000 |
+| `ocw_new245_hyb.jsonl`, `cog_rest_hyb_gpt6.json`, `cog_ext_hyb_gpt6_fixed.json` | library with gpt-6-sol giving the click positions when the router picks point or order (`PREREG_ocw_hybrid.txt`); the OCW file holds the 93 challenges of the six families where this happens, the other 152 keep `ocw_new245_v17.jsonl` | 153 / 245, 63 / 75, 25 / 80 |
 | `ocw_new245_stepwise.jsonl` | OCW new challenges, step-wise agent | 49 / 245 |
 | `ocwnew_n_*.jsonl`, `cogrest_n_*.json`, `mca_n_*.jsonl` | held-out sets, library with one rule replaced by a naive rule (`ABL=indep/top1/gap/assign/nover`) | |
